@@ -1,0 +1,53 @@
+
+
+ISTRUZIONI PER IL COLLEGAMENTO VIA VPN ALL'ASL TO 2
+
+
+1 installare openvpn client (scaricabile gratuitamente dal sito: www.openvpn.net)
+
+2 copiare nella directory c:\programmi\openvpn\config, i files:
+	  client.txt (cofigurazione del client)
+	       *.crt  (cerificato)
+               *.key  (chiave privata)
+              ca.crt  (certificato cert. authority)
+
+3 per avviare il collegamento:
+	eseguire dal prompt di msdos> openvpn c:\programmi\openvpn\config\client.txt
+  	o far partire il servizio openvpn
+
+4 inserire la pwd al prompt di dos quando richiesta
+
+5 per chiudere il collegamento 
+	premere F4 se si è eseguito il comando da DOS
+  	o stoppare il servizio openvpn
+
+
+
+
+
+NOTE IMPORTANTI:
+
+E' possibile collegare un solo client per volta
+
+Ricordarsi di tener segreto il file *.key (chiave privata)
+
+Se il collegamento non funziona e presenta il log con la segnalazione:
+"verify your LAN/network rules" 
+aprire la porta UDP 1666 sulla rete.
+
+Se si utilizza il client Openvpn con versioni di Windows successive ad XP (vista,7 o 8), 
+le policy introdotte impediscono all'utente (anche se amministratore locale della macchina) 
+di utilizzare l'eseguibile route.exe. 
+Tale strumento è pero' necessario a Openvpn per aggiungere le route necessarie al sistema 
+in modo tale da garantire la raggiungibilità dei server tramite il tunnel vpn.
+Per cui:
+1)Per far funzionare Openvpn Client, senza dare diritti amministrativi all'utente, 
+  è sufficiente aggiungere l'utente nel gruppo (locale o di dominio) "Network Configuration Operators".
+2)Per far funzionare Openvpn Client senza intervenire sui gruppi: 
+  lanciare il client (grafico o testuale) tramite la funzionalità "run as administrator". 
+  Da notare che se si sceglie questa strada è necessario utilizzare tale funzionalità 
+  ANCHE se l'utente è già un amministratore locale della macchina.
+
+
+
+

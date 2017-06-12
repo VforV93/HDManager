@@ -1,0 +1,88 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 231 (0xe7)
+        Signature Algorithm: md5WithRSAEncryption
+        Issuer: C=IT, ST=Fe, L=Ferrara, O=Azienda USL di Ferrara/emailAddress=postmaster@ausl.fe.it
+        Validity
+            Not Before: Nov 11 10:06:10 2011 GMT
+            Not After : Dec 15 10:06:10 2012 GMT
+        Subject: C=IT, ST=Fe, L=Ferrara, O=Azienda USL di Ferrara, OU=Office, CN=noemalife_01b/emailAddress=postmaster@ausl.fe.it
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:a5:28:6d:34:7c:23:1a:4b:0e:5f:8b:3b:a1:f6:
+                    6c:76:3e:b3:ad:b1:c3:1d:f2:4c:c0:8d:a4:8c:09:
+                    8e:e6:13:90:7f:db:3c:3c:85:ea:df:91:75:4c:ed:
+                    b7:4a:ce:4b:4d:2a:53:fe:5e:08:dc:16:97:77:5e:
+                    49:16:83:0a:39:19:50:3f:11:4a:4f:05:b5:de:7a:
+                    03:d9:1d:2d:bd:4a:f3:e3:16:06:af:c0:2e:fa:00:
+                    3d:e1:8d:40:15:1a:cd:9b:d1:c0:d8:74:c6:f2:9d:
+                    ff:8a:39:a3:d0:ba:11:34:89:80:c5:0e:91:29:d6:
+                    a6:ea:2a:ce:17:5c:bf:d1:d5:7c:e6:b4:62:39:66:
+                    77:00:89:d3:71:46:90:b8:5e:2d:06:f3:ab:da:37:
+                    d8:01:28:18:6f:61:ba:c7:a3:2b:ec:d4:d4:5f:73:
+                    c1:98:15:a6:08:99:95:73:da:09:fc:98:16:47:09:
+                    89:63:33:a8:9c:96:d7:1c:69:e6:20:56:dd:af:e5:
+                    63:aa:f5:e5:84:f4:44:f8:33:d7:bc:f8:bd:02:2c:
+                    3e:ca:42:fa:57:aa:79:2e:3d:b7:80:b4:1a:b5:93:
+                    02:02:46:15:0f:1f:9a:85:6b:87:ba:63:da:65:be:
+                    e9:d8:70:68:dc:d1:8b:01:2a:c3:66:87:50:9c:6b:
+                    e7:d5
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            Netscape Comment: 
+                OpenSSL Generated Certificate
+            X509v3 Subject Key Identifier: 
+                3F:E8:57:D4:A4:50:21:4E:C6:3A:51:20:A2:D3:38:45:C2:10:96:0D
+            X509v3 Authority Key Identifier: 
+                keyid:BA:FB:C6:D6:2A:9F:33:51:41:32:4B:E0:40:DA:FD:76:99:67:40:3F
+                DirName:/C=IT/ST=Fe/L=Ferrara/O=Azienda USL di Ferrara/emailAddress=postmaster@ausl.fe.it
+                serial:89:39:CD:2D:45:C8:AC:C4
+
+    Signature Algorithm: md5WithRSAEncryption
+        70:75:ae:50:a2:7c:29:18:30:fc:da:be:66:d6:54:bc:59:f7:
+        d0:30:2a:b7:ac:58:3e:c3:40:79:ae:50:1f:44:77:b4:fe:e7:
+        fd:7f:89:e3:89:55:5b:2d:d8:0d:68:6d:5b:72:c7:58:4b:e7:
+        af:a5:6d:87:51:e8:85:7b:cb:48:44:75:ff:a4:54:98:b9:ae:
+        be:8c:34:cc:d4:16:ce:a3:90:6d:ac:06:20:6c:fa:e6:51:dd:
+        d2:be:bd:e6:e5:2e:62:7a:11:03:90:76:44:d6:57:65:09:56:
+        e9:3b:4f:c0:f4:90:77:d8:b1:9a:5f:f3:75:fd:fb:5a:2c:6a:
+        47:0b:20:cb:23:0b:09:c8:b2:8f:f9:33:dd:e7:7a:19:04:09:
+        1d:1d:cd:a2:d3:c3:3e:d1:1f:d2:94:6d:60:15:ed:ce:23:84:
+        37:20:90:20:3f:b0:7f:1b:9c:b4:9c:b6:88:1e:b2:e6:d3:e3:
+        00:eb:d9:87:f2:60:5d:70:4a:90:df:a0:dc:bf:67:aa:2f:55:
+        a4:7d:c7:d6:8e:22:ff:2f:1a:5c:3f:37:f9:6c:72:a3:25:73:
+        6f:9d:89:79:b3:7d:2a:5e:c7:6f:cd:fd:db:6d:05:66:5f:0e:
+        33:2d:54:65:b3:e0:a4:f5:57:f6:48:c2:dc:f3:bd:1c:de:25:
+        d5:dd:c6:0c
+-----BEGIN CERTIFICATE-----
+MIIEkjCCA3qgAwIBAgICAOcwDQYJKoZIhvcNAQEEBQAwczELMAkGA1UEBhMCSVQx
+CzAJBgNVBAgTAkZlMRAwDgYDVQQHEwdGZXJyYXJhMR8wHQYDVQQKExZBemllbmRh
+IFVTTCBkaSBGZXJyYXJhMSQwIgYJKoZIhvcNAQkBFhVwb3N0bWFzdGVyQGF1c2wu
+ZmUuaXQwHhcNMTExMTExMTAwNjEwWhcNMTIxMjE1MTAwNjEwWjCBnDELMAkGA1UE
+BhMCSVQxCzAJBgNVBAgTAkZlMRAwDgYDVQQHEwdGZXJyYXJhMR8wHQYDVQQKExZB
+emllbmRhIFVTTCBkaSBGZXJyYXJhMQ8wDQYDVQQLEwZPZmZpY2UxFjAUBgNVBAMU
+DW5vZW1hbGlmZV8wMWIxJDAiBgkqhkiG9w0BCQEWFXBvc3RtYXN0ZXJAYXVzbC5m
+ZS5pdDCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAKUobTR8IxpLDl+L
+O6H2bHY+s62xwx3yTMCNpIwJjuYTkH/bPDyF6t+RdUztt0rOS00qU/5eCNwWl3de
+SRaDCjkZUD8RSk8Ftd56A9kdLb1K8+MWBq/ALvoAPeGNQBUazZvRwNh0xvKd/4o5
+o9C6ETSJgMUOkSnWpuoqzhdcv9HVfOa0YjlmdwCJ03FGkLheLQbzq9o32AEoGG9h
+usejK+zU1F9zwZgVpgiZlXPaCfyYFkcJiWMzqJyW1xxp5iBW3a/lY6r15YT0RPgz
+17z4vQIsPspC+leqeS49t4C0GrWTAgJGFQ8fmoVrh7pj2mW+6dhwaNzRiwEqw2aH
+UJxr59UCAwEAAaOCAQQwggEAMAkGA1UdEwQCMAAwLAYJYIZIAYb4QgENBB8WHU9w
+ZW5TU0wgR2VuZXJhdGVkIENlcnRpZmljYXRlMB0GA1UdDgQWBBQ/6FfUpFAhTsY6
+USCi0zhFwhCWDTCBpQYDVR0jBIGdMIGagBS6+8bWKp8zUUEyS+BA2v12mWdAP6F3
+pHUwczELMAkGA1UEBhMCSVQxCzAJBgNVBAgTAkZlMRAwDgYDVQQHEwdGZXJyYXJh
+MR8wHQYDVQQKExZBemllbmRhIFVTTCBkaSBGZXJyYXJhMSQwIgYJKoZIhvcNAQkB
+FhVwb3N0bWFzdGVyQGF1c2wuZmUuaXSCCQCJOc0tRcisxDANBgkqhkiG9w0BAQQF
+AAOCAQEAcHWuUKJ8KRgw/Nq+ZtZUvFn30DAqt6xYPsNAea5QH0R3tP7n/X+J44lV
+Wy3YDWhtW3LHWEvnr6Vth1HohXvLSER1/6RUmLmuvow0zNQWzqOQbawGIGz65lHd
+0r695uUuYnoRA5B2RNZXZQlW6TtPwPSQd9ixml/zdf37WixqRwsgyyMLCciyj/kz
+3ed6GQQJHR3NotPDPtEf0pRtYBXtziOENyCQID+wfxuctJy2iB6y5tPjAOvZh/Jg
+XXBKkN+g3L9nqi9VpH3H1o4i/y8aXD83+WxyoyVzb52JebN9Kl7Hb839220FZl8O
+My1UZbPgpPVX9kjC3PO9HN4l1d3GDA==
+-----END CERTIFICATE-----

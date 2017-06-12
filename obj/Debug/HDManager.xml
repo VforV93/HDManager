@@ -1,0 +1,202 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+HDManager
+</name>
+</assembly>
+<members>
+<member name="T:HDManager.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:HDManager.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:HDManager.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:HDManager.My.Resources.Resources.stopdial">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="M:HDManager.FileHelper.GetFilesRecursive(System.String)">
+ <summary>
+ This method starts at the specified directory, and traverses all subdirectories.
+ It returns a List of those directories.
+ </summary>
+</member>
+<member name="T:HDManager.gestioneHDDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:HDManager.gestioneHDDataSet.ServerDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:HDManager.gestioneHDDataSet.IntegrazioniDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:HDManager.gestioneHDDataSet.ProdottiDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:HDManager.gestioneHDDataSet.TicketDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:HDManager.gestioneHDDataSet.howtoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:HDManager.gestioneHDDataSet.RubricaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:HDManager.gestioneHDDataSet.ServerRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:HDManager.gestioneHDDataSet.IntegrazioniRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:HDManager.gestioneHDDataSet.ProdottiRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:HDManager.gestioneHDDataSet.TicketRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:HDManager.gestioneHDDataSet.howtoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:HDManager.gestioneHDDataSet.RubricaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:HDManager.gestioneHDDataSet.ServerRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:HDManager.gestioneHDDataSet.IntegrazioniRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:HDManager.gestioneHDDataSet.ProdottiRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:HDManager.gestioneHDDataSet.TicketRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:HDManager.gestioneHDDataSet.howtoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:HDManager.gestioneHDDataSet.RubricaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:HDManager.gestioneHDDataSetTableAdapters.ServerTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:HDManager.gestioneHDDataSetTableAdapters.IntegrazioniTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:HDManager.gestioneHDDataSetTableAdapters.ProdottiTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:HDManager.gestioneHDDataSetTableAdapters.TicketTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:HDManager.gestioneHDDataSetTableAdapters.howtoTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:HDManager.gestioneHDDataSetTableAdapters.RubricaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:HDManager.gestioneHDDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:HDManager.gestioneHDDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(HDManager.gestioneHDDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:HDManager.gestioneHDDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(HDManager.gestioneHDDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:HDManager.gestioneHDDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(HDManager.gestioneHDDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:HDManager.gestioneHDDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:HDManager.gestioneHDDataSetTableAdapters.TableAdapterManager.UpdateAll(HDManager.gestioneHDDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:HDManager.gestioneHDDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:HDManager.gestioneHDDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>

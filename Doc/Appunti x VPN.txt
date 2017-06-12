@@ -1,0 +1,26 @@
+OPENVPN:
+
+1) Per quella del Sorsola hanno vari certificati...
+E ANCHE LE ALTRE PERSONALI VA FATTA PROCEDURA
+
+AGGIUNTE:
+FERRARA - to check
+
+
+CISCO:
+
+1) LANUSEI: DISMESSA (è ANCHE CONNECTION ENTRY Asl Laboratorio Analisi)
+
+2) All'evangelico è cambiata la pwd rispetto a quella del db di gestionehd
+
+6) all'auxo ci sono utilizzabili sia cisco che microsoft
+
+8) Trento ha i certificati personali - controllare se si riesce a far venire fuori il popup delle credenziali
+
+MICROSOFT:
+
+1) L'auxologico ha una microsoft e una cisco, verificare se la mic ancora funge
+
+2) Nizza come sopra
+
+3) 

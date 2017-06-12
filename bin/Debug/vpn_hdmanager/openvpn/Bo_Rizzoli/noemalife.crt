@@ -1,0 +1,64 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 224 (0xe0)
+        Signature Algorithm: md5WithRSAEncryption
+        Issuer: C=IT, ST=BO, L=BOLOGNA, O=IOR/emailAddress=postmaster@ior.it
+        Validity
+            Not Before: Aug 24 13:57:57 2012 GMT
+            Not After : Aug 24 13:57:57 2013 GMT
+        Subject: C=IT, ST=BO, O=IOR, CN=noemalife/emailAddress=postmaster@ior.it
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (1024 bit)
+                Modulus:
+                    00:db:a5:f5:72:58:eb:68:5e:48:6b:52:c9:82:97:
+                    1e:c5:18:85:f2:86:2e:5c:a6:cd:35:31:df:99:09:
+                    dd:36:56:9f:3c:d3:8f:43:2f:a7:51:67:df:d7:c8:
+                    44:9f:48:50:19:b0:bb:8d:85:f6:24:8d:e7:97:59:
+                    1b:ff:d0:c6:57:48:47:52:2f:d9:12:fa:80:d8:34:
+                    5a:72:a7:5b:c6:7b:7b:87:c9:0d:17:c1:52:86:c2:
+                    4d:a2:dd:f9:9c:c9:21:e8:91:96:fd:72:15:a0:55:
+                    58:e5:ef:72:8a:89:75:23:91:8e:4a:3d:29:5c:9e:
+                    a1:bf:db:5e:4a:f3:c1:63:9d
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            Netscape Comment: 
+                OpenSSL Generated Certificate
+            X509v3 Subject Key Identifier: 
+                AF:1E:F2:F2:1A:78:09:0C:46:15:9C:E2:AF:29:ED:AB:DF:5F:1B:21
+            X509v3 Authority Key Identifier: 
+                keyid:56:D0:46:95:FB:AD:F7:07:87:B5:01:88:BE:71:59:E3:78:F3:98:AA
+                DirName:/C=IT/ST=BO/L=BOLOGNA/O=IOR/emailAddress=postmaster@ior.it
+                serial:00
+
+    Signature Algorithm: md5WithRSAEncryption
+        be:b3:fb:03:a7:d8:92:56:34:86:a3:32:f1:e0:16:7e:9c:34:
+        c7:23:e7:ca:8c:b8:dc:1e:35:bc:fe:08:a8:91:ea:c9:c8:38:
+        1d:b7:e8:48:db:06:45:a8:12:af:55:22:99:5b:de:dc:8f:f6:
+        4e:07:a1:59:3b:aa:0b:61:2f:2d:34:65:42:47:a4:5d:f5:af:
+        86:bf:e8:9d:f1:73:1c:69:a3:cd:6e:15:9b:5c:3a:f3:2e:3f:
+        fb:f2:f7:f0:96:c0:93:a1:26:d7:61:f9:e1:e4:27:02:40:ad:
+        44:ef:bd:a8:b5:85:a8:9f:40:fd:85:f0:e2:18:01:3c:d4:d9:
+        7d:2c
+-----BEGIN CERTIFICATE-----
+MIIDFDCCAn2gAwIBAgICAOAwDQYJKoZIhvcNAQEEBQAwXDELMAkGA1UEBhMCSVQx
+CzAJBgNVBAgTAkJPMRAwDgYDVQQHEwdCT0xPR05BMQwwCgYDVQQKEwNJT1IxIDAe
+BgkqhkiG9w0BCQEWEXBvc3RtYXN0ZXJAaW9yLml0MB4XDTEyMDgyNDEzNTc1N1oX
+DTEzMDgyNDEzNTc1N1owXjELMAkGA1UEBhMCSVQxCzAJBgNVBAgTAkJPMQwwCgYD
+VQQKEwNJT1IxEjAQBgNVBAMTCW5vZW1hbGlmZTEgMB4GCSqGSIb3DQEJARYRcG9z
+dG1hc3RlckBpb3IuaXQwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBANul9XJY
+62heSGtSyYKXHsUYhfKGLlymzTUx35kJ3TZWnzzTj0Mvp1Fn39fIRJ9IUBmwu42F
+9iSN55dZG//QxldIR1Iv2RL6gNg0WnKnW8Z7e4fJDRfBUobCTaLd+ZzJIeiRlv1y
+FaBVWOXvcoqJdSORjko9KVyeob/bXkrzwWOdAgMBAAGjgeIwgd8wCQYDVR0TBAIw
+ADAsBglghkgBhvhCAQ0EHxYdT3BlblNTTCBHZW5lcmF0ZWQgQ2VydGlmaWNhdGUw
+HQYDVR0OBBYEFK8e8vIaeAkMRhWc4q8p7avfXxshMIGEBgNVHSMEfTB7gBRW0EaV
++633B4e1AYi+cVnjePOYqqFgpF4wXDELMAkGA1UEBhMCSVQxCzAJBgNVBAgTAkJP
+MRAwDgYDVQQHEwdCT0xPR05BMQwwCgYDVQQKEwNJT1IxIDAeBgkqhkiG9w0BCQEW
+EXBvc3RtYXN0ZXJAaW9yLml0ggEAMA0GCSqGSIb3DQEBBAUAA4GBAL6z+wOn2JJW
+NIajMvHgFn6cNMcj58qMuNweNbz+CKiR6snIOB236EjbBkWoEq9VIplb3tyP9k4H
+oVk7qgthLy00ZUJHpF31r4a/6J3xcxxpo81uFZtcOvMuP/vy9/CWwJOhJtdh+eHk
+JwJArUTvvai1haifQP2F8OIYATzU2X0s
+-----END CERTIFICATE-----

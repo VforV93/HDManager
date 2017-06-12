@@ -1,0 +1,87 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 699 (0x2bb)
+        Signature Algorithm: md5WithRSAEncryption
+        Issuer: C=IT, ST=PR, L=Parma, O=Ausl Parma/emailAddress=tecnico@studiostorti.com
+        Validity
+            Not Before: Apr 19 10:07:14 2012 GMT
+            Not After : Apr 29 10:07:14 2013 GMT
+        Subject: C=IT, ST=PR, L=Parma, O=Ausl Parma, OU=Serv RIT, CN=noem1_bbaraldi_9_b/emailAddress=bbaraldi@noemalife.com
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+            RSA Public Key: (2048 bit)
+                Modulus (2048 bit):
+                    00:b6:2e:c2:cc:c5:18:85:ec:2f:e2:15:af:99:7b:
+                    86:d8:8b:37:81:93:88:fd:9e:ae:80:f3:38:2f:3c:
+                    fc:a7:17:5e:11:57:94:34:7c:98:ec:05:88:82:b3:
+                    63:8e:b0:9d:57:7d:1b:b4:a3:fc:b7:70:78:02:9c:
+                    cf:9a:a2:65:40:3d:59:53:67:05:d1:2b:a6:e7:87:
+                    1c:36:8b:eb:58:fd:8a:78:c2:67:5d:15:d8:17:75:
+                    b9:cd:fd:5e:a5:6a:e0:74:23:59:cc:9f:06:29:36:
+                    28:b8:fb:8f:37:d9:4d:3c:86:d6:90:25:1f:d8:16:
+                    ed:73:c3:63:08:2b:13:e8:b0:e6:76:ff:d0:99:26:
+                    f9:5e:91:13:9b:e5:b3:55:06:71:27:6a:b0:35:c7:
+                    f5:86:1a:06:e4:f2:92:19:32:32:d6:d4:5e:c1:1d:
+                    d1:69:32:7d:f9:5c:68:51:c2:61:8a:66:98:b8:f2:
+                    e3:22:d7:61:50:7c:d3:46:54:c2:6f:82:d8:bf:21:
+                    71:08:d1:4f:65:ee:75:8b:b3:dc:1d:05:cd:eb:53:
+                    63:57:39:75:c7:46:78:69:c2:48:63:19:9f:bb:86:
+                    e3:e1:f8:29:db:b3:b3:ee:24:c6:89:75:80:80:28:
+                    17:86:ca:c0:47:fa:cd:34:42:28:af:33:82:a6:a0:
+                    11:d5
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            Netscape Comment: 
+                OpenSSL Generated Certificate
+            X509v3 Subject Key Identifier: 
+                E7:C9:E8:82:BC:A7:FC:B0:83:5C:BF:A4:2D:EE:06:39:FB:C8:AE:73
+            X509v3 Authority Key Identifier: 
+                keyid:A0:A3:30:83:8D:44:08:3B:30:98:59:19:A1:14:84:5C:7C:F3:6D:52
+                DirName:/C=IT/ST=PR/L=Parma/O=Ausl Parma/emailAddress=tecnico@studiostorti.com
+                serial:EF:B7:19:D2:1E:07:10:68
+
+    Signature Algorithm: md5WithRSAEncryption
+        20:7d:d3:55:24:54:bc:15:40:5a:ba:ca:05:44:c5:4d:ae:4c:
+        b7:32:10:5f:6d:a6:c2:ca:5a:24:3f:40:a2:66:f6:37:9d:81:
+        d8:73:5b:c2:d2:2b:d8:4f:52:f7:be:72:cb:97:60:b2:e2:d3:
+        cc:66:bf:5b:5a:47:09:40:1f:4c:d4:75:6f:11:2e:84:a0:08:
+        2e:c9:03:90:76:82:75:64:ad:6f:f1:d9:c2:f3:c7:02:3a:8c:
+        b8:fc:67:18:08:e7:80:c1:de:7b:33:92:d0:de:1d:e8:73:c9:
+        ad:8f:83:34:f0:84:a3:a0:e5:69:bf:fe:01:00:d3:b6:bd:0e:
+        f8:36:16:1c:2b:59:38:f1:cd:46:e4:df:37:69:c5:8d:83:a5:
+        15:14:a3:17:9b:26:81:a4:3e:e3:c6:78:98:d1:f4:44:0d:d1:
+        8b:57:86:3b:bc:1e:71:c9:0e:52:b6:c1:43:d6:cb:2f:22:51:
+        9e:6c:ae:ee:99:d7:c1:1a:68:13:41:cd:18:69:80:81:fa:6a:
+        9e:45:42:90:db:49:ce:f0:ac:4a:f7:8b:32:2c:82:32:16:4c:
+        bc:bf:18:4b:f2:13:51:a0:a3:f0:92:23:02:18:79:a8:44:3a:
+        ac:b8:ac:56:fb:2e:7e:86:1d:a7:56:12:90:79:fb:d5:f0:be:
+        a8:bf:96:b6
+-----BEGIN CERTIFICATE-----
+MIIEdDCCA1ygAwIBAgICArswDQYJKoZIhvcNAQEEBQAwaDELMAkGA1UEBhMCSVQx
+CzAJBgNVBAgTAlBSMQ4wDAYDVQQHEwVQYXJtYTETMBEGA1UEChMKQXVzbCBQYXJt
+YTEnMCUGCSqGSIb3DQEJARYYdGVjbmljb0BzdHVkaW9zdG9ydGkuY29tMB4XDTEy
+MDQxOTEwMDcxNFoXDTEzMDQyOTEwMDcxNFowgZYxCzAJBgNVBAYTAklUMQswCQYD
+VQQIEwJQUjEOMAwGA1UEBxMFUGFybWExEzARBgNVBAoTCkF1c2wgUGFybWExETAP
+BgNVBAsTCFNlcnYgUklUMRswGQYDVQQDFBJub2VtMV9iYmFyYWxkaV85X2IxJTAj
+BgkqhkiG9w0BCQEWFmJiYXJhbGRpQG5vZW1hbGlmZS5jb20wggEiMA0GCSqGSIb3
+DQEBAQUAA4IBDwAwggEKAoIBAQC2LsLMxRiF7C/iFa+Ze4bYizeBk4j9nq6A8zgv
+PPynF14RV5Q0fJjsBYiCs2OOsJ1XfRu0o/y3cHgCnM+aomVAPVlTZwXRK6bnhxw2
+i+tY/Yp4wmddFdgXdbnN/V6lauB0I1nMnwYpNii4+4832U08htaQJR/YFu1zw2MI
+KxPosOZ2/9CZJvlekROb5bNVBnEnarA1x/WGGgbk8pIZMjLW1F7BHdFpMn35XGhR
+wmGKZpi48uMi12FQfNNGVMJvgti/IXEI0U9l7nWLs9wdBc3rU2NXOXXHRnhpwkhj
+GZ+7huPh+Cnbs7PuJMaJdYCAKBeGysBH+s00QiivM4KmoBHVAgMBAAGjgfgwgfUw
+CQYDVR0TBAIwADAsBglghkgBhvhCAQ0EHxYdT3BlblNTTCBHZW5lcmF0ZWQgQ2Vy
+dGlmaWNhdGUwHQYDVR0OBBYEFOfJ6IK8p/ywg1y/pC3uBjn7yK5zMIGaBgNVHSME
+gZIwgY+AFKCjMIONRAg7MJhZGaEUhFx8821SoWykajBoMQswCQYDVQQGEwJJVDEL
+MAkGA1UECBMCUFIxDjAMBgNVBAcTBVBhcm1hMRMwEQYDVQQKEwpBdXNsIFBhcm1h
+MScwJQYJKoZIhvcNAQkBFhh0ZWNuaWNvQHN0dWRpb3N0b3J0aS5jb22CCQDvtxnS
+HgcQaDANBgkqhkiG9w0BAQQFAAOCAQEAIH3TVSRUvBVAWrrKBUTFTa5MtzIQX22m
+wspaJD9Aomb2N52B2HNbwtIr2E9S975yy5dgsuLTzGa/W1pHCUAfTNR1bxEuhKAI
+LskDkHaCdWStb/HZwvPHAjqMuPxnGAjngMHeezOS0N4d6HPJrY+DNPCEo6Dlab/+
+AQDTtr0O+DYWHCtZOPHNRuTfN2nFjYOlFRSjF5smgaQ+48Z4mNH0RA3Ri1eGO7we
+cckOUrbBQ9bLLyJRnmyu7pnXwRpoE0HNGGmAgfpqnkVCkNtJzvCsSveLMiyCMhZM
+vL8YS/ITUaCj8JIjAhh5qEQ6rLisVvsufoYdp1YSkHn71fC+qL+Wtg==
+-----END CERTIFICATE-----

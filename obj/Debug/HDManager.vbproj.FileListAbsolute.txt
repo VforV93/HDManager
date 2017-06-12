@@ -1,0 +1,216 @@
+C:\Users\Sax\Documents\Visual Studio 2008\Projects\Hdmanager\HdManager\bin\Debug\Interop.ADODB.dll
+C:\Users\Sax\Documents\Visual Studio 2008\Projects\Hdmanager\HdManager\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Sax\Documents\Visual Studio 2008\Projects\Hdmanager\HdManager\obj\Debug\Interop.ADODB.dll
+C:\Users\Sax\Documents\Visual Studio 2008\Projects\Hdmanager\HdManager\obj\Debug\HDManager.vbproj.ResolveComReference.cache
+C:\Users\Sax\Documents\Visual Studio 2008\Projects\Hdmanager\HdManager\obj\Debug\HDManager.vbproj.GenerateResource.Cache
+C:\Users\Sax\Documents\Visual Studio 2008\Projects\Hdmanager\HdManager\bin\Debug\HDManager.exe.config
+C:\Users\Sax\Documents\Visual Studio 2008\Projects\Hdmanager\HdManager\bin\Debug\HDManager.exe
+C:\Users\Sax\Documents\Visual Studio 2008\Projects\Hdmanager\HdManager\bin\Debug\HDManager.pdb
+C:\Users\Sax\Documents\Visual Studio 2008\Projects\Hdmanager\HdManager\bin\Debug\HDManager.xml
+C:\Users\Sax\Documents\Visual Studio 2008\Projects\Hdmanager\HdManager\obj\Debug\HDManager.Resources.resources
+C:\Users\Sax\Documents\Visual Studio 2008\Projects\Hdmanager\HdManager\obj\Debug\HDManager.exe
+C:\Users\Sax\Documents\Visual Studio 2008\Projects\Hdmanager\HdManager\obj\Debug\HDManager.xml
+C:\Users\Sax\Documents\Visual Studio 2008\Projects\Hdmanager\HdManager\obj\Debug\HDManager.pdb
+C:\Users\Sax\Documents\Visual Studio 2008\Projects\Hdmanager\HdManager\obj\Debug\HDManager.Main.resources
+C:\Users\Sax\Documents\Visual Studio 2008\Projects\Hdmanager\HdManager\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Documents and Settings\msacchetti\Documenti\Visual Studio 2008\Projects\Hdmanager\HdManager\bin\Debug\HDManager.exe.config
+C:\Documents and Settings\msacchetti\Documenti\Visual Studio 2008\Projects\Hdmanager\HdManager\obj\Debug\Interop.ADODB.dll
+C:\Documents and Settings\msacchetti\Documenti\Visual Studio 2008\Projects\Hdmanager\HdManager\obj\Debug\HDManager.vbproj.ResolveComReference.cache
+C:\Documents and Settings\msacchetti\Documenti\Visual Studio 2008\Projects\Hdmanager\HdManager\obj\Debug\HDManager.exe
+C:\Documents and Settings\msacchetti\Documenti\Visual Studio 2008\Projects\Hdmanager\HdManager\obj\Debug\HDManager.xml
+C:\Documents and Settings\msacchetti\Documenti\Visual Studio 2008\Projects\Hdmanager\HdManager\obj\Debug\HDManager.pdb
+C:\Documents and Settings\msacchetti\Documenti\Visual Studio 2008\Projects\Hdmanager\HdManager\bin\Debug\HDManager.exe
+C:\Documents and Settings\msacchetti\Documenti\Visual Studio 2008\Projects\Hdmanager\HdManager\bin\Debug\HDManager.pdb
+C:\Documents and Settings\msacchetti\Documenti\Visual Studio 2008\Projects\Hdmanager\HdManager\bin\Debug\HDManager.xml
+C:\Documents and Settings\msacchetti\Documenti\Visual Studio 2008\Projects\Hdmanager\HdManager\bin\Debug\Interop.ADODB.dll
+C:\Documents and Settings\msacchetti\Documenti\Visual Studio 2008\Projects\Hdmanager\HdManager\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\msacchetti\Documenti\Visual Studio 2008\Projects\Hdmanager\HdManager\obj\Debug\HDManager.Main.resources
+C:\Documents and Settings\msacchetti\Documenti\Visual Studio 2008\Projects\Hdmanager\HdManager\obj\Debug\HDManager.Resources.resources
+C:\Documents and Settings\msacchetti\Documenti\Visual Studio 2008\Projects\Hdmanager\HdManager\obj\Debug\HDManager.vbproj.GenerateResource.Cache
+C:\Documents and Settings\msacchetti\Documenti\Visual Studio 2008\Projects\Hdmanager\HdManager\obj\Debug\HDManager.RDP.resources
+C:\Documents and Settings\msacchetti\Documenti\Visual Studio 2008\Projects\Hdmanager\HdManager\bin\Debug\Interop.WbemScripting.dll
+C:\Documents and Settings\msacchetti\Documenti\Visual Studio 2008\Projects\Hdmanager\HdManager\obj\Debug\Interop.WbemScripting.dll
+C:\Documents and Settings\msacchetti\Documenti\Visual Studio 2008\Projects\Hdmanager\HdManager\obj\Debug\HDManager.VmHD.resources
+C:\Documents and Settings\msacchetti\Documenti\Visual Studio 2008\Projects\Hdmanager\HdManager\obj\Debug\Interop.VMwareRemoteConsoleTypeLib.dll
+C:\Documents and Settings\msacchetti\Documenti\Visual Studio 2008\Projects\Hdmanager\HdManager\obj\Debug\AxInterop.VMwareRemoteConsoleTypeLib.dll
+C:\Documents and Settings\msacchetti\Documenti\Visual Studio 2008\Projects\Hdmanager\HdManager\bin\Debug\Interop.VMwareRemoteConsoleTypeLib.dll
+C:\Documents and Settings\msacchetti\Documenti\Visual Studio 2008\Projects\Hdmanager\HdManager\bin\Debug\AxInterop.VMwareRemoteConsoleTypeLib.dll
+C:\Documents and Settings\msacchetti\Documenti\Visual Studio 2008\Projects\Hdmanager\HdManager\obj\Debug\HDManager.VMFULL.resources
+C:\Documents and Settings\msacchetti\Documenti\Visual Studio 2008\Projects\Hdmanager\HdManager\obj\Debug\HDManager.VMElenco.resources
+C:\Documents and Settings\msacchetti\Documenti\Visual Studio 2008\Projects\Hdmanager\HdManager\obj\Debug\HDManager.HowTo.resources
+C:\Documents and Settings\msacchetti\Documenti\Visual Studio 2008\Projects\Hdmanager\HdManager\bin\Debug\DatiGestioneHD.mdb
+C:\Documents and Settings\msacchetti\Documenti\Visual Studio 2008\Projects\Hdmanager\HdManager\obj\Debug\HDManager.Aggiorna.resources
+C:\Documents and Settings\msacchetti\Documenti\Visual Studio 2008\Projects\Hdmanager\HdManager\obj\Debug\HDManager.RdpUser.resources
+C:\Documents and Settings\msacchetti\Documenti\Visual Studio 2008\Projects\Hdmanager\HdManager\obj\Debug\HDManager.Passaggi.resources
+C:\Documents and Settings\msacchetti\Documenti\Visual Studio 2008\Projects\Hdmanager\HdManager\bin\Debug\Microsoft.Office.Interop.Outlook.dll
+C:\Documents and Settings\msacchetti\Documenti\Visual Studio 2008\Projects\Hdmanager\HdManager\bin\Debug\office.dll
+C:\Users\msacchetti\Documents\Visual Studio 2008\Projects\Hdmanager\HdManager\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\msacchetti\Documents\Visual Studio 2008\Projects\Hdmanager\HdManager\obj\Debug\Interop.ADODB.dll
+C:\Users\msacchetti\Documents\Visual Studio 2008\Projects\Hdmanager\HdManager\obj\Debug\Interop.WbemScripting.dll
+C:\Users\msacchetti\Documents\Visual Studio 2008\Projects\Hdmanager\HdManager\obj\Debug\HDManager.vbproj.ResolveComReference.cache
+C:\Users\msacchetti\Documents\Visual Studio 2008\Projects\Hdmanager\HdManager\obj\Debug\HDManager.Aggiorna.resources
+C:\Users\msacchetti\Documents\Visual Studio 2008\Projects\Hdmanager\HdManager\obj\Debug\HDManager.HowTo.resources
+C:\Users\msacchetti\Documents\Visual Studio 2008\Projects\Hdmanager\HdManager\obj\Debug\HDManager.Passaggi.resources
+C:\Users\msacchetti\Documents\Visual Studio 2008\Projects\Hdmanager\HdManager\obj\Debug\HDManager.RdpUser.resources
+C:\Users\msacchetti\Documents\Visual Studio 2008\Projects\Hdmanager\HdManager\obj\Debug\HDManager.VMElenco.resources
+C:\Users\msacchetti\Documents\Visual Studio 2008\Projects\Hdmanager\HdManager\obj\Debug\HDManager.VmHD.resources
+C:\Users\msacchetti\Documents\Visual Studio 2008\Projects\Hdmanager\HdManager\obj\Debug\HDManager.VMFULL.resources
+C:\Users\msacchetti\Documents\Visual Studio 2008\Projects\Hdmanager\HdManager\obj\Debug\HDManager.Main.resources
+C:\Users\msacchetti\Documents\Visual Studio 2008\Projects\Hdmanager\HdManager\obj\Debug\HDManager.Resources.resources
+C:\Users\msacchetti\Documents\Visual Studio 2008\Projects\Hdmanager\HdManager\obj\Debug\HDManager.RDP.resources
+C:\Users\msacchetti\Documents\Visual Studio 2008\Projects\Hdmanager\HdManager\obj\Debug\HDManager.vbproj.GenerateResource.Cache
+C:\Users\msacchetti\Documents\Visual Studio 2008\Projects\Hdmanager\HdManager\obj\Debug\HDManager.exe
+C:\Users\msacchetti\Documents\Visual Studio 2008\Projects\Hdmanager\HdManager\obj\Debug\HDManager.xml
+C:\Users\msacchetti\Documents\Visual Studio 2008\Projects\Hdmanager\HdManager\obj\Debug\HDManager.pdb
+C:\Users\msacchetti\Documents\Visual Studio 2008\Projects\Hdmanager\HdManager\bin\Debug\HDManager.exe.config
+C:\Users\msacchetti\Documents\Visual Studio 2008\Projects\Hdmanager\HdManager\bin\Debug\DatiGestioneHD.mdb
+C:\Users\msacchetti\Documents\Visual Studio 2008\Projects\Hdmanager\HdManager\bin\Debug\HDManager.exe
+C:\Users\msacchetti\Documents\Visual Studio 2008\Projects\Hdmanager\HdManager\bin\Debug\HDManager.pdb
+C:\Users\msacchetti\Documents\Visual Studio 2008\Projects\Hdmanager\HdManager\bin\Debug\HDManager.xml
+C:\Users\msacchetti\Documents\Visual Studio 2008\Projects\Hdmanager\HdManager\bin\Debug\Microsoft.Office.Interop.Outlook.dll
+C:\Users\msacchetti\Documents\Visual Studio 2008\Projects\Hdmanager\HdManager\bin\Debug\office.dll
+C:\Users\msacchetti\Documents\Visual Studio 2008\Projects\Hdmanager\HdManager\bin\Debug\Interop.ADODB.dll
+C:\Users\msacchetti\Documents\Visual Studio 2008\Projects\Hdmanager\HdManager\bin\Debug\Interop.WbemScripting.dll
+C:\Users\esilenzi\Documents\Visual Studio 2010\Projects\Hdmanager\HdManager\bin\Debug\DatiGestioneHD.mdb
+C:\Users\esilenzi\Documents\Visual Studio 2010\Projects\Hdmanager\HdManager\bin\Debug\HDManager.exe.config
+C:\Users\esilenzi\Documents\Visual Studio 2010\Projects\Hdmanager\HdManager\bin\Debug\HDManager.exe
+C:\Users\esilenzi\Documents\Visual Studio 2010\Projects\Hdmanager\HdManager\bin\Debug\HDManager.pdb
+C:\Users\esilenzi\Documents\Visual Studio 2010\Projects\Hdmanager\HdManager\bin\Debug\HDManager.xml
+C:\Users\esilenzi\Documents\Visual Studio 2010\Projects\Hdmanager\HdManager\bin\Debug\Interop.ADODB.dll
+C:\Users\esilenzi\Documents\Visual Studio 2010\Projects\Hdmanager\HdManager\bin\Debug\Interop.WbemScripting.dll
+C:\Users\esilenzi\Documents\Visual Studio 2010\Projects\Hdmanager\HdManager\obj\Debug\Interop.ADODB.dll
+C:\Users\esilenzi\Documents\Visual Studio 2010\Projects\Hdmanager\HdManager\obj\Debug\Interop.WbemScripting.dll
+C:\Users\esilenzi\Documents\Visual Studio 2010\Projects\Hdmanager\HdManager\obj\Debug\HDManager.vbproj.ResolveComReference.cache
+C:\Users\esilenzi\Documents\Visual Studio 2010\Projects\Hdmanager\HdManager\obj\Debug\HDManager.Aggiorna.resources
+C:\Users\esilenzi\Documents\Visual Studio 2010\Projects\Hdmanager\HdManager\obj\Debug\HDManager.HowTo.resources
+C:\Users\esilenzi\Documents\Visual Studio 2010\Projects\Hdmanager\HdManager\obj\Debug\HDManager.Passaggi.resources
+C:\Users\esilenzi\Documents\Visual Studio 2010\Projects\Hdmanager\HdManager\obj\Debug\HDManager.RdpUser.resources
+C:\Users\esilenzi\Documents\Visual Studio 2010\Projects\Hdmanager\HdManager\obj\Debug\HDManager.VMElenco.resources
+C:\Users\esilenzi\Documents\Visual Studio 2010\Projects\Hdmanager\HdManager\obj\Debug\HDManager.VmHD.resources
+C:\Users\esilenzi\Documents\Visual Studio 2010\Projects\Hdmanager\HdManager\obj\Debug\HDManager.VMFULL.resources
+C:\Users\esilenzi\Documents\Visual Studio 2010\Projects\Hdmanager\HdManager\obj\Debug\HDManager.Main.resources
+C:\Users\esilenzi\Documents\Visual Studio 2010\Projects\Hdmanager\HdManager\obj\Debug\HDManager.Resources.resources
+C:\Users\esilenzi\Documents\Visual Studio 2010\Projects\Hdmanager\HdManager\obj\Debug\HDManager.RDP.resources
+C:\Users\esilenzi\Documents\Visual Studio 2010\Projects\Hdmanager\HdManager\obj\Debug\HDManager.vbproj.GenerateResource.Cache
+C:\Users\esilenzi\Documents\Visual Studio 2010\Projects\Hdmanager\HdManager\obj\Debug\HDManager.exe
+C:\Users\esilenzi\Documents\Visual Studio 2010\Projects\Hdmanager\HdManager\obj\Debug\HDManager.xml
+C:\Users\esilenzi\Documents\Visual Studio 2010\Projects\Hdmanager\HdManager\obj\Debug\HDManager.pdb
+C:\Users\esilenzi\Documents\Visual Studio 2010\Projects\Hdmanager\HdManager\bin\Release\HDManager.exe.config
+C:\Users\esilenzi\Documents\Visual Studio 2010\Projects\Hdmanager\HdManager\bin\Release\DatiGestioneHD.mdb
+C:\Users\esilenzi\Documents\Visual Studio 2010\Projects\Hdmanager\HdManager\bin\Release\HDManager.exe
+C:\Users\esilenzi\Documents\Visual Studio 2010\Projects\Hdmanager\HdManager\bin\Release\HDManager.pdb
+C:\Users\esilenzi\Documents\Visual Studio 2010\Projects\Hdmanager\HdManager\bin\Release\HDManager.xml
+C:\Users\esilenzi\Documents\Visual Studio 2010\Projects\Hdmanager\HdManager\bin\Release\Interop.ADODB.dll
+C:\Users\esilenzi\Documents\Visual Studio 2010\Projects\Hdmanager\HdManager\bin\Release\Interop.WbemScripting.dll
+C:\Users\esilenzi\Documents\Visual Studio 2010\Projects\Hdmanager\HdManager\bin\Release\WebKitBrowser.dll
+C:\Users\esilenzi\Documents\Visual Studio 2010\Projects\Hdmanager\HdManager\bin\Release\WebKit.Interop.dll
+C:\Users\esilenzi\Documents\Visual Studio 2010\Projects\Hdmanager\HdManager\obj\Debug\HDManager.RicercaAvanzata.resources
+C:\Users\esilenzi\Documents\Visual Studio 2010\Projects\Hdmanager\HdManager\obj\Debug\HDManager.vbprojResolveAssemblyReference.cache
+C:\Users\flobue\Documents\Visual Studio 2010\Projects\Hdmanager\HdManager\bin\Release\HDManager.exe.config
+C:\Users\flobue\Documents\Visual Studio 2010\Projects\Hdmanager\HdManager\obj\Debug\Interop.ADODB.dll
+C:\Users\flobue\Documents\Visual Studio 2010\Projects\Hdmanager\HdManager\obj\Debug\Interop.WbemScripting.dll
+C:\Users\flobue\Documents\Visual Studio 2010\Projects\Hdmanager\HdManager\obj\Debug\HDManager.vbproj.ResolveComReference.cache
+C:\Users\flobue\Documents\Visual Studio 2010\Projects\Hdmanager\HdManager\obj\Debug\HDManager.exe
+C:\Users\flobue\Documents\Visual Studio 2010\Projects\Hdmanager\HdManager\obj\Debug\HDManager.xml
+C:\Users\flobue\Documents\Visual Studio 2010\Projects\Hdmanager\HdManager\obj\Debug\HDManager.pdb
+C:\Users\flobue\Documents\Visual Studio 2010\Projects\Hdmanager\HdManager\bin\Release\DatiGestioneHD.mdb
+C:\Users\flobue\Documents\Visual Studio 2010\Projects\Hdmanager\HdManager\bin\Release\HDManager.exe
+C:\Users\flobue\Documents\Visual Studio 2010\Projects\Hdmanager\HdManager\bin\Release\HDManager.pdb
+C:\Users\flobue\Documents\Visual Studio 2010\Projects\Hdmanager\HdManager\bin\Release\HDManager.xml
+C:\Users\flobue\Documents\Visual Studio 2010\Projects\Hdmanager\HdManager\bin\Release\WebKitBrowser.dll
+C:\Users\flobue\Documents\Visual Studio 2010\Projects\Hdmanager\HdManager\bin\Release\WebKit.Interop.dll
+C:\Users\flobue\Documents\Visual Studio 2010\Projects\Hdmanager\HdManager\bin\Release\Interop.ADODB.dll
+C:\Users\flobue\Documents\Visual Studio 2010\Projects\Hdmanager\HdManager\bin\Release\Interop.WbemScripting.dll
+C:\Users\flobue\Documents\Visual Studio 2010\Projects\Hdmanager\HdManager\obj\Debug\HDManager.vbprojResolveAssemblyReference.cache
+C:\Users\flobue\Documents\Visual Studio 2010\Projects\Hdmanager\HdManager\obj\Debug\HDManager.Aggiorna.resources
+C:\Users\flobue\Documents\Visual Studio 2010\Projects\Hdmanager\HdManager\obj\Debug\HDManager.RicercaAvanzata.resources
+C:\Users\flobue\Documents\Visual Studio 2010\Projects\Hdmanager\HdManager\obj\Debug\HDManager.HowTo.resources
+C:\Users\flobue\Documents\Visual Studio 2010\Projects\Hdmanager\HdManager\obj\Debug\HDManager.Passaggi.resources
+C:\Users\flobue\Documents\Visual Studio 2010\Projects\Hdmanager\HdManager\obj\Debug\HDManager.RdpUser.resources
+C:\Users\flobue\Documents\Visual Studio 2010\Projects\Hdmanager\HdManager\obj\Debug\HDManager.VMElenco.resources
+C:\Users\flobue\Documents\Visual Studio 2010\Projects\Hdmanager\HdManager\obj\Debug\HDManager.VmHD.resources
+C:\Users\flobue\Documents\Visual Studio 2010\Projects\Hdmanager\HdManager\obj\Debug\HDManager.VMFULL.resources
+C:\Users\flobue\Documents\Visual Studio 2010\Projects\Hdmanager\HdManager\obj\Debug\HDManager.Main.resources
+C:\Users\flobue\Documents\Visual Studio 2010\Projects\Hdmanager\HdManager\obj\Debug\HDManager.Resources.resources
+C:\Users\flobue\Documents\Visual Studio 2010\Projects\Hdmanager\HdManager\obj\Debug\HDManager.RDP.resources
+C:\Users\flobue\Documents\Visual Studio 2010\Projects\Hdmanager\HdManager\obj\Debug\HDManager.vbproj.GenerateResource.Cache
+C:\Users\flobue\Documents\Visual Studio 2010\Projects\Hdmanager_restailing\HdManager\bin\Release\HDManager.exe.config
+C:\Users\flobue\Documents\Visual Studio 2010\Projects\Hdmanager_restailing\HdManager\obj\Debug\Interop.ADODB.dll
+C:\Users\flobue\Documents\Visual Studio 2010\Projects\Hdmanager_restailing\HdManager\obj\Debug\Interop.WbemScripting.dll
+C:\Users\flobue\Documents\Visual Studio 2010\Projects\Hdmanager_restailing\HdManager\obj\Debug\HDManager.vbproj.ResolveComReference.cache
+C:\Users\flobue\Documents\Visual Studio 2010\Projects\Hdmanager_restailing\HdManager\obj\Debug\HDManager.exe
+C:\Users\flobue\Documents\Visual Studio 2010\Projects\Hdmanager_restailing\HdManager\obj\Debug\HDManager.xml
+C:\Users\flobue\Documents\Visual Studio 2010\Projects\Hdmanager_restailing\HdManager\obj\Debug\HDManager.pdb
+C:\Users\flobue\Documents\Visual Studio 2010\Projects\Hdmanager_restailing\HdManager\bin\Release\DatiGestioneHD.mdb
+C:\Users\flobue\Documents\Visual Studio 2010\Projects\Hdmanager_restailing\HdManager\bin\Release\HDManager.exe
+C:\Users\flobue\Documents\Visual Studio 2010\Projects\Hdmanager_restailing\HdManager\bin\Release\HDManager.pdb
+C:\Users\flobue\Documents\Visual Studio 2010\Projects\Hdmanager_restailing\HdManager\bin\Release\HDManager.xml
+C:\Users\flobue\Documents\Visual Studio 2010\Projects\Hdmanager_restailing\HdManager\bin\Release\WebKitBrowser.dll
+C:\Users\flobue\Documents\Visual Studio 2010\Projects\Hdmanager_restailing\HdManager\bin\Release\WebKit.Interop.dll
+C:\Users\flobue\Documents\Visual Studio 2010\Projects\Hdmanager_restailing\HdManager\bin\Release\Interop.ADODB.dll
+C:\Users\flobue\Documents\Visual Studio 2010\Projects\Hdmanager_restailing\HdManager\bin\Release\Interop.WbemScripting.dll
+C:\Users\flobue\Documents\Visual Studio 2010\Projects\Hdmanager_restailing\HdManager\obj\Debug\HDManager.vbprojResolveAssemblyReference.cache
+C:\Users\flobue\Documents\Visual Studio 2010\Projects\Hdmanager_restailing\HdManager\obj\Debug\HDManager.Aggiorna.resources
+C:\Users\flobue\Documents\Visual Studio 2010\Projects\Hdmanager_restailing\HdManager\obj\Debug\HDManager.RicercaAvanzata.resources
+C:\Users\flobue\Documents\Visual Studio 2010\Projects\Hdmanager_restailing\HdManager\obj\Debug\HDManager.HowTo.resources
+C:\Users\flobue\Documents\Visual Studio 2010\Projects\Hdmanager_restailing\HdManager\obj\Debug\HDManager.Passaggi.resources
+C:\Users\flobue\Documents\Visual Studio 2010\Projects\Hdmanager_restailing\HdManager\obj\Debug\HDManager.RdpUser.resources
+C:\Users\flobue\Documents\Visual Studio 2010\Projects\Hdmanager_restailing\HdManager\obj\Debug\HDManager.VMElenco.resources
+C:\Users\flobue\Documents\Visual Studio 2010\Projects\Hdmanager_restailing\HdManager\obj\Debug\HDManager.VmHD.resources
+C:\Users\flobue\Documents\Visual Studio 2010\Projects\Hdmanager_restailing\HdManager\obj\Debug\HDManager.VMFULL.resources
+C:\Users\flobue\Documents\Visual Studio 2010\Projects\Hdmanager_restailing\HdManager\obj\Debug\HDManager.Main.resources
+C:\Users\flobue\Documents\Visual Studio 2010\Projects\Hdmanager_restailing\HdManager\obj\Debug\HDManager.Resources.resources
+C:\Users\flobue\Documents\Visual Studio 2010\Projects\Hdmanager_restailing\HdManager\obj\Debug\HDManager.RDP.resources
+C:\Users\flobue\Documents\Visual Studio 2010\Projects\Hdmanager_restailing\HdManager\obj\Debug\HDManager.vbproj.GenerateResource.Cache
+C:\Users\FilippoLB\Documents\Visual Studio 2015\Projects\Hdmanager_restailing\HdManager\bin\Release\HDManager.exe.config
+C:\Users\FilippoLB\Documents\Visual Studio 2015\Projects\Hdmanager_restailing\HdManager\obj\Debug\Interop.WbemScripting.dll
+C:\Users\FilippoLB\Documents\Visual Studio 2015\Projects\Hdmanager_restailing\HdManager\obj\Debug\HDManager.vbproj.ResolveComReference.cache
+C:\Users\FilippoLB\Documents\Visual Studio 2015\Projects\Hdmanager_restailing\HdManager\obj\Debug\HDManager.exe
+C:\Users\FilippoLB\Documents\Visual Studio 2015\Projects\Hdmanager_restailing\HdManager\obj\Debug\HDManager.xml
+C:\Users\FilippoLB\Documents\Visual Studio 2015\Projects\Hdmanager_restailing\HdManager\obj\Debug\HDManager.pdb
+C:\Users\FilippoLB\Documents\Visual Studio 2015\Projects\Hdmanager_restailing\HdManager\bin\Release\DatiGestioneHD.mdb
+C:\Users\FilippoLB\Documents\Visual Studio 2015\Projects\Hdmanager_restailing\HdManager\bin\Release\HDManager.exe
+C:\Users\FilippoLB\Documents\Visual Studio 2015\Projects\Hdmanager_restailing\HdManager\bin\Release\HDManager.pdb
+C:\Users\FilippoLB\Documents\Visual Studio 2015\Projects\Hdmanager_restailing\HdManager\bin\Release\HDManager.xml
+C:\Users\FilippoLB\Documents\Visual Studio 2015\Projects\Hdmanager_restailing\HdManager\bin\Release\WebKit.Interop.dll
+C:\Users\FilippoLB\Documents\Visual Studio 2015\Projects\Hdmanager_restailing\HdManager\bin\Release\stdole.dll
+C:\Users\FilippoLB\Documents\Visual Studio 2015\Projects\Hdmanager_restailing\HdManager\bin\Release\Interop.WbemScripting.dll
+C:\Users\FilippoLB\Documents\Visual Studio 2015\Projects\Hdmanager_restailing\HdManager\obj\Debug\HDManager.vbprojResolveAssemblyReference.cache
+C:\Users\FilippoLB\Documents\Visual Studio 2015\Projects\Hdmanager_restailing\HdManager\obj\Debug\HDManager.Aggiorna.resources
+C:\Users\FilippoLB\Documents\Visual Studio 2015\Projects\Hdmanager_restailing\HdManager\obj\Debug\HDManager.RicercaAvanzata.resources
+C:\Users\FilippoLB\Documents\Visual Studio 2015\Projects\Hdmanager_restailing\HdManager\obj\Debug\HDManager.HowTo.resources
+C:\Users\FilippoLB\Documents\Visual Studio 2015\Projects\Hdmanager_restailing\HdManager\obj\Debug\HDManager.Passaggi.resources
+C:\Users\FilippoLB\Documents\Visual Studio 2015\Projects\Hdmanager_restailing\HdManager\obj\Debug\HDManager.RdpUser.resources
+C:\Users\FilippoLB\Documents\Visual Studio 2015\Projects\Hdmanager_restailing\HdManager\obj\Debug\HDManager.VMElenco.resources
+C:\Users\FilippoLB\Documents\Visual Studio 2015\Projects\Hdmanager_restailing\HdManager\obj\Debug\HDManager.VmHD.resources
+C:\Users\FilippoLB\Documents\Visual Studio 2015\Projects\Hdmanager_restailing\HdManager\obj\Debug\HDManager.VMFULL.resources
+C:\Users\FilippoLB\Documents\Visual Studio 2015\Projects\Hdmanager_restailing\HdManager\obj\Debug\HDManager.Main.resources
+C:\Users\FilippoLB\Documents\Visual Studio 2015\Projects\Hdmanager_restailing\HdManager\obj\Debug\HDManager.Resources.resources
+C:\Users\FilippoLB\Documents\Visual Studio 2015\Projects\Hdmanager_restailing\HdManager\obj\Debug\HDManager.RDP.resources
+C:\Users\FilippoLB\Documents\Visual Studio 2015\Projects\Hdmanager_restailing\HdManager\obj\Debug\HDManager.vbproj.GenerateResource.Cache
+C:\Users\flobue\Documents\Visual Studio 2015\Projects\HdManager\bin\Release\HDManager.exe.config
+C:\Users\flobue\Documents\Visual Studio 2015\Projects\HdManager\obj\Debug\Interop.WbemScripting.dll
+C:\Users\flobue\Documents\Visual Studio 2015\Projects\HdManager\obj\Debug\HDManager.vbproj.ResolveComReference.cache
+C:\Users\flobue\Documents\Visual Studio 2015\Projects\HdManager\obj\Debug\HDManager.exe
+C:\Users\flobue\Documents\Visual Studio 2015\Projects\HdManager\obj\Debug\HDManager.xml
+C:\Users\flobue\Documents\Visual Studio 2015\Projects\HdManager\obj\Debug\HDManager.pdb
+C:\Users\flobue\Documents\Visual Studio 2015\Projects\HdManager\bin\Release\DatiGestioneHD.mdb
+C:\Users\flobue\Documents\Visual Studio 2015\Projects\HdManager\bin\Release\HDManager.exe
+C:\Users\flobue\Documents\Visual Studio 2015\Projects\HdManager\bin\Release\HDManager.pdb
+C:\Users\flobue\Documents\Visual Studio 2015\Projects\HdManager\bin\Release\HDManager.xml
+C:\Users\flobue\Documents\Visual Studio 2015\Projects\HdManager\bin\Release\WebKit.Interop.dll
+C:\Users\flobue\Documents\Visual Studio 2015\Projects\HdManager\bin\Release\stdole.dll
+C:\Users\flobue\Documents\Visual Studio 2015\Projects\HdManager\bin\Release\Interop.WbemScripting.dll
+C:\Users\flobue\Documents\Visual Studio 2015\Projects\HdManager\obj\Debug\HDManager.vbprojResolveAssemblyReference.cache
+C:\Users\flobue\Documents\Visual Studio 2015\Projects\HdManager\obj\Debug\HDManager.Aggiorna.resources
+C:\Users\flobue\Documents\Visual Studio 2015\Projects\HdManager\obj\Debug\HDManager.RicercaAvanzata.resources
+C:\Users\flobue\Documents\Visual Studio 2015\Projects\HdManager\obj\Debug\HDManager.HowTo.resources
+C:\Users\flobue\Documents\Visual Studio 2015\Projects\HdManager\obj\Debug\HDManager.Passaggi.resources
+C:\Users\flobue\Documents\Visual Studio 2015\Projects\HdManager\obj\Debug\HDManager.RdpUser.resources
+C:\Users\flobue\Documents\Visual Studio 2015\Projects\HdManager\obj\Debug\HDManager.VMElenco.resources
+C:\Users\flobue\Documents\Visual Studio 2015\Projects\HdManager\obj\Debug\HDManager.VmHD.resources
+C:\Users\flobue\Documents\Visual Studio 2015\Projects\HdManager\obj\Debug\HDManager.VMFULL.resources
+C:\Users\flobue\Documents\Visual Studio 2015\Projects\HdManager\obj\Debug\HDManager.Main.resources
+C:\Users\flobue\Documents\Visual Studio 2015\Projects\HdManager\obj\Debug\HDManager.Resources.resources
+C:\Users\flobue\Documents\Visual Studio 2015\Projects\HdManager\obj\Debug\HDManager.RDP.resources
+C:\Users\flobue\Documents\Visual Studio 2015\Projects\HdManager\obj\Debug\HDManager.vbproj.GenerateResource.Cache

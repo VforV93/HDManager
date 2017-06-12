@@ -1,0 +1,67 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 13 (0xd)
+        Signature Algorithm: md5WithRSAEncryption
+        Issuer: C=IT, ST=LU, L=VERSILIA, O=OpenVPN-AUSL12-VG, CN=AUSL12VPN/emailAddress=g.beani@usl12.toscana.it
+        Validity
+            Not Before: Jun 26 08:12:39 2008 GMT
+            Not After : Jun 24 08:12:39 2018 GMT
+        Subject: C=IT, ST=LU, O=OpenVPN-AUSL12-VG, CN=NOEMATICA2/emailAddress=dangeletti@noemalife.com
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+            RSA Public Key: (1024 bit)
+                Modulus (1024 bit):
+                    00:ca:4b:47:22:45:99:bd:6a:ee:6c:47:8e:29:2d:
+                    c6:34:a9:01:80:92:e0:3a:55:e8:43:f1:4a:3d:e9:
+                    b9:07:85:08:a7:1c:db:4a:ec:8e:80:17:ab:80:dc:
+                    55:f1:be:3e:33:de:f4:a0:11:14:3f:f8:d8:6f:47:
+                    f5:5a:5b:16:5a:34:53:25:bd:a0:e4:25:44:63:5a:
+                    cd:ec:03:0a:d2:dd:77:6e:4c:5e:50:78:ae:05:45:
+                    b1:5f:63:58:17:fb:93:ab:6e:4b:05:51:e1:eb:c1:
+                    53:1f:cf:57:b9:1e:de:f4:57:af:f0:46:c7:ee:01:
+                    e2:93:bc:93:3b:2f:b6:a7:c1
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            Netscape Comment: 
+                OpenSSL Generated Certificate
+            X509v3 Subject Key Identifier: 
+                4B:8A:41:E6:D8:64:08:12:4A:61:7C:FE:08:BF:08:F3:3D:88:4D:7A
+            X509v3 Authority Key Identifier: 
+                keyid:80:51:1F:40:65:CD:F0:53:25:35:1E:36:6A:E1:E8:33:25:60:2B:54
+                DirName:/C=IT/ST=LU/L=VERSILIA/O=OpenVPN-AUSL12-VG/CN=AUSL12VPN/emailAddress=g.beani@usl12.toscana.it
+                serial:9C:FD:C5:9E:27:F4:AF:7D
+
+    Signature Algorithm: md5WithRSAEncryption
+        61:30:f5:3f:32:c4:ea:38:75:66:db:f3:38:b6:c1:d1:43:da:
+        9b:31:a9:d9:2f:b4:3e:4a:a6:83:42:55:0d:f2:f2:6a:91:4a:
+        48:c4:5a:38:0a:6b:ce:6b:df:23:02:23:a0:5a:b1:a6:ac:6d:
+        97:4a:41:d3:67:25:ce:67:06:fa:9b:61:c4:77:45:85:bf:e8:
+        5a:39:fc:f4:19:8e:5a:f7:c9:73:45:1d:49:4d:cf:93:3a:59:
+        75:76:54:25:9d:d7:62:95:df:88:72:58:44:40:64:04:c2:f1:
+        ce:49:36:41:39:64:58:ef:7a:31:60:ad:26:ad:73:8f:5c:61:
+        95:02
+-----BEGIN CERTIFICATE-----
+MIIDjTCCAvagAwIBAgIBDTANBgkqhkiG9w0BAQQFADCBhjELMAkGA1UEBhMCSVQx
+CzAJBgNVBAgTAkxVMREwDwYDVQQHEwhWRVJTSUxJQTEaMBgGA1UEChMRT3BlblZQ
+Ti1BVVNMMTItVkcxEjAQBgNVBAMTCUFVU0wxMlZQTjEnMCUGCSqGSIb3DQEJARYY
+Zy5iZWFuaUB1c2wxMi50b3NjYW5hLml0MB4XDTA4MDYyNjA4MTIzOVoXDTE4MDYy
+NDA4MTIzOVowdDELMAkGA1UEBhMCSVQxCzAJBgNVBAgTAkxVMRowGAYDVQQKExFP
+cGVuVlBOLUFVU0wxMi1WRzETMBEGA1UEAxMKTk9FTUFUSUNBMjEnMCUGCSqGSIb3
+DQEJARYYZGFuZ2VsZXR0aUBub2VtYWxpZmUuY29tMIGfMA0GCSqGSIb3DQEBAQUA
+A4GNADCBiQKBgQDKS0ciRZm9au5sR44pLcY0qQGAkuA6VehD8Uo96bkHhQinHNtK
+7I6AF6uA3FXxvj4z3vSgERQ/+NhvR/VaWxZaNFMlvaDkJURjWs3sAwrS3XduTF5Q
+eK4FRbFfY1gX+5OrbksFUeHrwVMfz1e5Ht70V6/wRsfuAeKTvJM7L7anwQIDAQAB
+o4IBGjCCARYwCQYDVR0TBAIwADAsBglghkgBhvhCAQ0EHxYdT3BlblNTTCBHZW5l
+cmF0ZWQgQ2VydGlmaWNhdGUwHQYDVR0OBBYEFEuKQebYZAgSSmF8/gi/CPM9iE16
+MIG7BgNVHSMEgbMwgbCAFIBRH0BlzfBTJTUeNmrh6DMlYCtUoYGMpIGJMIGGMQsw
+CQYDVQQGEwJJVDELMAkGA1UECBMCTFUxETAPBgNVBAcTCFZFUlNJTElBMRowGAYD
+VQQKExFPcGVuVlBOLUFVU0wxMi1WRzESMBAGA1UEAxMJQVVTTDEyVlBOMScwJQYJ
+KoZIhvcNAQkBFhhnLmJlYW5pQHVzbDEyLnRvc2NhbmEuaXSCCQCc/cWeJ/SvfTAN
+BgkqhkiG9w0BAQQFAAOBgQBhMPU/MsTqOHVm2/M4tsHRQ9qbManZL7Q+SqaDQlUN
+8vJqkUpIxFo4CmvOa98jAiOgWrGmrG2XSkHTZyXOZwb6m2HEd0WFv+haOfz0GY5a
+98lzRR1JTc+TOll1dlQlnddild+IclhEQGQEwvHOSTZBOWRY73oxYK0mrXOPXGGV
+Ag==
+-----END CERTIFICATE-----

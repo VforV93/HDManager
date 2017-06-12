@@ -1,0 +1,80 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 791230329 (0x2f293779)
+        Signature Algorithm: md5WithRSAEncryption
+        Issuer: CN=ca.does.not.exists, C=IT, ST=Palermo, L=Cefal?, O=HSR Giglio, OU=20a0da93c74dd5a7/dnQualifier=certificateAuthority
+        Validity
+            Not Before: Dec  2 13:26:55 2009 GMT
+            Not After : Nov 30 13:26:55 2019 GMT
+        Subject: C=IT, ST=Palermo, O=HSR Giglio, OU=20a0da93c74dd5a7, CN=noemalife/dnQualifier=client
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+            RSA Public Key: (1536 bit)
+                Modulus (1536 bit):
+                    00:c4:93:b2:c6:8f:01:d2:75:59:4d:cf:73:b5:95:
+                    20:c9:6a:ad:a1:ef:d8:d2:e3:c2:4b:2d:b5:74:bd:
+                    b6:56:9e:ce:db:92:bb:32:71:91:ad:6a:52:79:85:
+                    32:f6:e3:d2:1c:ad:f6:cf:96:d6:50:e5:7c:8a:ad:
+                    bf:e1:b2:a7:99:06:2e:a6:98:bf:95:13:ec:3e:86:
+                    b3:c6:3c:7e:8e:21:dc:a5:8a:23:c5:c2:42:ef:39:
+                    94:b9:f9:a3:f1:30:f0:8e:d1:38:51:b1:d5:86:d8:
+                    88:90:39:9b:27:fe:2c:57:6a:e6:0f:18:3b:34:6c:
+                    e3:34:9c:a5:a5:60:1c:47:ee:8a:35:c8:6d:0d:cb:
+                    19:d9:bb:08:07:62:26:56:1f:e6:11:24:99:e5:e4:
+                    df:29:b8:2b:7a:6d:08:55:56:f0:1f:24:08:26:5c:
+                    15:b1:19:c4:9e:4b:1e:e1:60:38:b2:eb:62:1a:03:
+                    43:cd:d5:c9:3a:6c:9d:e0:66:c4:35:63:f9
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            Netscape Cert Type: 
+                SSL Client
+            Netscape Comment: 
+                OpenSSL Generated Certificate
+            X509v3 Subject Key Identifier: 
+                76:0E:34:10:37:39:16:37:1F:C4:84:96:B3:C7:1C:FB:59:49:A1:88
+            X509v3 Authority Key Identifier: 
+                keyid:A9:86:A6:66:C7:A6:0D:54:C1:03:DB:E4:0E:D9:B5:50:A8:7A:CB:33
+                DirName:/CN=ca.does.not.exists/C=IT/ST=Palermo/L=Cefal?/O=HSR Giglio/OU=20a0da93c74dd5a7/dnQualifier=certificateAuthority
+                serial:C1:08:0E:B2:55:D7:34:1A
+
+    Signature Algorithm: md5WithRSAEncryption
+        05:b1:48:f9:4b:cc:d9:2b:36:a5:0b:2c:7e:23:79:8f:fb:72:
+        f9:3a:d9:cf:55:46:9d:d5:d3:f9:e8:49:5b:94:71:4f:91:2a:
+        ef:26:0f:49:34:31:8e:65:4f:d9:b3:89:74:57:44:e8:ae:d9:
+        85:84:05:6a:c5:7b:9d:1d:1a:8a:2b:e8:ba:93:b7:99:34:6a:
+        12:d5:e0:2d:e5:39:e1:91:6a:9a:e1:a1:bb:66:3b:2d:d1:82:
+        ef:09:af:e6:78:76:af:fd:93:7f:6a:e4:52:7a:60:d4:d3:58:
+        3e:99:0f:49:2c:0d:0c:94:44:db:27:93:5b:45:10:76:8c:fa:
+        d2:c4:c4:0f:e7:e6:05:bb:8c:ba:84:6f:a3:24:32:39:b0:76:
+        0e:d9:20:82:86:9d:17:15:9a:c1:66:3b:41:5c:36:15:1e:26:
+        d6:59:98:d5:a1:dc:ad:4b:0a:d7:a0:3f:5e:98:d9:ed:d7:bd:
+        0c:4b:fd:97:c0:27:c1:b1:9f:f7:6b:31
+-----BEGIN CERTIFICATE-----
+MIIETzCCA3igAwIBAgIELyk3eTANBgkqhkiG9w0BAQQFADCBnDEbMBkGA1UEAxMS
+Y2EuZG9lcy5ub3QuZXhpc3RzMQswCQYDVQQGEwJJVDEQMA4GA1UECBMHUGFsZXJt
+bzEPMA0GA1UEBxMGQ2VmYWw/MRMwEQYDVQQKEwpIU1IgR2lnbGlvMRkwFwYDVQQL
+ExAyMGEwZGE5M2M3NGRkNWE3MR0wGwYDVQQuExRjZXJ0aWZpY2F0ZUF1dGhvcml0
+eTAeFw0wOTEyMDIxMzI2NTVaFw0xOTExMzAxMzI2NTVaMHQxCzAJBgNVBAYTAklU
+MRAwDgYDVQQIEwdQYWxlcm1vMRMwEQYDVQQKEwpIU1IgR2lnbGlvMRkwFwYDVQQL
+ExAyMGEwZGE5M2M3NGRkNWE3MRIwEAYDVQQDEwlub2VtYWxpZmUxDzANBgNVBC4T
+BmNsaWVudDCB3zANBgkqhkiG9w0BAQEFAAOBzQAwgckCgcEAxJOyxo8B0nVZTc9z
+tZUgyWqtoe/Y0uPCSy21dL22Vp7O25K7MnGRrWpSeYUy9uPSHK32z5bWUOV8iq2/
+4bKnmQYuppi/lRPsPoazxjx+jiHcpYojxcJC7zmUufmj8TDwjtE4UbHVhtiIkDmb
+J/4sV2rmDxg7NGzjNJylpWAcR+6KNchtDcsZ2bsIB2ImVh/mESSZ5eTfKbgrem0I
+VVbwHyQIJlwVsRnEnkse4WA4sutiGgNDzdXJOmyd4GbENWP5AgMBAAGjggFDMIIB
+PzAJBgNVHRMEAjAAMBEGCWCGSAGG+EIBAQQEAwIHgDAsBglghkgBhvhCAQ0EHxYd
+T3BlblNTTCBHZW5lcmF0ZWQgQ2VydGlmaWNhdGUwHQYDVR0OBBYEFHYONBA3ORY3
+H8SElrPHHPtZSaGIMIHRBgNVHSMEgckwgcaAFKmGpmbHpg1UwQPb5A7ZtVCoessz
+oYGipIGfMIGcMRswGQYDVQQDExJjYS5kb2VzLm5vdC5leGlzdHMxCzAJBgNVBAYT
+AklUMRAwDgYDVQQIEwdQYWxlcm1vMQ8wDQYDVQQHEwZDZWZhbD8xEzARBgNVBAoT
+CkhTUiBHaWdsaW8xGTAXBgNVBAsTEDIwYTBkYTkzYzc0ZGQ1YTcxHTAbBgNVBC4T
+FGNlcnRpZmljYXRlQXV0aG9yaXR5ggkAwQgOslXXNBowDQYJKoZIhvcNAQEEBQAD
+gcEABbFI+UvM2Ss2pQssfiN5j/ty+TrZz1VGndXT+ehJW5RxT5Eq7yYPSTQxjmVP
+2bOJdFdE6K7ZhYQFasV7nR0aiivoupO3mTRqEtXgLeU54ZFqmuGhu2Y7LdGC7wmv
+5nh2r/2Tf2rkUnpg1NNYPpkPSSwNDJRE2yeTW0UQdoz60sTED+fmBbuMuoRvoyQy
+ObB2DtkggoadFxWawWY7QVw2FR4m1lmY1aHcrUsK16A/XpjZ7de9DEv9l8AnwbGf
+92sx
+-----END CERTIFICATE-----

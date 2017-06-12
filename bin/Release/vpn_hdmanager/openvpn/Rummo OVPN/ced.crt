@@ -1,0 +1,73 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 2 (0x2)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=IT, ST=Italy, L=Benevento, O=Rummo, OU=changeme, CN=changeme/name=changeme/emailAddress=ced@ao-rummo.it
+        Validity
+            Not Before: Nov 28 12:29:41 2013 GMT
+            Not After : Nov 26 12:29:41 2023 GMT
+        Subject: C=IT, ST=Italy, L=Benevento, O=Rummo, OU=changeme, CN=ced/name=changeme/emailAddress=ced@ao-rummo.it
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (1024 bit)
+                Modulus:
+                    00:a3:8b:b2:0b:0a:de:8d:02:20:a5:95:31:56:ce:
+                    8e:df:41:3a:ac:a0:70:07:8c:a9:d9:ec:f9:d6:8a:
+                    33:b9:8f:62:6d:08:49:53:d6:d3:a5:c6:a6:23:64:
+                    5e:14:fb:6c:43:b1:78:2d:24:53:47:34:d7:9d:6c:
+                    25:11:0a:c2:c8:c3:69:25:17:ae:31:97:f9:21:a7:
+                    60:31:1d:13:59:29:b2:c9:8a:06:57:c0:d2:3a:87:
+                    03:e2:1c:bd:59:38:2d:5f:55:f6:58:9a:66:5a:cc:
+                    62:fd:6c:81:9d:76:5e:fa:66:f4:d3:5a:7e:7c:6b:
+                    da:a7:87:63:ae:24:0b:77:6f
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            Netscape Comment: 
+                Easy-RSA Generated Certificate
+            X509v3 Subject Key Identifier: 
+                C7:57:45:68:1C:0C:4E:09:19:3E:BE:CC:91:34:DC:D1:9A:70:2D:0F
+            X509v3 Authority Key Identifier: 
+                keyid:39:4C:92:4D:00:48:2F:FD:31:73:FC:5B:98:38:16:80:6C:BE:92:1C
+                DirName:/C=IT/ST=Italy/L=Benevento/O=Rummo/OU=changeme/CN=changeme/name=changeme/emailAddress=ced@ao-rummo.it
+                serial:A0:EB:36:2A:CB:A6:50:37
+
+            X509v3 Extended Key Usage: 
+                TLS Web Client Authentication
+            X509v3 Key Usage: 
+                Digital Signature
+    Signature Algorithm: sha1WithRSAEncryption
+        e9:c9:c1:2f:72:ed:dd:95:2b:b8:e0:cd:05:61:48:1b:96:69:
+        a1:27:04:48:de:f1:21:03:75:74:53:65:6c:27:2e:86:89:77:
+        fe:0c:c8:a5:81:bb:9a:f9:2e:de:18:e3:01:08:3a:58:1e:19:
+        f0:56:5f:94:b2:31:e8:80:90:02:38:bd:51:38:64:08:48:14:
+        c5:af:77:68:2a:e5:e8:07:69:e2:6f:5f:37:df:80:4f:be:6c:
+        7d:ec:d7:2d:79:e5:27:70:eb:5b:9c:f3:5c:1d:3e:ca:39:78:
+        e7:af:13:8b:7c:4d:65:83:3c:26:19:4d:db:96:4d:67:19:09:
+        2d:d2
+-----BEGIN CERTIFICATE-----
+MIID+jCCA2OgAwIBAgIBAjANBgkqhkiG9w0BAQUFADCBmjELMAkGA1UEBhMCSVQx
+DjAMBgNVBAgTBUl0YWx5MRIwEAYDVQQHEwlCZW5ldmVudG8xDjAMBgNVBAoTBVJ1
+bW1vMREwDwYDVQQLEwhjaGFuZ2VtZTERMA8GA1UEAxMIY2hhbmdlbWUxETAPBgNV
+BCkTCGNoYW5nZW1lMR4wHAYJKoZIhvcNAQkBFg9jZWRAYW8tcnVtbW8uaXQwHhcN
+MTMxMTI4MTIyOTQxWhcNMjMxMTI2MTIyOTQxWjCBlTELMAkGA1UEBhMCSVQxDjAM
+BgNVBAgTBUl0YWx5MRIwEAYDVQQHEwlCZW5ldmVudG8xDjAMBgNVBAoTBVJ1bW1v
+MREwDwYDVQQLEwhjaGFuZ2VtZTEMMAoGA1UEAxMDY2VkMREwDwYDVQQpEwhjaGFu
+Z2VtZTEeMBwGCSqGSIb3DQEJARYPY2VkQGFvLXJ1bW1vLml0MIGfMA0GCSqGSIb3
+DQEBAQUAA4GNADCBiQKBgQCji7ILCt6NAiCllTFWzo7fQTqsoHAHjKnZ7PnWijO5
+j2JtCElT1tOlxqYjZF4U+2xDsXgtJFNHNNedbCURCsLIw2klF64xl/khp2AxHRNZ
+KbLJigZXwNI6hwPiHL1ZOC1fVfZYmmZazGL9bIGddl76ZvTTWn58a9qnh2OuJAt3
+bwIDAQABo4IBUTCCAU0wCQYDVR0TBAIwADAtBglghkgBhvhCAQ0EIBYeRWFzeS1S
+U0EgR2VuZXJhdGVkIENlcnRpZmljYXRlMB0GA1UdDgQWBBTHV0VoHAxOCRk+vsyR
+NNzRmnAtDzCBzwYDVR0jBIHHMIHEgBQ5TJJNAEgv/TFz/FuYOBaAbL6SHKGBoKSB
+nTCBmjELMAkGA1UEBhMCSVQxDjAMBgNVBAgTBUl0YWx5MRIwEAYDVQQHEwlCZW5l
+dmVudG8xDjAMBgNVBAoTBVJ1bW1vMREwDwYDVQQLEwhjaGFuZ2VtZTERMA8GA1UE
+AxMIY2hhbmdlbWUxETAPBgNVBCkTCGNoYW5nZW1lMR4wHAYJKoZIhvcNAQkBFg9j
+ZWRAYW8tcnVtbW8uaXSCCQCg6zYqy6ZQNzATBgNVHSUEDDAKBggrBgEFBQcDAjAL
+BgNVHQ8EBAMCB4AwDQYJKoZIhvcNAQEFBQADgYEA6cnBL3Lt3ZUruODNBWFIG5Zp
+oScESN7xIQN1dFNlbCcuhol3/gzIpYG7mvku3hjjAQg6WB4Z8FZflLIx6ICQAji9
+UThkCEgUxa93aCrl6Adp4m9fN9+AT75sfezXLXnlJ3DrW5zzXB0+yjl4568Ti3xN
+ZYM8JhlN25ZNZxkJLdI=
+-----END CERTIFICATE-----

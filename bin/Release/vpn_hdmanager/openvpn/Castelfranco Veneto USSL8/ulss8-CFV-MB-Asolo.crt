@@ -1,0 +1,63 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 6 (0x6)
+        Signature Algorithm: md5WithRSAEncryption
+        Issuer: C=IT, ST=TV, L=Castelfranco Veneto, O=ULSS8 Asolo
+        Validity
+            Not Before: Apr  7 07:22:42 2006 GMT
+            Not After : Apr  4 07:22:42 2016 GMT
+        Subject: C=IT, ST=TV, O=ULSS8 Asolo, CN=dianoema
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+            RSA Public Key: (1024 bit)
+                Modulus (1024 bit):
+                    00:bb:3f:01:f9:7f:d7:2f:a3:5e:38:9f:d7:81:48:
+                    0a:11:46:13:17:77:2f:5e:dc:66:ab:91:5d:48:e9:
+                    3c:93:8b:cd:33:f0:c5:33:02:ba:bc:b9:00:2f:10:
+                    36:bf:c1:9b:44:9e:a7:1c:48:0a:72:6f:81:5d:75:
+                    0b:6c:14:18:13:6a:99:5c:91:34:3d:8c:3d:fd:b5:
+                    94:48:ab:d8:cc:79:66:8a:7f:04:29:90:c6:60:28:
+                    1d:4e:6f:85:bf:e0:0f:8d:7d:a3:4f:b2:76:a2:b8:
+                    98:b4:ed:10:54:f5:bc:67:8e:b5:0a:ed:b9:af:06:
+                    3d:1f:18:65:93:9c:48:30:47
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+            CA:FALSE
+            Netscape Comment: 
+            OpenSSL Generated Certificate
+            X509v3 Subject Key Identifier: 
+            E4:FD:2E:40:70:DB:11:0E:6A:F7:0B:66:BF:C5:37:F4:04:FD:E4:50
+            X509v3 Authority Key Identifier: 
+            keyid:3C:A3:B2:C6:11:CF:8F:0D:A3:75:7F:7A:CA:8F:19:89:02:CA:C4:2C
+            DirName:/C=IT/ST=TV/L=Castelfranco Veneto/O=ULSS8 Asolo
+            serial:00
+
+    Signature Algorithm: md5WithRSAEncryption
+        9b:0f:2c:0d:cf:46:7e:cf:08:67:3f:2d:7f:83:ab:8c:81:2b:
+        40:77:ad:0a:da:0e:b9:5d:f4:90:74:ac:23:7e:75:c6:e3:41:
+        bf:c3:9b:b0:65:5a:71:0f:5a:13:20:47:69:de:09:bb:1c:7c:
+        65:a9:11:0e:5f:07:f8:bd:06:4d:7d:91:f9:bc:10:e3:1d:48:
+        a7:42:4f:33:8c:8e:34:07:dd:11:28:f6:0f:f2:31:7f:29:20:
+        b7:1f:68:d3:39:d6:f2:6f:40:15:62:27:37:ed:a2:92:f1:31:
+        66:d6:1d:e2:f2:17:9d:85:28:40:2b:89:19:9c:d5:2e:f5:ed:
+        a9:60
+-----BEGIN CERTIFICATE-----
+MIIC2zCCAkSgAwIBAgIBBjANBgkqhkiG9w0BAQQFADBOMQswCQYDVQQGEwJJVDEL
+MAkGA1UECBMCVFYxHDAaBgNVBAcTE0Nhc3RlbGZyYW5jbyBWZW5ldG8xFDASBgNV
+BAoTC1VMU1M4IEFzb2xvMB4XDTA2MDQwNzA3MjI0MloXDTE2MDQwNDA3MjI0Mlow
+QzELMAkGA1UEBhMCSVQxCzAJBgNVBAgTAlRWMRQwEgYDVQQKEwtVTFNTOCBBc29s
+bzERMA8GA1UEAxMIZGlhbm9lbWEwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGB
+ALs/Afl/1y+jXjif14FIChFGExd3L17cZquRXUjpPJOLzTPwxTMCury5AC8QNr/B
+m0SepxxICnJvgV11C2wUGBNqmVyRND2MPf21lEir2Mx5Zop/BCmQxmAoHU5vhb/g
+D419o0+ydqK4mLTtEFT1vGeOtQrtua8GPR8YZZOcSDBHAgMBAAGjgdMwgdAwCQYD
+VR0TBAIwADAsBglghkgBhvhCAQ0EHxYdT3BlblNTTCBHZW5lcmF0ZWQgQ2VydGlm
+aWNhdGUwHQYDVR0OBBYEFOT9LkBw2xEOavcLZr/FN/QE/eRQMHYGA1UdIwRvMG2A
+FDyjssYRz48No3V/esqPGYkCysQsoVKkUDBOMQswCQYDVQQGEwJJVDELMAkGA1UE
+CBMCVFYxHDAaBgNVBAcTE0Nhc3RlbGZyYW5jbyBWZW5ldG8xFDASBgNVBAoTC1VM
+U1M4IEFzb2xvggEAMA0GCSqGSIb3DQEBBAUAA4GBAJsPLA3PRn7PCGc/LX+Dq4yB
+K0B3rQraDrld9JB0rCN+dcbjQb/Dm7BlWnEPWhMgR2neCbscfGWpEQ5fB/i9Bk19
+kfm8EOMdSKdCTzOMjjQH3REo9g/yMX8pILcfaNM51vJvQBViJzftopLxMWbWHeLy
+F52FKEAriRmc1S717alg
+-----END CERTIFICATE-----

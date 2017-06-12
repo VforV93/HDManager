@@ -1,0 +1,66 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 4 (0x4)
+        Signature Algorithm: md5WithRSAEncryption
+        Issuer: C=IT, ST=BG, L=BERGAMO, O=Clinica San Francesco, CN=vpnsf/emailAddress=acquisti@sanfrancesco.it
+        Validity
+            Not Before: May 29 13:15:38 2006 GMT
+            Not After : May 26 13:15:38 2016 GMT
+        Subject: C=IT, ST=BG, O=Clinica San Francesco, CN=dianoema/emailAddress=acquisti@sanfrancesco.it
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+            RSA Public Key: (1024 bit)
+                Modulus (1024 bit):
+                    00:c3:0e:7c:d1:38:f9:fb:dc:1c:f9:8b:13:e2:83:
+                    6e:a8:10:56:bc:86:bc:f4:0a:b9:a2:41:eb:ac:86:
+                    f4:f3:de:ee:84:d0:06:93:0a:de:3c:76:d2:8e:a0:
+                    e6:bf:d9:21:08:5f:c0:f2:0a:eb:a5:b6:64:e9:5c:
+                    06:17:34:dd:e6:4f:4c:a6:84:5a:b9:e4:94:e0:16:
+                    62:f8:b5:aa:2c:ed:4e:ec:64:a3:1b:d3:b4:f2:36:
+                    7a:b9:18:91:cb:67:7c:f7:4a:59:1d:fe:67:ab:f7:
+                    52:a9:ca:3f:53:49:4c:3c:3b:a0:68:60:44:07:15:
+                    a4:92:d2:d1:b4:60:42:5d:d7
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+            CA:FALSE
+            Netscape Comment: 
+            OpenSSL Generated Certificate
+            X509v3 Subject Key Identifier: 
+            E2:E5:04:C8:77:F9:FA:CD:38:16:DF:BE:D1:B3:9F:4F:C5:04:CF:4C
+            X509v3 Authority Key Identifier: 
+            keyid:74:8D:FB:34:4E:C4:54:FE:C6:F9:52:99:18:C1:5D:B5:C0:F6:4E:41
+            DirName:/C=IT/ST=BG/L=BERGAMO/O=Clinica San Francesco/CN=vpnsf/emailAddress=acquisti@sanfrancesco.it
+            serial:00
+
+    Signature Algorithm: md5WithRSAEncryption
+        0c:ce:a7:0e:08:36:a3:00:07:e0:79:78:d6:b8:0c:8f:4a:30:
+        a5:bc:af:ff:9d:bf:08:fb:4c:87:5c:97:0f:a0:0b:f6:ca:6d:
+        fe:94:b8:6c:91:bc:78:c6:23:b2:c6:66:dd:4e:44:88:8f:29:
+        1d:31:be:25:26:ae:1c:8f:d6:49:58:a2:a2:d8:07:7c:91:b3:
+        00:9a:e4:fa:02:44:09:74:bb:87:4b:17:49:e6:da:a8:85:e6:
+        1e:fc:93:3f:8b:1a:36:12:51:11:e7:c8:20:b3:a7:01:e7:cf:
+        67:00:8e:90:4e:e5:07:08:f1:42:a6:38:69:ef:3c:c3:45:12:
+        23:29
+-----BEGIN CERTIFICATE-----
+MIIDhTCCAu6gAwIBAgIBBDANBgkqhkiG9w0BAQQFADCBhTELMAkGA1UEBhMCSVQx
+CzAJBgNVBAgTAkJHMRAwDgYDVQQHEwdCRVJHQU1PMR4wHAYDVQQKExVDbGluaWNh
+IFNhbiBGcmFuY2VzY28xDjAMBgNVBAMTBXZwbnNmMScwJQYJKoZIhvcNAQkBFhhh
+Y3F1aXN0aUBzYW5mcmFuY2VzY28uaXQwHhcNMDYwNTI5MTMxNTM4WhcNMTYwNTI2
+MTMxNTM4WjB2MQswCQYDVQQGEwJJVDELMAkGA1UECBMCQkcxHjAcBgNVBAoTFUNs
+aW5pY2EgU2FuIEZyYW5jZXNjbzERMA8GA1UEAxMIZGlhbm9lbWExJzAlBgkqhkiG
+9w0BCQEWGGFjcXVpc3RpQHNhbmZyYW5jZXNjby5pdDCBnzANBgkqhkiG9w0BAQEF
+AAOBjQAwgYkCgYEAww580Tj5+9wc+YsT4oNuqBBWvIa89Aq5okHrrIb0897uhNAG
+kwrePHbSjqDmv9khCF/A8grrpbZk6VwGFzTd5k9MpoRaueSU4BZi+LWqLO1O7GSj
+G9O08jZ6uRiRy2d890pZHf5nq/dSqco/U0lMPDugaGBEBxWkktLRtGBCXdcCAwEA
+AaOCAREwggENMAkGA1UdEwQCMAAwLAYJYIZIAYb4QgENBB8WHU9wZW5TU0wgR2Vu
+ZXJhdGVkIENlcnRpZmljYXRlMB0GA1UdDgQWBBTi5QTId/n6zTgW377Rs59PxQTP
+TDCBsgYDVR0jBIGqMIGngBR0jfs0TsRU/sb5UpkYwV21wPZOQaGBi6SBiDCBhTEL
+MAkGA1UEBhMCSVQxCzAJBgNVBAgTAkJHMRAwDgYDVQQHEwdCRVJHQU1PMR4wHAYD
+VQQKExVDbGluaWNhIFNhbiBGcmFuY2VzY28xDjAMBgNVBAMTBXZwbnNmMScwJQYJ
+KoZIhvcNAQkBFhhhY3F1aXN0aUBzYW5mcmFuY2VzY28uaXSCAQAwDQYJKoZIhvcN
+AQEEBQADgYEADM6nDgg2owAH4Hl41rgMj0owpbyv/52/CPtMh1yXD6AL9spt/pS4
+bJG8eMYjssZm3U5EiI8pHTG+JSauHI/WSViiotgHfJGzAJrk+gJECXS7h0sXSeba
+qIXmHvyTP4saNhJREefIILOnAefPZwCOkE7lBwjxQqY4ae88w0USIyk=
+-----END CERTIFICATE-----

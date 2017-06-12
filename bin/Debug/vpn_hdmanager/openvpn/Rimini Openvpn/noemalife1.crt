@@ -1,0 +1,66 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 89 (0x59)
+        Signature Algorithm: md5WithRSAEncryption
+        Issuer: C=IT, ST=RN, L=Rimini, O=AUSL Rimini/emailAddress=tsmmg.admin@auslrn.net
+        Validity
+            Not Before: Jul 21 10:24:21 2008 GMT
+            Not After : Jul 16 10:24:21 2028 GMT
+        Subject: C=IT, ST=BO, L=Bologna, O=Noema Life, OU=Elena Zandri, CN=noemalife1/emailAddress=ezandri@noemalife.com
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+            RSA Public Key: (1024 bit)
+                Modulus (1024 bit):
+                    00:db:9e:83:a1:7c:a0:6a:4c:e0:f3:db:32:a6:50:
+                    9e:5c:fc:66:52:4e:99:92:46:e9:f7:e3:72:c3:fd:
+                    25:42:5a:a7:4a:b6:90:da:5a:b5:61:51:59:5d:1d:
+                    dd:29:22:6d:04:f1:c5:30:59:44:4d:4a:6e:f7:95:
+                    8e:36:d2:32:08:32:90:66:e6:76:b2:68:08:16:b2:
+                    83:28:02:8b:39:45:40:66:43:8b:34:3a:0b:84:8f:
+                    0c:2d:b2:26:4d:db:aa:b1:fc:ce:81:c6:81:fb:e6:
+                    ee:20:69:32:d0:f0:0f:af:41:5a:68:ed:33:1e:2a:
+                    99:94:fa:fc:ef:6e:8f:a1:31
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            Netscape Comment: 
+                OpenSSL Generated Certificate
+            X509v3 Subject Key Identifier: 
+                43:CE:74:AF:EB:9A:B4:62:95:85:58:1E:2B:FE:D5:43:93:BE:9D:A7
+            X509v3 Authority Key Identifier: 
+                keyid:69:45:AA:ED:B5:A3:BD:D6:A2:5F:9F:AE:1B:C8:AE:DF:D7:46:DE:83
+                DirName:/C=IT/ST=RN/L=Rimini/O=AUSL Rimini/emailAddress=tsmmg.admin@auslrn.net
+                serial:C9:7D:D4:3A:64:A9:A4:C2
+
+    Signature Algorithm: md5WithRSAEncryption
+        23:0d:30:d8:e8:0e:e9:ad:df:40:b0:38:dc:a6:61:77:8a:32:
+        b5:e6:1a:36:01:d0:10:da:99:6c:70:7e:fe:c1:97:07:b3:48:
+        c6:4d:54:6f:9f:7c:bc:f1:af:33:6a:d6:10:93:15:a4:46:cd:
+        09:0b:63:2c:d6:ba:c4:af:d1:01:a3:f9:31:7a:0c:14:c6:99:
+        0e:56:f5:88:0f:60:ee:5c:60:d2:58:1b:13:ab:11:27:bc:46:
+        a9:65:ee:17:20:7d:4d:61:aa:ca:de:ca:b7:c5:31:a5:a1:3f:
+        d2:57:12:a5:00:c6:87:80:ec:67:2b:6a:8a:0e:e8:14:7e:e7:
+        cd:8e
+-----BEGIN CERTIFICATE-----
+MIIDazCCAtSgAwIBAgIBWTANBgkqhkiG9w0BAQQFADBoMQswCQYDVQQGEwJJVDEL
+MAkGA1UECBMCUk4xDzANBgNVBAcTBlJpbWluaTEUMBIGA1UEChMLQVVTTCBSaW1p
+bmkxJTAjBgkqhkiG9w0BCQEWFnRzbW1nLmFkbWluQGF1c2xybi5uZXQwHhcNMDgw
+NzIxMTAyNDIxWhcNMjgwNzE2MTAyNDIxWjCBkzELMAkGA1UEBhMCSVQxCzAJBgNV
+BAgTAkJPMRAwDgYDVQQHEwdCb2xvZ25hMRMwEQYDVQQKEwpOb2VtYSBMaWZlMRUw
+EwYDVQQLEwxFbGVuYSBaYW5kcmkxEzARBgNVBAMTCm5vZW1hbGlmZTExJDAiBgkq
+hkiG9w0BCQEWFWV6YW5kcmlAbm9lbWFsaWZlLmNvbTCBnzANBgkqhkiG9w0BAQEF
+AAOBjQAwgYkCgYEA256DoXygakzg89syplCeXPxmUk6Zkkbp9+Nyw/0lQlqnSraQ
+2lq1YVFZXR3dKSJtBPHFMFlETUpu95WONtIyCDKQZuZ2smgIFrKDKAKLOUVAZkOL
+NDoLhI8MLbImTduqsfzOgcaB++buIGky0PAPr0FaaO0zHiqZlPr8726PoTECAwEA
+AaOB+DCB9TAJBgNVHRMEAjAAMCwGCWCGSAGG+EIBDQQfFh1PcGVuU1NMIEdlbmVy
+YXRlZCBDZXJ0aWZpY2F0ZTAdBgNVHQ4EFgQUQ850r+uatGKVhVgeK/7VQ5O+nacw
+gZoGA1UdIwSBkjCBj4AUaUWq7bWjvdaiX5+uG8iu39dG3oOhbKRqMGgxCzAJBgNV
+BAYTAklUMQswCQYDVQQIEwJSTjEPMA0GA1UEBxMGUmltaW5pMRQwEgYDVQQKEwtB
+VVNMIFJpbWluaTElMCMGCSqGSIb3DQEJARYWdHNtbWcuYWRtaW5AYXVzbHJuLm5l
+dIIJAMl91DpkqaTCMA0GCSqGSIb3DQEBBAUAA4GBACMNMNjoDumt30CwONymYXeK
+MrXmGjYB0BDamWxwfv7BlwezSMZNVG+ffLzxrzNq1hCTFaRGzQkLYyzWusSv0QGj
++TF6DBTGmQ5W9YgPYO5cYNJYGxOrESe8Rqll7hcgfU1hqsreyrfFMaWhP9JXEqUA
+xoeA7GcraooO6BR+582O
+-----END CERTIFICATE-----

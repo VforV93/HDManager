@@ -1,0 +1,70 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 9 (0x9)
+        Signature Algorithm: md5WithRSAEncryption
+        Issuer: C=IT, ST=AQ, L=L'AQUILA, O=A.S.L. n. 4 - L'Aquila, OU=U.O.C. Tecnologie Informatiche e S. I. Aziendal\xC3e, CN=LinuxProxy/emailAddress=postmaster@aslaq.dnsalias.net
+        Validity
+            Not Before: Feb 12 09:28:56 2007 GMT
+            Not After : Feb  9 09:28:56 2017 GMT
+        Subject: C=IT, ST=AQ, O=A.S.L. n. 4 - L'Aquila, OU=U.O.C. T.I.S.I.A., CN=Unitech/emailAddress=info@unitech.it
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+            RSA Public Key: (1024 bit)
+                Modulus (1024 bit):
+                    00:b7:e4:6f:ca:77:05:59:c1:f8:6f:c7:ea:bb:fa:
+                    76:f3:1e:b7:98:ed:df:6d:c5:bb:02:27:40:c3:52:
+                    7c:db:30:82:7f:b6:40:78:c5:64:ee:70:03:17:24:
+                    be:a9:81:8d:30:bc:a7:33:68:a0:3e:bf:a6:a0:52:
+                    29:85:ad:fb:93:5b:5d:5a:53:c5:52:01:99:13:7a:
+                    65:d6:89:c5:d8:d7:72:1e:e9:a8:be:42:ff:9a:3c:
+                    17:d8:81:6b:a5:06:2d:b2:5f:b5:19:f7:63:a6:1f:
+                    2b:2e:bc:e6:17:d4:8b:a5:c1:de:1f:29:0e:ee:4d:
+                    3f:61:17:bc:8e:20:8d:58:17
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+            CA:FALSE
+            Netscape Comment: 
+            OpenSSL Generated Certificate
+            X509v3 Subject Key Identifier: 
+            4B:3B:6C:05:43:20:13:A4:9F:CD:7B:64:80:E9:24:EC:DE:55:95:EB
+            X509v3 Authority Key Identifier: 
+            keyid:38:0C:77:6B:A1:30:55:14:CA:44:6B:BC:6A:C9:B4:4C:87:D7:C6:AC
+            DirName:/C=IT/ST=AQ/L=L'AQUILA/O=A.S.L. n. 4 - L'Aquila/OU=U.O.C. Tecnologie Informatiche e S. I. Aziendal\xC3e/CN=LinuxProxy/emailAddress=postmaster@aslaq.dnsalias.net
+            serial:00
+
+    Signature Algorithm: md5WithRSAEncryption
+        a8:ac:b6:92:e8:3d:8e:1f:b3:50:a8:7b:c1:82:8d:f4:9a:8a:
+        6e:c1:90:56:4d:d3:84:c1:74:7c:a9:76:7f:bc:7b:23:6c:4c:
+        78:6d:4f:a4:61:72:1e:a9:5e:40:f6:f3:f3:c9:6e:db:39:2a:
+        8f:16:9d:2e:b0:2d:f3:78:35:93:e6:ee:74:8c:ea:ed:e7:9d:
+        6b:b3:a0:0d:2b:fb:8f:bb:8b:36:6a:e8:ff:0f:d0:c2:d0:a6:
+        6b:d3:31:a1:f3:85:3e:07:19:0b:42:2f:81:5d:1e:b0:d5:5a:
+        95:7a:3b:1b:63:97:62:b1:30:ae:91:90:82:5d:f9:19:ef:ae:
+        ed:e7
+-----BEGIN CERTIFICATE-----
+MIIEKTCCA5KgAwIBAgIBCTANBgkqhkiG9w0BAQQFADCBzTELMAkGA1UEBhMCSVQx
+CzAJBgNVBAgTAkFRMREwDwYDVQQHEwhMJ0FRVUlMQTEfMB0GA1UEChMWQS5TLkwu
+IG4uIDQgLSBMJ0FxdWlsYTE6MDgGA1UECxQxVS5PLkMuIFRlY25vbG9naWUgSW5m
+b3JtYXRpY2hlIGUgUy4gSS4gQXppZW5kYWzDZTETMBEGA1UEAxMKTGludXhQcm94
+eTEsMCoGCSqGSIb3DQEJARYdcG9zdG1hc3RlckBhc2xhcS5kbnNhbGlhcy5uZXQw
+HhcNMDcwMjEyMDkyODU2WhcNMTcwMjA5MDkyODU2WjCBiTELMAkGA1UEBhMCSVQx
+CzAJBgNVBAgTAkFRMR8wHQYDVQQKExZBLlMuTC4gbi4gNCAtIEwnQXF1aWxhMRow
+GAYDVQQLExFVLk8uQy4gVC5JLlMuSS5BLjEQMA4GA1UEAxMHVW5pdGVjaDEeMBwG
+CSqGSIb3DQEJARYPaW5mb0B1bml0ZWNoLml0MIGfMA0GCSqGSIb3DQEBAQUAA4GN
+ADCBiQKBgQC35G/KdwVZwfhvx+q7+nbzHreY7d9txbsCJ0DDUnzbMIJ/tkB4xWTu
+cAMXJL6pgY0wvKczaKA+v6agUimFrfuTW11aU8VSAZkTemXWicXY13Ie6ai+Qv+a
+PBfYgWulBi2yX7UZ92OmHysuvOYX1Iulwd4fKQ7uTT9hF7yOII1YFwIDAQABo4IB
+WTCCAVUwCQYDVR0TBAIwADAsBglghkgBhvhCAQ0EHxYdT3BlblNTTCBHZW5lcmF0
+ZWQgQ2VydGlmaWNhdGUwHQYDVR0OBBYEFEs7bAVDIBOkn817ZIDpJOzeVZXrMIH6
+BgNVHSMEgfIwge+AFDgMd2uhMFUUykRrvGrJtEyH18asoYHTpIHQMIHNMQswCQYD
+VQQGEwJJVDELMAkGA1UECBMCQVExETAPBgNVBAcTCEwnQVFVSUxBMR8wHQYDVQQK
+ExZBLlMuTC4gbi4gNCAtIEwnQXF1aWxhMTowOAYDVQQLFDFVLk8uQy4gVGVjbm9s
+b2dpZSBJbmZvcm1hdGljaGUgZSBTLiBJLiBBemllbmRhbMNlMRMwEQYDVQQDEwpM
+aW51eFByb3h5MSwwKgYJKoZIhvcNAQkBFh1wb3N0bWFzdGVyQGFzbGFxLmRuc2Fs
+aWFzLm5ldIIBADANBgkqhkiG9w0BAQQFAAOBgQCorLaS6D2OH7NQqHvBgo30mopu
+wZBWTdOEwXR8qXZ/vHsjbEx4bU+kYXIeqV5A9vPzyW7bOSqPFp0usC3zeDWT5u50
+jOrt551rs6ANK/uPu4s2auj/D9DC0KZr0zGh84U+BxkLQi+BXR6w1VqVejsbY5di
+sTCukZCCXfkZ767t5w==
+-----END CERTIFICATE-----

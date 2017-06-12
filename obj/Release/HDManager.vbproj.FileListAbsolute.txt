@@ -1,0 +1,72 @@
+C:\Users\Sax\Documents\Visual Studio 2008\Projects\Hdmanager\HdManager\bin\Release\Interop.ADODB.dll
+C:\Users\Sax\Documents\Visual Studio 2008\Projects\Hdmanager\HdManager\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Sax\Documents\Visual Studio 2008\Projects\Hdmanager\HdManager\obj\Release\Interop.ADODB.dll
+C:\Users\Sax\Documents\Visual Studio 2008\Projects\Hdmanager\HdManager\obj\Release\HDManager.vbproj.ResolveComReference.cache
+C:\Users\Sax\Documents\Visual Studio 2008\Projects\Hdmanager\HdManager\obj\Release\HDManager.vbproj.GenerateResource.Cache
+C:\Users\Sax\Documents\Visual Studio 2008\Projects\Hdmanager\HdManager\bin\Release\HDManager.exe.config
+C:\Users\Sax\Documents\Visual Studio 2008\Projects\Hdmanager\HdManager\bin\Release\HDManager.exe
+C:\Users\Sax\Documents\Visual Studio 2008\Projects\Hdmanager\HdManager\bin\Release\HDManager.pdb
+C:\Users\Sax\Documents\Visual Studio 2008\Projects\Hdmanager\HdManager\bin\Release\HDManager.xml
+C:\Users\Sax\Documents\Visual Studio 2008\Projects\Hdmanager\HdManager\obj\Release\HDManager.Resources.resources
+C:\Users\Sax\Documents\Visual Studio 2008\Projects\Hdmanager\HdManager\obj\Release\HDManager.exe
+C:\Users\Sax\Documents\Visual Studio 2008\Projects\Hdmanager\HdManager\obj\Release\HDManager.xml
+C:\Users\Sax\Documents\Visual Studio 2008\Projects\Hdmanager\HdManager\obj\Release\HDManager.pdb
+C:\Users\Sax\Documents\Visual Studio 2008\Projects\Hdmanager\HdManager\obj\Release\HDManager.Main.resources
+C:\Documents and Settings\msacchetti\Documenti\Visual Studio 2008\Projects\Hdmanager\HdManager\bin\Release\DatiGestioneHD.mdb
+C:\Documents and Settings\msacchetti\Documenti\Visual Studio 2008\Projects\Hdmanager\HdManager\bin\Release\HDManager.exe.config
+C:\Documents and Settings\msacchetti\Documenti\Visual Studio 2008\Projects\Hdmanager\HdManager\bin\Release\HDManager.exe
+C:\Documents and Settings\msacchetti\Documenti\Visual Studio 2008\Projects\Hdmanager\HdManager\bin\Release\HDManager.pdb
+C:\Documents and Settings\msacchetti\Documenti\Visual Studio 2008\Projects\Hdmanager\HdManager\bin\Release\HDManager.xml
+C:\Documents and Settings\msacchetti\Documenti\Visual Studio 2008\Projects\Hdmanager\HdManager\bin\Release\Microsoft.Office.Interop.Outlook.dll
+C:\Documents and Settings\msacchetti\Documenti\Visual Studio 2008\Projects\Hdmanager\HdManager\bin\Release\office.dll
+C:\Documents and Settings\msacchetti\Documenti\Visual Studio 2008\Projects\Hdmanager\HdManager\bin\Release\Interop.ADODB.dll
+C:\Documents and Settings\msacchetti\Documenti\Visual Studio 2008\Projects\Hdmanager\HdManager\bin\Release\Interop.VMwareRemoteConsoleTypeLib.dll
+C:\Documents and Settings\msacchetti\Documenti\Visual Studio 2008\Projects\Hdmanager\HdManager\bin\Release\Interop.WbemScripting.dll
+C:\Documents and Settings\msacchetti\Documenti\Visual Studio 2008\Projects\Hdmanager\HdManager\bin\Release\AxInterop.VMwareRemoteConsoleTypeLib.dll
+C:\Documents and Settings\msacchetti\Documenti\Visual Studio 2008\Projects\Hdmanager\HdManager\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\msacchetti\Documenti\Visual Studio 2008\Projects\Hdmanager\HdManager\obj\Release\Interop.ADODB.dll
+C:\Documents and Settings\msacchetti\Documenti\Visual Studio 2008\Projects\Hdmanager\HdManager\obj\Release\Interop.VMwareRemoteConsoleTypeLib.dll
+C:\Documents and Settings\msacchetti\Documenti\Visual Studio 2008\Projects\Hdmanager\HdManager\obj\Release\Interop.WbemScripting.dll
+C:\Documents and Settings\msacchetti\Documenti\Visual Studio 2008\Projects\Hdmanager\HdManager\obj\Release\AxInterop.VMwareRemoteConsoleTypeLib.dll
+C:\Documents and Settings\msacchetti\Documenti\Visual Studio 2008\Projects\Hdmanager\HdManager\obj\Release\HDManager.vbproj.ResolveComReference.cache
+C:\Documents and Settings\msacchetti\Documenti\Visual Studio 2008\Projects\Hdmanager\HdManager\obj\Release\HDManager.Aggiorna.resources
+C:\Documents and Settings\msacchetti\Documenti\Visual Studio 2008\Projects\Hdmanager\HdManager\obj\Release\HDManager.HowTo.resources
+C:\Documents and Settings\msacchetti\Documenti\Visual Studio 2008\Projects\Hdmanager\HdManager\obj\Release\HDManager.Passaggi.resources
+C:\Documents and Settings\msacchetti\Documenti\Visual Studio 2008\Projects\Hdmanager\HdManager\obj\Release\HDManager.RdpUser.resources
+C:\Documents and Settings\msacchetti\Documenti\Visual Studio 2008\Projects\Hdmanager\HdManager\obj\Release\HDManager.VMElenco.resources
+C:\Documents and Settings\msacchetti\Documenti\Visual Studio 2008\Projects\Hdmanager\HdManager\obj\Release\HDManager.VmHD.resources
+C:\Documents and Settings\msacchetti\Documenti\Visual Studio 2008\Projects\Hdmanager\HdManager\obj\Release\HDManager.VMFULL.resources
+C:\Documents and Settings\msacchetti\Documenti\Visual Studio 2008\Projects\Hdmanager\HdManager\obj\Release\HDManager.Main.resources
+C:\Documents and Settings\msacchetti\Documenti\Visual Studio 2008\Projects\Hdmanager\HdManager\obj\Release\HDManager.Resources.resources
+C:\Documents and Settings\msacchetti\Documenti\Visual Studio 2008\Projects\Hdmanager\HdManager\obj\Release\HDManager.RDP.resources
+C:\Documents and Settings\msacchetti\Documenti\Visual Studio 2008\Projects\Hdmanager\HdManager\obj\Release\HDManager.vbproj.GenerateResource.Cache
+C:\Documents and Settings\msacchetti\Documenti\Visual Studio 2008\Projects\Hdmanager\HdManager\obj\Release\HDManager.exe
+C:\Documents and Settings\msacchetti\Documenti\Visual Studio 2008\Projects\Hdmanager\HdManager\obj\Release\HDManager.xml
+C:\Documents and Settings\msacchetti\Documenti\Visual Studio 2008\Projects\Hdmanager\HdManager\obj\Release\HDManager.pdb
+C:\Users\msacchetti\Documents\Visual Studio 2008\Projects\Hdmanager\HdManager\bin\Release\DatiGestioneHD.mdb
+C:\Users\msacchetti\Documents\Visual Studio 2008\Projects\Hdmanager\HdManager\bin\Release\HDManager.exe.config
+C:\Users\msacchetti\Documents\Visual Studio 2008\Projects\Hdmanager\HdManager\bin\Release\HDManager.exe
+C:\Users\msacchetti\Documents\Visual Studio 2008\Projects\Hdmanager\HdManager\bin\Release\HDManager.pdb
+C:\Users\msacchetti\Documents\Visual Studio 2008\Projects\Hdmanager\HdManager\bin\Release\HDManager.xml
+C:\Users\msacchetti\Documents\Visual Studio 2008\Projects\Hdmanager\HdManager\bin\Release\Microsoft.Office.Interop.Outlook.dll
+C:\Users\msacchetti\Documents\Visual Studio 2008\Projects\Hdmanager\HdManager\bin\Release\office.dll
+C:\Users\msacchetti\Documents\Visual Studio 2008\Projects\Hdmanager\HdManager\bin\Release\Interop.ADODB.dll
+C:\Users\msacchetti\Documents\Visual Studio 2008\Projects\Hdmanager\HdManager\bin\Release\Interop.WbemScripting.dll
+C:\Users\msacchetti\Documents\Visual Studio 2008\Projects\Hdmanager\HdManager\obj\Release\ResolveAssemblyReference.cache
+C:\Users\msacchetti\Documents\Visual Studio 2008\Projects\Hdmanager\HdManager\obj\Release\Interop.ADODB.dll
+C:\Users\msacchetti\Documents\Visual Studio 2008\Projects\Hdmanager\HdManager\obj\Release\Interop.WbemScripting.dll
+C:\Users\msacchetti\Documents\Visual Studio 2008\Projects\Hdmanager\HdManager\obj\Release\HDManager.vbproj.ResolveComReference.cache
+C:\Users\msacchetti\Documents\Visual Studio 2008\Projects\Hdmanager\HdManager\obj\Release\HDManager.Aggiorna.resources
+C:\Users\msacchetti\Documents\Visual Studio 2008\Projects\Hdmanager\HdManager\obj\Release\HDManager.HowTo.resources
+C:\Users\msacchetti\Documents\Visual Studio 2008\Projects\Hdmanager\HdManager\obj\Release\HDManager.Passaggi.resources
+C:\Users\msacchetti\Documents\Visual Studio 2008\Projects\Hdmanager\HdManager\obj\Release\HDManager.RdpUser.resources
+C:\Users\msacchetti\Documents\Visual Studio 2008\Projects\Hdmanager\HdManager\obj\Release\HDManager.VMElenco.resources
+C:\Users\msacchetti\Documents\Visual Studio 2008\Projects\Hdmanager\HdManager\obj\Release\HDManager.VmHD.resources
+C:\Users\msacchetti\Documents\Visual Studio 2008\Projects\Hdmanager\HdManager\obj\Release\HDManager.VMFULL.resources
+C:\Users\msacchetti\Documents\Visual Studio 2008\Projects\Hdmanager\HdManager\obj\Release\HDManager.Main.resources
+C:\Users\msacchetti\Documents\Visual Studio 2008\Projects\Hdmanager\HdManager\obj\Release\HDManager.Resources.resources
+C:\Users\msacchetti\Documents\Visual Studio 2008\Projects\Hdmanager\HdManager\obj\Release\HDManager.RDP.resources
+C:\Users\msacchetti\Documents\Visual Studio 2008\Projects\Hdmanager\HdManager\obj\Release\HDManager.vbproj.GenerateResource.Cache
+C:\Users\msacchetti\Documents\Visual Studio 2008\Projects\Hdmanager\HdManager\obj\Release\HDManager.exe
+C:\Users\msacchetti\Documents\Visual Studio 2008\Projects\Hdmanager\HdManager\obj\Release\HDManager.xml
+C:\Users\msacchetti\Documents\Visual Studio 2008\Projects\Hdmanager\HdManager\obj\Release\HDManager.pdb

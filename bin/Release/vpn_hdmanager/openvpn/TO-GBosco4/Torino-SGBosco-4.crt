@@ -1,0 +1,66 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 177 (0xb1)
+        Signature Algorithm: md5WithRSAEncryption
+        Issuer: C=IT, ST=TO, L=TORINO, O=ASL4, OU=CED, CN=CED-ASL4/emailAddress=Michele.fasciana@asl4.to.it
+        Validity
+            Not Before: Dec  4 14:20:48 2009 GMT
+            Not After : Dec  2 14:20:48 2019 GMT
+        Subject: C=IT, ST=TO, L=TORINO, O=CED-ASL4, CN=dianoema7p/emailAddress=ced@asl4.to.it
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+            RSA Public Key: (1024 bit)
+                Modulus (1024 bit):
+                    00:d2:1f:3c:78:81:bf:0c:b2:9d:d6:d1:da:e5:9c:
+                    a7:e6:36:a7:67:b6:a1:a4:02:a2:9c:f3:91:3f:82:
+                    84:6d:9d:9e:be:65:56:03:d7:3b:b9:f1:2e:61:e8:
+                    43:a9:09:69:f8:20:3b:10:1b:60:66:ae:ee:b0:fb:
+                    a7:b6:4d:e0:92:19:20:79:20:e6:65:a8:d0:29:ce:
+                    3a:4a:66:f9:f8:e7:36:ea:f3:2f:6c:35:83:7b:ab:
+                    6a:d3:67:c9:91:7b:27:81:69:50:31:09:ee:ef:11:
+                    60:18:1f:dc:83:e7:99:99:7a:c1:30:e6:e1:fa:aa:
+                    e8:a8:39:41:86:35:86:38:73
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            Netscape Comment: 
+                OpenSSL Generated Certificate
+            X509v3 Subject Key Identifier: 
+                66:BB:86:3C:9C:7F:D4:95:BF:B4:AE:DF:3D:79:78:DC:7E:64:F5:45
+            X509v3 Authority Key Identifier: 
+                keyid:91:8E:A4:3A:68:A4:1C:55:92:E4:11:2E:91:FD:AC:06:1A:88:B0:31
+                DirName:/C=IT/ST=TO/L=TORINO/O=ASL4/OU=CED/CN=CED-ASL4/emailAddress=Michele.fasciana@asl4.to.it
+                serial:00
+
+    Signature Algorithm: md5WithRSAEncryption
+        38:50:cb:de:e4:a1:e8:53:fa:5f:a7:47:a6:d4:cb:fd:24:9d:
+        37:64:6a:f5:e3:a8:ad:aa:ff:8f:a4:ed:7a:3e:d7:5c:0d:e7:
+        9d:4e:3c:00:0d:d1:58:92:03:6b:86:22:69:80:9f:e0:e6:bd:
+        3c:9b:36:cb:fe:64:61:a5:53:d1:85:c5:b9:75:96:a2:8f:85:
+        51:85:04:79:29:48:74:1c:17:5f:d4:11:10:06:29:b8:45:61:
+        32:95:ab:e0:81:11:3e:e4:0a:1c:b8:36:10:21:44:d8:b8:e2:
+        15:fd:1f:60:09:8e:42:04:aa:0f:a3:fc:e8:7f:80:ef:7e:5d:
+        71:68
+-----BEGIN CERTIFICATE-----
+MIIDhjCCAu+gAwIBAgICALEwDQYJKoZIhvcNAQEEBQAwgYcxCzAJBgNVBAYTAklU
+MQswCQYDVQQIEwJUTzEPMA0GA1UEBxMGVE9SSU5PMQ0wCwYDVQQKEwRBU0w0MQww
+CgYDVQQLEwNDRUQxETAPBgNVBAMTCENFRC1BU0w0MSowKAYJKoZIhvcNAQkBFhtN
+aWNoZWxlLmZhc2NpYW5hQGFzbDQudG8uaXQwHhcNMDkxMjA0MTQyMDQ4WhcNMTkx
+MjAyMTQyMDQ4WjByMQswCQYDVQQGEwJJVDELMAkGA1UECBMCVE8xDzANBgNVBAcT
+BlRPUklOTzERMA8GA1UEChMIQ0VELUFTTDQxEzARBgNVBAMTCmRpYW5vZW1hN3Ax
+HTAbBgkqhkiG9w0BCQEWDmNlZEBhc2w0LnRvLml0MIGfMA0GCSqGSIb3DQEBAQUA
+A4GNADCBiQKBgQDSHzx4gb8Msp3W0drlnKfmNqdntqGkAqKc85E/goRtnZ6+ZVYD
+1zu58S5h6EOpCWn4IDsQG2Bmru6w+6e2TeCSGSB5IOZlqNApzjpKZvn45zbq8y9s
+NYN7q2rTZ8mReyeBaVAxCe7vEWAYH9yD55mZesEw5uH6quioOUGGNYY4cwIDAQAB
+o4IBEzCCAQ8wCQYDVR0TBAIwADAsBglghkgBhvhCAQ0EHxYdT3BlblNTTCBHZW5l
+cmF0ZWQgQ2VydGlmaWNhdGUwHQYDVR0OBBYEFGa7hjycf9SVv7Su3z15eNx+ZPVF
+MIG0BgNVHSMEgawwgamAFJGOpDpopBxVkuQRLpH9rAYaiLAxoYGNpIGKMIGHMQsw
+CQYDVQQGEwJJVDELMAkGA1UECBMCVE8xDzANBgNVBAcTBlRPUklOTzENMAsGA1UE
+ChMEQVNMNDEMMAoGA1UECxMDQ0VEMREwDwYDVQQDEwhDRUQtQVNMNDEqMCgGCSqG
+SIb3DQEJARYbTWljaGVsZS5mYXNjaWFuYUBhc2w0LnRvLml0ggEAMA0GCSqGSIb3
+DQEBBAUAA4GBADhQy97koehT+l+nR6bUy/0knTdkavXjqK2q/4+k7Xo+11wN551O
+PAAN0ViSA2uGImmAn+DmvTybNsv+ZGGlU9GFxbl1lqKPhVGFBHkpSHQcF1/UERAG
+KbhFYTKVq+CBET7kChy4NhAhRNi44hX9H2AJjkIEqg+j/Oh/gO9+XXFo
+-----END CERTIFICATE-----

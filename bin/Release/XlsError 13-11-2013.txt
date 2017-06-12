@@ -1,0 +1,1 @@
+Id Impianto: 100 Server RPC non disponibile. (Eccezione da HRESULT: 0x800706BA)

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="HDManager">
+</Property><Property Name="Solution File" Value="C:\Users\esilenzi\Documents\Visual Studio 2010\Projects\Hdmanager\HdManager\HDManager.sln">
+</Property><Property Name="User Options File" Value="C:\Users\esilenzi\Documents\Visual Studio 2010\Projects\Hdmanager\HdManager\HDManager.suo">
+</Property><Property Name="Date" Value="giovedì 30 ottobre 2014">
+</Property><Property Name="Time" Value="12:56">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="HDManager.sln" Description="File successfully backed up as C:\Users\esilenzi\Documents\Visual Studio 2010\Projects\Hdmanager\HdManager\Backup\HDManager.sln">
+</Event><Event ErrorLevel="0" Project="" Source="HDManager.suo" Description="File successfully backed up as C:\Users\esilenzi\Documents\Visual Studio 2010\Projects\Hdmanager\HdManager\Backup\HDManager.suo">
+</Event><Event ErrorLevel="0" Project="HDManager" Source="HDManager.vbproj" Description="Project file successfully backed up as C:\Users\esilenzi\Documents\Visual Studio 2010\Projects\Hdmanager\HdManager\Backup\HDManager.vbproj">
+</Event><Event ErrorLevel="0" Project="HDManager" Source="HDManager.vbproj.user" Description="Project user file successfully backed up as C:\Users\esilenzi\Documents\Visual Studio 2010\Projects\Hdmanager\HdManager\Backup\HDManager.vbproj.user">
+</Event><Event ErrorLevel="0" Project="HDManager" Source="Aggiorna.Designer.vb" Description="File successfully backed up as C:\Users\esilenzi\Documents\Visual Studio 2010\Projects\Hdmanager\HdManager\Backup\Aggiorna.Designer.vb">
+</Event><Event ErrorLevel="0" Project="HDManager" Source="Aggiorna.vb" Description="File successfully backed up as C:\Users\esilenzi\Documents\Visual Studio 2010\Projects\Hdmanager\HdManager\Backup\Aggiorna.vb">
+</Event><Event ErrorLevel="0" Project="HDManager" Source="ApplicationEvents.vb" Description="File successfully backed up as C:\Users\esilenzi\Documents\Visual Studio 2010\Projects\Hdmanager\HdManager\Backup\ApplicationEvents.vb">
+</Event><Event ErrorLevel="0" Project="HDManager" Source="HowTo.Designer.vb" Description="File successfully backed up as C:\Users\esilenzi\Documents\Visual Studio 2010\Projects\Hdmanager\HdManager\Backup\HowTo.Designer.vb">
+</Event><Event ErrorLevel="0" Project="HDManager" Source="HowTo.vb" Description="File successfully backed up as C:\Users\esilenzi\Documents\Visual Studio 2010\Projects\Hdmanager\HdManager\Backup\HowTo.vb">
+</Event><Event ErrorLevel="0" Project="HDManager" Source="Passaggi.Designer.vb" Description="File successfully backed up as C:\Users\esilenzi\Documents\Visual Studio 2010\Projects\Hdmanager\HdManager\Backup\Passaggi.Designer.vb">
+</Event><Event ErrorLevel="0" Project="HDManager" Source="Passaggi.vb" Description="File successfully backed up as C:\Users\esilenzi\Documents\Visual Studio 2010\Projects\Hdmanager\HdManager\Backup\Passaggi.vb">
+</Event><Event ErrorLevel="0" Project="HDManager" Source="RdpUser.Designer.vb" Description="File successfully backed up as C:\Users\esilenzi\Documents\Visual Studio 2010\Projects\Hdmanager\HdManager\Backup\RdpUser.Designer.vb">
+</Event><Event ErrorLevel="0" Project="HDManager" Source="RdpUser.vb" Description="File successfully backed up as C:\Users\esilenzi\Documents\Visual Studio 2010\Projects\Hdmanager\HdManager\Backup\RdpUser.vb">
+</Event><Event ErrorLevel="0" Project="HDManager" Source="VMElenco.designer.vb" Description="File successfully backed up as C:\Users\esilenzi\Documents\Visual Studio 2010\Projects\Hdmanager\HdManager\Backup\VMElenco.designer.vb">
+</Event><Event ErrorLevel="0" Project="HDManager" Source="VMElenco.vb" Description="File successfully backed up as C:\Users\esilenzi\Documents\Visual Studio 2010\Projects\Hdmanager\HdManager\Backup\VMElenco.vb">
+</Event><Event ErrorLevel="0" Project="HDManager" Source="VmHD.designer.vb" Description="File successfully backed up as C:\Users\esilenzi\Documents\Visual Studio 2010\Projects\Hdmanager\HdManager\Backup\VmHD.designer.vb">
+</Event><Event ErrorLevel="0" Project="HDManager" Source="VmHD.vb" Description="File successfully backed up as C:\Users\esilenzi\Documents\Visual Studio 2010\Projects\Hdmanager\HdManager\Backup\VmHD.vb">
+</Event><Event ErrorLevel="0" Project="HDManager" Source="VMFULL.designer.vb" Description="File successfully backed up as C:\Users\esilenzi\Documents\Visual Studio 2010\Projects\Hdmanager\HdManager\Backup\VMFULL.designer.vb">
+</Event><Event ErrorLevel="0" Project="HDManager" Source="VMFULL.vb" Description="File successfully backed up as C:\Users\esilenzi\Documents\Visual Studio 2010\Projects\Hdmanager\HdManager\Backup\VMFULL.vb">
+</Event><Event ErrorLevel="0" Project="HDManager" Source="FileHelper.vb" Description="File successfully backed up as C:\Users\esilenzi\Documents\Visual Studio 2010\Projects\Hdmanager\HdManager\Backup\FileHelper.vb">
+</Event><Event ErrorLevel="0" Project="HDManager" Source="Main.vb" Description="File successfully backed up as C:\Users\esilenzi\Documents\Visual Studio 2010\Projects\Hdmanager\HdManager\Backup\Main.vb">
+</Event><Event ErrorLevel="0" Project="HDManager" Source="Main.Designer.vb" Description="File successfully backed up as C:\Users\esilenzi\Documents\Visual Studio 2010\Projects\Hdmanager\HdManager\Backup\Main.Designer.vb">
+</Event><Event ErrorLevel="0" Project="HDManager" Source="gestioneHDDataSet.Designer.vb" Description="File successfully backed up as C:\Users\esilenzi\Documents\Visual Studio 2010\Projects\Hdmanager\HdManager\Backup\gestioneHDDataSet.Designer.vb">
+</Event><Event ErrorLevel="0" Project="HDManager" Source="My Project\AssemblyInfo.vb" Description="File successfully backed up as C:\Users\esilenzi\Documents\Visual Studio 2010\Projects\Hdmanager\HdManager\Backup\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="HDManager" Source="My Project\Application.Designer.vb" Description="File successfully backed up as C:\Users\esilenzi\Documents\Visual Studio 2010\Projects\Hdmanager\HdManager\Backup\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="HDManager" Source="My Project\Resources.Designer.vb" Description="File successfully backed up as C:\Users\esilenzi\Documents\Visual Studio 2010\Projects\Hdmanager\HdManager\Backup\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="HDManager" Source="My Project\Settings.Designer.vb" Description="File successfully backed up as C:\Users\esilenzi\Documents\Visual Studio 2010\Projects\Hdmanager\HdManager\Backup\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="HDManager" Source="RDP.designer.vb" Description="File successfully backed up as C:\Users\esilenzi\Documents\Visual Studio 2010\Projects\Hdmanager\HdManager\Backup\RDP.designer.vb">
+</Event><Event ErrorLevel="0" Project="HDManager" Source="RDP.vb" Description="File successfully backed up as C:\Users\esilenzi\Documents\Visual Studio 2010\Projects\Hdmanager\HdManager\Backup\RDP.vb">
+</Event><Event ErrorLevel="0" Project="HDManager" Source="app.config" Description="File successfully backed up as C:\Users\esilenzi\Documents\Visual Studio 2010\Projects\Hdmanager\HdManager\Backup\app.config">
+</Event><Event ErrorLevel="0" Project="HDManager" Source="gestioneHDDataSet.xsc" Description="File successfully backed up as C:\Users\esilenzi\Documents\Visual Studio 2010\Projects\Hdmanager\HdManager\Backup\gestioneHDDataSet.xsc">
+</Event><Event ErrorLevel="0" Project="HDManager" Source="gestioneHDDataSet.xsd" Description="File successfully backed up as C:\Users\esilenzi\Documents\Visual Studio 2010\Projects\Hdmanager\HdManager\Backup\gestioneHDDataSet.xsd">
+</Event><Event ErrorLevel="0" Project="HDManager" Source="gestioneHDDataSet.xss" Description="File successfully backed up as C:\Users\esilenzi\Documents\Visual Studio 2010\Projects\Hdmanager\HdManager\Backup\gestioneHDDataSet.xss">
+</Event><Event ErrorLevel="0" Project="HDManager" Source="My Project\app.manifest" Description="File successfully backed up as C:\Users\esilenzi\Documents\Visual Studio 2010\Projects\Hdmanager\HdManager\Backup\My Project\app.manifest">
+</Event><Event ErrorLevel="0" Project="HDManager" Source="My Project\Application.myapp" Description="File successfully backed up as C:\Users\esilenzi\Documents\Visual Studio 2010\Projects\Hdmanager\HdManager\Backup\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="HDManager" Source="My Project\Settings.settings" Description="File successfully backed up as C:\Users\esilenzi\Documents\Visual Studio 2010\Projects\Hdmanager\HdManager\Backup\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="HDManager" Source="Ico\stopdial.bmp" Description="File successfully backed up as C:\Users\esilenzi\Documents\Visual Studio 2010\Projects\Hdmanager\HdManager\Backup\Ico\stopdial.bmp">
+</Event><Event ErrorLevel="0" Project="HDManager" Source="DatiGestioneHD.mdb" Description="File successfully backed up as C:\Users\esilenzi\Documents\Visual Studio 2010\Projects\Hdmanager\HdManager\Backup\DatiGestioneHD.mdb">
+</Event><Event ErrorLevel="0" Project="HDManager" Source="logo.ico" Description="File successfully backed up as C:\Users\esilenzi\Documents\Visual Studio 2010\Projects\Hdmanager\HdManager\Backup\logo.ico">
+</Event><Event ErrorLevel="0" Project="HDManager" Source="Aggiorna.resx" Description="File successfully backed up as C:\Users\esilenzi\Documents\Visual Studio 2010\Projects\Hdmanager\HdManager\Backup\Aggiorna.resx">
+</Event><Event ErrorLevel="0" Project="HDManager" Source="HowTo.resx" Description="File successfully backed up as C:\Users\esilenzi\Documents\Visual Studio 2010\Projects\Hdmanager\HdManager\Backup\HowTo.resx">
+</Event><Event ErrorLevel="0" Project="HDManager" Source="Passaggi.resx" Description="File successfully backed up as C:\Users\esilenzi\Documents\Visual Studio 2010\Projects\Hdmanager\HdManager\Backup\Passaggi.resx">
+</Event><Event ErrorLevel="0" Project="HDManager" Source="RdpUser.resx" Description="File successfully backed up as C:\Users\esilenzi\Documents\Visual Studio 2010\Projects\Hdmanager\HdManager\Backup\RdpUser.resx">
+</Event><Event ErrorLevel="0" Project="HDManager" Source="VMElenco.resx" Description="File successfully backed up as C:\Users\esilenzi\Documents\Visual Studio 2010\Projects\Hdmanager\HdManager\Backup\VMElenco.resx">
+</Event><Event ErrorLevel="0" Project="HDManager" Source="VmHD.resx" Description="File successfully backed up as C:\Users\esilenzi\Documents\Visual Studio 2010\Projects\Hdmanager\HdManager\Backup\VmHD.resx">
+</Event><Event ErrorLevel="0" Project="HDManager" Source="VMFULL.resx" Description="File successfully backed up as C:\Users\esilenzi\Documents\Visual Studio 2010\Projects\Hdmanager\HdManager\Backup\VMFULL.resx">
+</Event><Event ErrorLevel="0" Project="HDManager" Source="Main.resx" Description="File successfully backed up as C:\Users\esilenzi\Documents\Visual Studio 2010\Projects\Hdmanager\HdManager\Backup\Main.resx">
+</Event><Event ErrorLevel="0" Project="HDManager" Source="My Project\Resources.resx" Description="File successfully backed up as C:\Users\esilenzi\Documents\Visual Studio 2010\Projects\Hdmanager\HdManager\Backup\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="HDManager" Source="RDP.resx" Description="File successfully backed up as C:\Users\esilenzi\Documents\Visual Studio 2010\Projects\Hdmanager\HdManager\Backup\RDP.resx">
+</Event><Event ErrorLevel="0" Project="HDManager" Source="HDManager.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="HDManager" Source="HDManager.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="HDManager.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="HDManager.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="HDManager" Source="HDManager.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

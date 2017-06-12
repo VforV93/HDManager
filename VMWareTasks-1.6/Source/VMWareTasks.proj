@@ -1,0 +1,149 @@
+<Project DefaultTargets="all" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" >
+  <Import Project="$(MSBuildExtensionsPath)\MSBuildCommunityTasks\MSBuild.Community.Tasks.Targets"/>
+  <PropertyGroup Condition="'$(Configuration)'==''">
+    <Configuration>Debug</Configuration>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ProductName>VMWareTasks</ProductName>
+    <CompanyName>Vestris Inc.</CompanyName>
+    <Copyright>Copyright (c) 2008-2010 Daniel Doubrovkine, Vestris Inc.</Copyright>
+    <Trademark>All Rights Reserved</Trademark>
+    <MajorVersion>1</MajorVersion>
+    <MinorVersion>6</MinorVersion>
+  </PropertyGroup>
+  <Import Project="Version.proj"/>
+  <PropertyGroup>
+    <ReleaseDir>target\$(Configuration)\VMWareTasks</ReleaseDir>
+    <MSBuild_4_0_ExeFilePath>%SystemRoot%\Microsoft.NET\Framework\v4.0.30319\msbuild.exe</MSBuild_4_0_ExeFilePath>
+  </PropertyGroup>
+  <Target Name="all">
+    <CallTarget Targets="clean" />
+    <CallTarget Targets="version" />
+    <CallTarget Targets="vixcom" />
+    <CallTarget Targets="build" />
+    <CallTarget Targets="doc" />
+    <CallTarget Targets="javas" />
+    <CallTarget Targets="zip" />
+  </Target>  
+  <Target Name="clean">
+    <MSBuild Projects="VMWareTasks.sln" Targets="Clean" />
+    <DeleteTree Directories="Documentation\$(Configuration)" />
+    <DeleteTree Directories="target" Recursive="true" />
+    <DeleteTree Directories="Source\VMWareComLibJava;Source\VMWareComToolsJava" />
+    <DeleteTree Directories="Source\Interop.VixCOM" />
+    <Delete Files="Source\Version\GlobalAssemblyInfo.cs" />
+    <DeleteTree Directories="Source\**\bin;Source\**\obj" Recursive="true" />
+  </Target>
+  <Target Name="build">
+    <MSBuild Projects="VMWareTasks.sln" />
+  </Target>
+  <ItemGroup>
+    <SourceCodeProjects Include="VMWareTasks.sln" />
+    <SourceCodeProjects Include="Version.proj" />
+    <SourceCodeProjects Include="VMWareTasks.proj" />
+    <SourceCodeProjects Include="build.cmd" />
+  </ItemGroup>
+  <ItemGroup>
+    <SourceCodeFiles Include="Source/**/*.cs" />
+    <SourceCodeFiles Include="Source/Version/GlobalAssemblyInfo.cs" />
+    <SourceCodeFiles Include="Source/**/*.csproj" />
+    <SourceCodeFiles Include="Source/**/App.config" />
+    <SourceCodeFiles Include="Source/**/*.vbs" />
+    <SourceCodeFiles Include="Source/License.txt" />
+    <SourceCodeFiles Include="Source/**/*.java" />
+    <SourceCodeFiles Include="Source/**/*.Targets" />
+    <SourceCodeFiles Include="Source/**/*.proj" />
+  </ItemGroup>
+  <ItemGroup>
+    <BinaryFiles Include="Source/VMWareLib/bin/$(Configuration)/Vestris.VMWareLib.dll.config" />
+    <BinaryFiles Include="Source/VMWareLib/bin/$(Configuration)/Vestris.VMWareLib.dll" />
+    <BinaryFiles Include="Source/VMWareLib/bin/$(Configuration)/Vestris.VMWareLib.XML" />
+    <BinaryFiles Include="Source/VMWareTools/bin/$(Configuration)/Vestris.VMWareTools.dll.config" />
+    <BinaryFiles Include="Source/VMWareTools/bin/$(Configuration)/Vestris.VMWareTools.dll" />
+    <BinaryFiles Include="Source/VMWareTools/bin/$(Configuration)/Vestris.VMWareTools.xml" />
+    <BinaryFiles Include="Source/VMWareLib/bin/$(Configuration)/Interop.VixCOM.dll" />
+    <BinaryFiles Include="Source/VMWareComLib/bin/$(Configuration)/Vestris.VMWareComLib.dll.config" />
+    <BinaryFiles Include="Source/VMWareComLib/bin/$(Configuration)/Vestris.VMWareComLib.dll" />
+    <BinaryFiles Include="Source/VMWareComLib/bin/$(Configuration)/Vestris.VMWareComLib.XML" />
+    <BinaryFiles Include="Source/VMWareComTools/bin/$(Configuration)/Vestris.VMWareComTools.dll.config" />
+    <BinaryFiles Include="Source/VMWareComTools/bin/$(Configuration)/Vestris.VMWareComTools.dll" />
+    <BinaryFiles Include="Source/VMWareComTools/bin/$(Configuration)/Vestris.VMWareComTools.XML" />
+    <BinaryFiles Include="Source/VMWareLibMSBuildTasks/bin/$(Configuration)/Vestris.VMWareLib.MSBuildTasks.dll.config" />
+    <BinaryFiles Include="Source/VMWareLibMSBuildTasks/bin/$(Configuration)/Vestris.VMWareLib.MSBuildTasks.dll" />
+    <BinaryFiles Include="Source/VMWareLibMSBuildTasks/bin/$(Configuration)/Vestris.VMWareLib.MSBuildTasks.XML" />
+    <BinaryFiles Include="Source/VMWareLibMSBuildTasks/bin/$(Configuration)/Vestris.VMWareLib.MSBuildTasks.Targets" />
+  </ItemGroup>
+  <ItemGroup>
+    <JavaBinaryFiles Include="Tools/Com4j/com4j.dll" />
+    <JavaBinaryFiles Include="Source/VMWareComLibJava/Bin/vestris-vmwarecomlib.jar" />
+    <JavaBinaryFiles Include="Source/VMWareComLibJava/Bin/vestris-vmwarecomlib-src.zip" />
+    <JavaBinaryFiles Include="Source/VMWareComToolsJava/Bin/vestris-vmwarecomtools.jar" />
+    <JavaBinaryFiles Include="Source/VMWareComToolsJava/Bin/vestris-vmwarecomtools-src.zip" />
+  </ItemGroup>
+  <ItemGroup>
+    <ArticleFiles Include="Article/**/*.html" />
+    <ArticleFiles Include="Article/**/*.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <DocumentationFiles Include="Documentation/$(Configuration)/VMWareTasks.chm" />    
+  </ItemGroup>
+  <ItemGroup>
+    <LicenseFiles Include="Source/License.txt" />    
+  </ItemGroup>
+  <Target Name="zip" DependsOnTargets="version">
+    <Copy SourceFiles="@(SourceCodeProjects)" DestinationFolder="$(ReleaseDir)\Source\%(RecursiveDir)" />
+    <Copy SourceFiles="@(SourceCodeFiles)" DestinationFolder="$(ReleaseDir)\Source\Source\%(RecursiveDir)" />
+    <Copy SourceFiles="@(BinaryFiles)" DestinationFolder="$(ReleaseDir)\Bin" />
+    <Copy SourceFiles="@(JavaBinaryFiles)" DestinationFolder="$(ReleaseDir)\JavaBin" />
+    <Copy SourceFiles="@(ArticleFiles)" DestinationFolder="$(ReleaseDir)\Article\%(RecursiveDir)" />
+    <Copy SourceFiles="@(DocumentationFiles)" DestinationFolder="$(ReleaseDir)" />
+    <Copy SourceFiles="@(LicenseFiles)" DestinationFolder="$(ReleaseDir)" />
+    <TemplateFile Template="Documentation\WhatsNew.html" OutputFilename="..\$(ReleaseDir)\WhatsNew.html" Tokens="@(AssemblyInfoTokens)" />
+    <CreateItem Include="$(ReleaseDir)\**\*" Exclude="target\$(Configuration)\*.zip">
+      <Output TaskParameter="Include" ItemName="PackageFiles" />
+    </CreateItem>
+    <Zip WorkingDirectory="$(ReleaseDir)" ZipFileName="target\$(Configuration)\VMWareTasks-$(Major).$(Minor).zip" Files="@(PackageFiles)" />
+  </Target>
+  <Target Name="doc" DependsOnTargets="version">
+    <Error Condition="'$(DXROOT)'==''" Text="Missing Sandcastle, DXROOT environment variable not set, install from http://www.codeplex.com/Sandcastle" />
+    <Error Condition="'$(SHFBROOT)'==''" Text="Missing Sandcastle Builder, SHFBROOT environment variable not set, install from http://www.codeplex.com/SHFB" />
+    <Delete Files="Documentation\$(Configuration)\VMWareTasks.chm" />
+    <Exec Command="$(MSBuild_4_0_ExeFilePath) Documentation\VMWareTasks.shfbproj /p:Configuration=$(Configuration)" />
+    <Error Condition="Exists('Documentation\$(Configuration)\LastBuild.log')" Text="Documentation build failed, check Documentation\$(Configuration)\LastBuild.log" />
+  </Target>
+  <ItemGroup>
+    <ComInterface Include="Vestris.VMWareComLib.dll">
+      <DllName>Vestris.VMWareComLib.dll</DllName>
+      <InputDir>Source\VMWareComLib\bin\$(Configuration)</InputDir>
+      <PackageName>com.vestris.vmwarecomlib</PackageName>
+      <PackageDir>com\vestris\vmwarecomlib</PackageDir>
+      <OutputDir>Source\VMWareComLibJava</OutputDir>
+      <JarName>vestris-vmwarecomlib</JarName>
+    </ComInterface>
+    <ComInterface Include="Vestris.VMWareComTools.dll">
+      <DllName>Vestris.VMWareComTools.dll</DllName>
+      <InputDir>Source\VMWareComTools\bin\$(Configuration)</InputDir>
+      <PackageName>com.vestris.vmwarecomtools</PackageName>
+      <PackageDir>com\vestris\vmwarecomtools</PackageDir>
+      <OutputDir>Source\VMWareComToolsJava</OutputDir>
+      <JarName>vestris-vmwarecomtools</JarName>
+    </ComInterface>
+  </ItemGroup>
+  <Target Name="javas" DependsOnTargets="version" Inputs="@(ComInterface)" Outputs="%(ComInterface.Identity)">
+    <Message Text="Extracting Java interface from %(ComInterface.DllName) ..." />
+    <!-- register the assembly -->
+    <Exec Command="regasm.exe /codebase %(ComInterface.InputDir)\%(ComInterface.DllName) /tlb:%(ComInterface.FileName).tlb" />
+    <!-- export to com4j and compile generated java code -->
+    <Exec Command="java -jar Tools\Com4j\tlbimp.jar -p %(ComInterface.PackageName) -o %(ComInterface.OutputDir) %(ComInterface.InputDir)\%(ComInterface.FileName).tlb" />
+    <MakeDir Directories="$(ReleaseDir)\Bin" />
+    <Exec WorkingDirectory="%(ComInterface.OutputDir)" Command="&quot;$(JAVA_HOME)\bin\javac.exe&quot; %(ComInterface.PackageDir)\*.java -cp &quot;$(MSBuildProjectDirectory)\Tools\Com4j\com4j.jar&quot;" />
+    <!-- make compiled and source jars -->
+    <MakeDir Directories="%(ComInterface.OutputDir)\bin" />
+    <Exec WorkingDirectory="%(ComInterface.OutputDir)" Command="&quot;$(JAVA_HOME)\bin\jar.exe&quot; cvf bin\%(ComInterface.JarName).jar %(ComInterface.PackageDir)\*.class" />
+    <Exec WorkingDirectory="%(ComInterface.OutputDir)" Command="&quot;$(JAVA_HOME)\bin\jar.exe&quot; cvf bin\%(ComInterface.JarName)-src.zip %(ComInterface.PackageDir)\*.java" />
+  </Target>
+  <Target Name="vixcom">
+    <Message Text="Importing VixCOM Type Library ..." />
+    <Exec Command="tlbimp.exe &quot;$(ProgramFiles)\VMWare\VMWare VIX\VixCOM.dll&quot; /keyfile:master.snk /out:Source\Interop.VixCOM\Interop.VixCOM.dll" />
+  </Target>
+</Project>

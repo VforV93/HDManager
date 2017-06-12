@@ -1,0 +1,65 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            bc:ff:d8:fd:42:88:b3:5e
+        Signature Algorithm: md5WithRSAEncryption
+        Issuer: C=it, L=empoli, O=empoli, CN=empoli VPN CA/emailAddress=empoli@aaa.com
+        Validity
+            Not Before: Jan  9 11:41:11 2009 GMT
+            Not After : Jun 22 10:13:22 2035
+        Subject: C=it, L=Empoli, O=Ausl11, CN=HD3noemalife@ESTERNI
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+            RSA Public Key: (1024 bit)
+                Modulus (1024 bit):
+                    00:97:18:aa:4b:65:f5:2f:cf:d0:48:7c:a2:96:55:
+                    f1:21:83:a1:d9:74:d0:94:43:f7:de:6c:d1:76:a3:
+                    c0:07:bb:fc:1b:ee:56:74:5e:03:68:a6:ed:c3:70:
+                    db:68:86:6e:e2:d8:52:ab:32:e7:0a:16:34:e0:bb:
+                    16:3f:ad:ee:14:77:7a:f1:b4:e4:50:a4:50:9c:e5:
+                    03:68:dc:f0:bc:db:fe:58:cb:54:6e:61:b9:73:54:
+                    99:54:89:75:db:c5:03:84:bc:01:3b:44:63:86:fc:
+                    8e:24:1f:65:5a:d1:35:6e:50:cd:e5:b7:db:d4:19:
+                    74:3f:6a:4d:93:05:e7:83:d3
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Subject Key Identifier: 
+                AE:17:C8:0F:33:AC:50:B0:A6:47:A8:3B:6D:F9:E6:2F:CB:D5:E1:95
+            X509v3 Authority Key Identifier: 
+                keyid:DF:04:E3:E6:2D:4D:15:95:09:DF:1D:29:69:7C:23:E4:40:A4:BE:25
+                DirName:/C=it/L=empoli/O=empoli/CN=empoli VPN CA/emailAddress=empoli@aaa.com
+                serial:BC:FF:D8:FD:42:88:B2:8A
+
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            X509v3 Key Usage: 
+                Digital Signature, Non Repudiation, Key Encipherment
+    Signature Algorithm: md5WithRSAEncryption
+        6a:a2:90:ae:0a:71:c9:db:fb:a5:7c:d1:bf:1e:9d:04:3b:b1:
+        04:8d:19:0a:7e:41:a3:a4:f3:41:f0:88:35:f9:fd:e3:6e:c3:
+        8b:8c:4e:10:4e:a1:e9:06:83:32:0b:f7:a0:6c:b4:93:90:1d:
+        ff:e5:45:cf:ff:ee:19:06:b3:1d:7f:71:ee:46:e6:6b:76:a3:
+        84:be:ae:ec:75:d1:e1:d1:3d:8c:5f:e4:8e:0b:8a:5a:0e:2f:
+        65:c3:48:20:28:cc:e1:6d:dd:ad:5f:a1:2b:64:fd:01:ca:cc:
+        0f:64:d0:bf:29:38:80:74:92:f3:06:e3:3c:12:f1:e1:3d:a8:
+        f7:ee
+-----BEGIN CERTIFICATE-----
+MIIDDDCCAnWgAwIBAgIJALz/2P1CiLNeMA0GCSqGSIb3DQEBBAUAMGYxCzAJBgNV
+BAYTAml0MQ8wDQYDVQQHEwZlbXBvbGkxDzANBgNVBAoTBmVtcG9saTEWMBQGA1UE
+AxMNZW1wb2xpIFZQTiBDQTEdMBsGCSqGSIb3DQEJARYOZW1wb2xpQGFhYS5jb20w
+IhcNMDkwMTA5MTE0MTExWhcRMzUwNjIyMTAxMzIyKzAwMDAwTjELMAkGA1UEBhMC
+aXQxDzANBgNVBAcTBkVtcG9saTEPMA0GA1UEChMGQXVzbDExMR0wGwYDVQQDFBRI
+RDNub2VtYWxpZmVARVNURVJOSTCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEA
+lxiqS2X1L8/QSHyillXxIYOh2XTQlEP33mzRdqPAB7v8G+5WdF4DaKbtw3DbaIZu
+4thSqzLnChY04LsWP63uFHd68bTkUKRQnOUDaNzwvNv+WMtUbmG5c1SZVIl128UD
+hLwBO0RjhvyOJB9lWtE1blDN5bfb1Bl0P2pNkwXng9MCAwEAAaOB1TCB0jAdBgNV
+HQ4EFgQUrhfIDzOsULCmR6g7bfnmL8vV4ZUwgZgGA1UdIwSBkDCBjYAU3wTj5i1N
+FZUJ3x0paXwj5ECkviWhaqRoMGYxCzAJBgNVBAYTAml0MQ8wDQYDVQQHEwZlbXBv
+bGkxDzANBgNVBAoTBmVtcG9saTEWMBQGA1UEAxMNZW1wb2xpIFZQTiBDQTEdMBsG
+CSqGSIb3DQEJARYOZW1wb2xpQGFhYS5jb22CCQC8/9j9QoiyijAJBgNVHRMEAjAA
+MAsGA1UdDwQEAwIF4DANBgkqhkiG9w0BAQQFAAOBgQBqopCuCnHJ2/ulfNG/Hp0E
+O7EEjRkKfkGjpPNB8Ig1+f3jbsOLjE4QTqHpBoMyC/egbLSTkB3/5UXP/+4ZBrMd
+f3HuRuZrdqOEvq7sddHh0T2MX+SOC4paDi9lw0ggKMzhbd2tX6ErZP0ByswPZNC/
+KTiAdJLzBuM8EvHhPaj37g==
+-----END CERTIFICATE-----

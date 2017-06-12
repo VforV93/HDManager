@@ -1,0 +1,18 @@
+ROMA OPBG PROBLEMA COL SID...
+
+1) Escludo per ora il lum perchè le schede lum e aosp sono nella stessa dir e poi hanno nomi fogli ausl e aosp prima di macchina, cosa e dove  ecc.
+
+2) Firenze s.Salvi Tossicologia escluso perchè è un doc...
+
+4) Al Lauro le integrazioni si chiamano Integrazioni rimini, Int. cesena ecc...
+
+5) Escludo tutte le windopat per ora
+
+6) Torino ASL TO2 c'è l'xls giusto ma anche un doc chiamato uguale
+
+7) Verona Borgo Trento Microbiologia SOLO DNRom ha solo il doc
+
+8) Roma B Pertini, Roma S.Camillo, Acquaviva delle fonti, Rovigo, Treviso, Messina AO Piemonte, Bassano hanno i prodotti in B invece che in C
+
+9) Roma IDI Nancy non ha scheda cliente
+

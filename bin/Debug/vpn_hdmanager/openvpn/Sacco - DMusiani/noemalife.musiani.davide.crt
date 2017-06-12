@@ -1,0 +1,88 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 88 (0x58)
+        Signature Algorithm: md5WithRSAEncryption
+        Issuer: C=IT, ST=MI, L=Milano, O=Sistemi_informativi/emailAddress=mangoni.massimiliano@hsacco.it
+        Validity
+            Not Before: Jan 26 10:25:24 2010 GMT
+            Not After : Jan 24 10:25:24 2020 GMT
+        Subject: C=IT, ST=MI, L=Milano, O=Sistemi_informativi, OU=Office, CN=noemalife.musiani.davide/emailAddress=mangoni.massimiliano@hsacco.it
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+            RSA Public Key: (2048 bit)
+                Modulus (2048 bit):
+                    00:cd:60:71:a7:41:1c:8c:24:65:bd:05:c1:fc:8f:
+                    96:b7:fb:26:79:ab:49:ca:37:21:d6:0f:d1:bf:39:
+                    69:7d:1d:2d:84:f0:f0:8e:11:78:0a:dc:f5:ec:61:
+                    43:a4:95:38:0b:50:b0:2e:d5:6e:da:4b:2c:ad:6a:
+                    de:48:90:f2:4f:f3:10:80:97:88:89:f7:21:48:28:
+                    20:aa:4e:6e:30:a0:f1:34:b5:82:69:24:a7:7c:8c:
+                    f6:17:b0:da:91:93:dd:f8:fc:fc:a1:76:78:19:c2:
+                    bc:5a:f6:91:a5:3f:9a:98:6b:f3:11:ad:02:61:9f:
+                    a2:c7:f0:9e:5a:eb:8c:96:39:a7:b5:d8:cc:21:83:
+                    21:8d:96:e9:b1:06:a5:7c:fe:fa:23:d8:e2:42:3b:
+                    db:a6:33:f7:1b:cf:a7:ae:14:33:fc:d8:7d:cf:7c:
+                    00:9b:62:49:79:9d:ec:70:6d:08:69:db:47:e6:2f:
+                    99:68:2c:d5:6e:c6:1a:cf:3a:65:63:22:f2:64:fb:
+                    fe:f7:e4:a3:ab:6a:2f:54:1f:37:d5:91:99:37:83:
+                    f3:14:39:cd:3d:52:d6:4f:5d:e3:c6:ff:2a:c1:14:
+                    16:e0:06:d6:f3:da:4d:d8:6c:70:2f:3d:0a:0e:28:
+                    74:cc:7c:50:9d:b5:42:8e:df:c9:45:47:f9:33:2e:
+                    51:ed
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            Netscape Comment: 
+                OpenSSL Generated Certificate
+            X509v3 Subject Key Identifier: 
+                D0:3F:A2:0F:F3:E8:82:6A:8D:FF:1F:54:E8:DE:A0:AA:90:E1:C6:24
+            X509v3 Authority Key Identifier: 
+                keyid:6D:D1:3B:A3:26:76:35:AB:6A:FE:D6:B0:CC:72:DD:9B:6E:33:80:B4
+                DirName:/C=IT/ST=MI/L=Milano/O=Sistemi_informativi/emailAddress=mangoni.massimiliano@hsacco.it
+                serial:AB:57:6C:5F:73:CF:1A:C5
+
+    Signature Algorithm: md5WithRSAEncryption
+        bd:18:3e:96:87:93:4d:83:da:7f:0f:47:ad:39:9a:43:90:5c:
+        6b:9b:0d:84:00:9f:cc:59:c9:38:8c:31:cc:78:38:f7:04:05:
+        6d:7e:d6:6b:7b:26:60:91:ad:aa:74:eb:60:cb:8a:b2:7c:60:
+        4a:7e:54:6a:19:b9:44:09:7b:29:4f:df:53:3c:32:c8:6e:cb:
+        d6:26:0a:08:6e:39:38:48:c3:9c:5f:b8:4c:96:21:2e:20:95:
+        1c:0c:d9:ee:6e:fd:9a:04:91:b7:8b:f9:10:33:39:7c:49:50:
+        61:45:79:d0:d9:1a:21:0b:3d:a7:d1:d2:58:6b:c0:46:58:de:
+        e2:1c:85:37:b1:99:02:b2:1a:4b:74:fd:22:b1:b7:87:27:97:
+        15:ff:a6:fc:9b:fd:7d:a1:27:72:a5:d4:4b:08:fb:9e:c0:f5:
+        e6:75:6e:76:2d:92:c0:18:58:a4:a1:21:b2:cf:a9:73:40:57:
+        9f:d2:dd:26:f0:1d:e7:bd:a1:4a:56:a7:22:8e:7c:48:b9:f4:
+        dd:69:c8:20:23:3f:de:cb:c6:2c:b8:f1:fe:9a:a3:8e:c3:27:
+        39:b5:54:8d:1c:3c:f2:75:c8:44:2b:06:e7:8e:4a:a7:63:a5:
+        7d:73:b5:86:83:d1:76:a4:c9:af:d5:f0:08:f5:89:d3:71:72:
+        b7:0e:f5:ff
+-----BEGIN CERTIFICATE-----
+MIIEqzCCA5OgAwIBAgIBWDANBgkqhkiG9w0BAQQFADB4MQswCQYDVQQGEwJJVDEL
+MAkGA1UECBMCTUkxDzANBgNVBAcTBk1pbGFubzEcMBoGA1UEChQTU2lzdGVtaV9p
+bmZvcm1hdGl2aTEtMCsGCSqGSIb3DQEJARYebWFuZ29uaS5tYXNzaW1pbGlhbm9A
+aHNhY2NvLml0MB4XDTEwMDEyNjEwMjUyNFoXDTIwMDEyNDEwMjUyNFowgawxCzAJ
+BgNVBAYTAklUMQswCQYDVQQIEwJNSTEPMA0GA1UEBxMGTWlsYW5vMRwwGgYDVQQK
+FBNTaXN0ZW1pX2luZm9ybWF0aXZpMQ8wDQYDVQQLEwZPZmZpY2UxITAfBgNVBAMT
+GG5vZW1hbGlmZS5tdXNpYW5pLmRhdmlkZTEtMCsGCSqGSIb3DQEJARYebWFuZ29u
+aS5tYXNzaW1pbGlhbm9AaHNhY2NvLml0MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8A
+MIIBCgKCAQEAzWBxp0EcjCRlvQXB/I+Wt/smeatJyjch1g/RvzlpfR0thPDwjhF4
+Ctz17GFDpJU4C1CwLtVu2kssrWreSJDyT/MQgJeIifchSCggqk5uMKDxNLWCaSSn
+fIz2F7DakZPd+Pz8oXZ4GcK8WvaRpT+amGvzEa0CYZ+ix/CeWuuMljmntdjMIYMh
+jZbpsQalfP76I9jiQjvbpjP3G8+nrhQz/Nh9z3wAm2JJeZ3scG0IadtH5i+ZaCzV
+bsYazzplYyLyZPv+9+Sjq2ovVB831ZGZN4PzFDnNPVLWT13jxv8qwRQW4AbW89pN
+2GxwLz0KDih0zHxQnbVCjt/JRUf5My5R7QIDAQABo4IBCTCCAQUwCQYDVR0TBAIw
+ADAsBglghkgBhvhCAQ0EHxYdT3BlblNTTCBHZW5lcmF0ZWQgQ2VydGlmaWNhdGUw
+HQYDVR0OBBYEFNA/og/z6IJqjf8fVOjeoKqQ4cYkMIGqBgNVHSMEgaIwgZ+AFG3R
+O6MmdjWrav7WsMxy3ZtuM4C0oXykejB4MQswCQYDVQQGEwJJVDELMAkGA1UECBMC
+TUkxDzANBgNVBAcTBk1pbGFubzEcMBoGA1UEChQTU2lzdGVtaV9pbmZvcm1hdGl2
+aTEtMCsGCSqGSIb3DQEJARYebWFuZ29uaS5tYXNzaW1pbGlhbm9AaHNhY2NvLml0
+ggkAq1dsX3PPGsUwDQYJKoZIhvcNAQEEBQADggEBAL0YPpaHk02D2n8PR605mkOQ
+XGubDYQAn8xZyTiMMcx4OPcEBW1+1mt7JmCRrap062DLirJ8YEp+VGoZuUQJeylP
+31M8Mshuy9YmCghuOThIw5xfuEyWIS4glRwM2e5u/ZoEkbeL+RAzOXxJUGFFedDZ
+GiELPafR0lhrwEZY3uIchTexmQKyGkt0/SKxt4cnlxX/pvyb/X2hJ3Kl1EsI+57A
+9eZ1bnYtksAYWKShIbLPqXNAV5/S3SbwHee9oUpWpyKOfEi59N1pyCAjP97Lxiy4
+8f6ao47DJzm1VI0cPPJ1yEQrBueOSqdjpX1ztYaD0Xakya/V8Aj1idNxcrcO9f8=
+-----END CERTIFICATE-----

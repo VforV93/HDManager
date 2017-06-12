@@ -1,0 +1,21 @@
+
+DB SENZA UTENTE:
+select r.idimpianto,r.nomeimpianto,r.attivoimpianto, p.id_impianto, p.nome, p.versione,p.sidporta,p.utente,p.pwd from impianti r, prodotti p 
+where r.idimpianto=p.id_impianto 
+and r.attivoimpianto='1'
+and p.nome like 'DB*'
+and p.utente=''
+
+IMPIANTI SENZA PRODOTTI:
+select r.idimpianto,r.idriferimento, r.nomeimpianto,r.attivoimpianto from impianti r
+where  r.attivoimpianto='1' 
+and r.idriferimento not in  (select id_riferimento from prodotti)
+and nomeimpianto not like 'W*';
+
+IMPIANTI SENZA SERVER:
+select r.idimpianto,r.idriferimento, r.nomeimpianto,r.attivoimpianto from impianti r
+where  r.attivoimpianto='1' 
+and r.idriferimento not in  (select id_riferimento from server)
+and nomeimpianto not like 'W*';
+
+172.20.32.92
