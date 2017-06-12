@@ -18,7 +18,7 @@ Public Class AnyConnect
 
     Public ReadOnly Property getName As String Implements IVPNConnection.getName
         Get
-            getName = "Pulse Secure"
+            getName = "AnyConnect"
         End Get
     End Property
 

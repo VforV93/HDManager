@@ -20,22 +20,21 @@ Public Class CiscoVPN
     End Property
 
     'Esegue delle verifiche preliminari per il corretto utilizzo della vpn 
-    Private Sub checks()
+    Private Function checks() As Boolean
         Dim PathVPN As String = My.Computer.FileSystem.SpecialDirectories.ProgramFiles & "\Cisco Systems\VPN Client\profiles\"
         If File.Exists(PathVPN & Rstdb("connessionestringa").Value.ToString & ".pcf") = False Then
             MsgBox("Certificato " & Rstdb("connessionestringa").Value.ToString & ".pcf non trovato nei profili della VPN Cisco" & vbCrLf &
                    "Aggiornare le VPN dal menù Strumenti per collegarsi automaticamente", MsgBoxStyle.Information)
-            Rstdb.Close()
-            Exit Sub
+            Return True
         End If
-    End Sub
-
-    Sub connect() Implements IVPNConnection.connect
-        checks()
-
         If File.Exists(My.Computer.FileSystem.SpecialDirectories.ProgramFiles & "\Cisco Systems\VPN Client\vpnclient.exe") = False OrElse File.Exists(My.Computer.FileSystem.SpecialDirectories.ProgramFiles & "\Cisco Systems\VPN Client\vpngui.exe") = False Then
             MsgBox("Impossibile trovare il client della VPN Cisco per connettersi", MsgBoxStyle.Information)
-            Rstdb.Close()
+            Return True
+        End If
+    End Function
+
+    Sub connect() Implements IVPNConnection.connect
+        If checks() Then
             Exit Sub
         End If
 

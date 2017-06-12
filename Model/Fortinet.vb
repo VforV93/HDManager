@@ -20,16 +20,15 @@ Public Class Fortinet
     End Property
 
     'Esegue delle verifiche preliminari per il corretto utilizzo della vpn 
-    Private Sub checks()
-
-    End Sub
-
-    Sub connect() Implements IVPNConnection.connect
-        checks()
-
+    Private Function checks() As Boolean
         If File.Exists(My.Computer.FileSystem.SpecialDirectories.ProgramFiles & "\Fortinet\Sslvpnclient\Fortisslvpnclient.exe") = False Then
             MsgBox("Impossibile trovare il client della Fortinet per connettersi", MsgBoxStyle.Information)
-            Rstdb.Close()
+            Return True
+        End If
+    End Function
+
+    Sub connect() Implements IVPNConnection.connect
+        If checks() Then
             Exit Sub
         End If
 

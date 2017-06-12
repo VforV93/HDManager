@@ -20,17 +20,18 @@ Public Class CheckPoint
     End Property
 
     'Esegue delle verifiche preliminari per il corretto utilizzo della vpn 
-    Private Sub checks()
-
-    End Sub
-
-    Sub connect() Implements IVPNConnection.connect
-        checks()
+    Private Function checks() As Boolean
         If File.Exists(My.Computer.FileSystem.SpecialDirectories.ProgramFiles & "\CheckPoint\Endpoint Connect\TrGUI.exe") = False Then
             MsgBox("Impossibile trovare il client della CheckPoint per connettersi", MsgBoxStyle.Information)
-            Rstdb.Close()
+            Return True
+        End If
+    End Function
+
+    Sub connect() Implements IVPNConnection.connect
+        If checks() Then
             Exit Sub
         End If
+        
         Dim p As New ProcessStartInfo
         p.FileName = My.Computer.FileSystem.SpecialDirectories.ProgramFiles & "\CheckPoint\Endpoint Connect\Trac.exe"
         p.Arguments = "connect -s " & Rstdb("connessionestringa").Value.ToString & " -u " & """" & Rstdb("utenteconnessione").Value.ToString & """" & " -p " & """" & Rstdb("passwordconnessione").Value.ToString & """"
