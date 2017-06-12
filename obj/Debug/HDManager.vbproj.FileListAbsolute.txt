@@ -214,3 +214,9 @@ C:\Users\flobue\Documents\Visual Studio 2015\Projects\HdManager\obj\Debug\HDMana
 C:\Users\flobue\Documents\Visual Studio 2015\Projects\HdManager\obj\Debug\HDManager.Resources.resources
 C:\Users\flobue\Documents\Visual Studio 2015\Projects\HdManager\obj\Debug\HDManager.RDP.resources
 C:\Users\flobue\Documents\Visual Studio 2015\Projects\HdManager\obj\Debug\HDManager.vbproj.GenerateResource.Cache
+C:\Users\Filippo\Documents\HDManager\bin\Release\HDManager.exe.config
+C:\Users\Filippo\Documents\HDManager\obj\Debug\Interop.WbemScripting.dll
+C:\Users\Filippo\Documents\HDManager\obj\Debug\HDManager.vbproj.ResolveComReference.cache
+C:\Users\Filippo\Documents\HDManager\obj\Debug\HDManager.exe
+C:\Users\Filippo\Documents\HDManager\obj\Debug\HDManager.xml
+C:\Users\Filippo\Documents\HDManager\obj\Debug\HDManager.pdb

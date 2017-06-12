@@ -4,8 +4,8 @@ Imports WbemScripting
 Public Class Main
     Public Cnndb As New ADODB.Connection
     Dim Rstdb, Rstdb2, Rstdb3 As New ADODB.Recordset
-    Dim Strconnect As String = "PROVIDER=Microsoft.Jet.OLEDB.4.0;DATA SOURCE=" & My.Application.Info.DirectoryPath & "\DatiGestioneHd.mdb;Persist Security Info=True;Jet OLEDB:Database Password=Noemalife_hd;"
-    'Dim Strconnect As String = "PROVIDER=Microsoft.Jet.OLEDB.4.0;DATA SOURCE=\\Serverhda\gestionehd\database\gestionehd.mdb;Persist Security Info=True;Jet OLEDB:Database Password=Noemalife_hd;"
+    Dim Strconnect As String = "PROVIDER=Microsoft.Jet.OLEDB.4.0;DATA SOURCE=" & My.Application.Info.DirectoryPath & "\DatiGestioneHd.mdb;Persist Security Info=True;Jet OLEDB:Database Password=;"
+    'Dim Strconnect As String = "PROVIDER=Microsoft.Jet.OLEDB.4.0;DATA SOURCE=\\Serverhda\gestionehd\database\gestionehd.mdb;Persist Security Info=True;Jet OLEDB:Database Password=;"
     Dim strsql As String
     Dim IdImpianto As Long
     Dim IdRiferimento As Long
@@ -109,7 +109,7 @@ Public Class Main
         End Try
 
         My.Settings.gestioneHDConnectionString = "Provider=Microsoft.Jet.OLEDB.4.0;Data Source=" & Application.StartupPath & _
-        "\DatiGestioneHD.mdb;Persist Security Info=True;Jet OLEDB:Database Password=Noemalife_hd"
+        "\DatiGestioneHD.mdb;Persist Security Info=True;Jet OLEDB:Database Password="
 
         Cnndb.Open(Strconnect)
         strsql = "select * from impianti where attivoimpianto='1' order by nomeimpianto asc"
@@ -1472,7 +1472,7 @@ Public Class Main
         End If
         'IMPORTO DIRETTAMENTE SUL DB SUL SERVER:
         Dim CnndbHDA As New ADODB.Connection
-        Dim StrconnectHDA As String = "PROVIDER=Microsoft.Jet.OLEDB.4.0;DATA SOURCE=\\noemanas\CustomerService\gestionehd\database\DatiGestionehd.mdb;Persist Security Info=True;Jet OLEDB:Database Password=Noemalife_hd;"
+        Dim StrconnectHDA As String = "PROVIDER=Microsoft.Jet.OLEDB.4.0;DATA SOURCE=\\noemanas\CustomerService\gestionehd\database\DatiGestionehd.mdb;Persist Security Info=True;Jet OLEDB:Database Password=;"
 
         CnndbHDA.Open(StrconnectHDA)
 
