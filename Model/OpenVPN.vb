@@ -20,7 +20,7 @@ Public Class OpenVPN
     End Property
 
     'Esegue delle verifiche preliminari per il corretto utilizzo della vpn 
-    Private Sub checks()
+    Private Function checks() As Integer
         Dim PathVPN As String = Application.StartupPath & "\vpn_hdmanager\openvpn\" & Rstdb("nomeconnessione").Value.ToString
         'Se non c'è proprio la cartella della Open vado all'avviso:
         If Directory.Exists(PathVPN) = False Then
@@ -45,18 +45,29 @@ NoOpenVPNDir:
         If OvpnFound = False Then
             MsgBox("Certificato " & Rstdb("connessionestringa").Value.ToString & " non trovato nei profili della OpenVPN" & vbCrLf &
                    "Aggiornare le VPN dal menù Strumenti per collegarsi automaticamente", MsgBoxStyle.Information)
-            Rstdb.Close()
-            Exit Sub
+            'Rstdb.Close() connessione chiusa dal Main, connect function
+            Return 1
         End If
-    End Sub
+
+        Return 0
+    End Function
 
     Sub connect() Implements IVPNConnection.connect
-        checks()
-        Dim PathVPN As String = Rstdb("Tipoconnessione").Value
-        If File.Exists(My.Computer.FileSystem.SpecialDirectories.ProgramFiles & "\OpenVpn\bin\openvpn-gui.exe") = False Then
-            MsgBox("Impossibile trovare il client della OpenVPN per connettersi", MsgBoxStyle.Information)
-            Rstdb.Close()
+        Dim client As String = My.Computer.FileSystem.SpecialDirectories.ProgramFiles & "\OpenVpn\bin\openvpn-gui.exe"
+
+        If checks() = 1 Then 'Se 1 si è verificato qualche problema
             Exit Sub
+        End If
+
+        Dim PathVPN As String = Rstdb("Tipoconnessione").Value
+        If File.Exists(client) = False Then
+            If File.Exists("C:\Program Files\OpenVpn\bin\openvpn-gui.exe") = True Then
+                client = "C:\Program Files\OpenVpn\bin\openvpn-gui.exe"
+            Else
+                MsgBox("Impossibile trovare il client della OpenVPN per connettersi", MsgBoxStyle.Information)
+                'Rstdb.Close()
+                Exit Sub
+            End If
         End If
 
         Dim Temp As Process()
@@ -73,8 +84,8 @@ NoOpenVPNDir:
         Application.DoEvents()
 
         Dim p As New ProcessStartInfo
-
-        p.FileName = My.Computer.FileSystem.SpecialDirectories.ProgramFiles & "\OpenVpn\bin\openvpn-gui.exe"
+        PathVPN = Application.StartupPath & "\vpn_hdmanager\openvpn\" & Rstdb("nomeconnessione").Value.ToString
+        p.FileName = client
         '"--silent_connection 1 "
         p.Arguments = "--config_dir " & """" & PathVPN & """" & " --connect " & """" & Rstdb("connessionestringa").Value.ToString & """"
 
@@ -84,11 +95,12 @@ NoOpenVPNDir:
         If Main.TxtUser.Text <> "" Then Main.TxtUser.Visible = True
         If Main.TxtPwd.Text <> "" Then Main.TxtPwd.Visible = True
 
-
+        MsgBox(Rstdb("passwordconnessione").Value.ToString)
         'PROVATO IL TIMER NELLA OPEN E FUNZIA... VALUTARE SE METTERLO:
         'Me.WindowState = FormWindowState.Minimized
         Main.Timer1.Enabled = True
-        Process.Start(p)
+        Dim Pr As Process = Process.Start(p)
+        Pr.WaitForInputIdle()
         Main.Timer2.Enabled = True
     End Sub
 

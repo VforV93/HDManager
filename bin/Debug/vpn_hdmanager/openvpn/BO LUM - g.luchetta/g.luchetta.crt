@@ -1,0 +1,98 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 150 (0x96)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=IT, ST=BO, L=Bologna, O=Ausl, CN=Ausl CA/emailAddress=sistemisti.auslbo@labs.it
+        Validity
+            Not Before: Aug 11 13:08:03 2015 GMT
+            Not After : Aug 10 13:08:03 2018 GMT
+        Subject: C=IT, ST=BO, L=Bologna, O=Ausl, CN=g.luchetta/emailAddress=sistemisti.auslbo@labs.it
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:b1:55:b3:b5:9a:2d:96:f9:b0:e8:5a:73:b9:3d:
+                    3a:ae:85:6f:e2:68:c4:53:a7:9f:38:d9:af:cc:cc:
+                    01:5e:14:29:12:93:d1:ae:48:44:86:53:6e:2f:31:
+                    a3:72:3f:7a:12:96:bd:0f:d0:b4:4b:f1:9d:90:58:
+                    8b:0e:1b:54:43:eb:f2:a9:64:62:c6:cc:8e:ba:f7:
+                    3e:fa:b6:45:05:cf:08:b8:6b:49:e3:a7:7f:49:51:
+                    ba:47:d0:be:df:5b:62:67:35:b4:f6:92:1c:63:4c:
+                    e0:0b:53:62:f3:c9:9d:69:9f:c8:1e:41:fe:7e:cf:
+                    d9:34:8c:25:79:82:39:ce:69:69:20:c6:63:98:f6:
+                    3e:a1:4b:5c:b9:ed:7d:cd:50:3f:cb:aa:61:ed:7c:
+                    c0:7a:19:4a:d0:06:40:ec:cd:65:83:a1:00:7e:c3:
+                    e4:aa:74:4e:d0:d8:22:7e:f0:7e:b3:d1:99:0f:8f:
+                    32:2a:ec:5e:18:a1:3d:14:86:5c:ef:d9:fa:1e:4a:
+                    9a:1d:4e:96:f5:ee:fb:8f:a3:a3:61:fe:53:72:00:
+                    f4:56:76:63:93:ec:df:0f:fd:93:cd:b8:e2:0f:61:
+                    3b:40:cc:ce:cb:74:be:ce:90:df:bb:e7:9a:2b:ce:
+                    0f:7e:93:57:da:85:a0:b7:f6:fd:6c:24:25:55:82:
+                    33:25
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 CRL Distribution Points: 
+
+                Full Name:
+                  URI:http://crl.ausl.bologna.it/wifitablet.crl
+
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            Netscape Comment: 
+                Easy-RSA Generated Certificate
+            X509v3 Subject Key Identifier: 
+                D7:87:0C:71:A6:D7:3D:4A:B1:51:05:3D:8F:50:EA:60:13:71:13:A6
+            X509v3 Authority Key Identifier: 
+                keyid:A3:F4:82:FA:F4:57:A4:BE:07:75:E0:D4:84:58:AA:93:93:E5:8B:F0
+                DirName:/C=IT/ST=BO/L=Bologna/O=Ausl/CN=Ausl CA/emailAddress=sistemisti.auslbo@labs.it
+                serial:E9:E1:E2:79:A8:56:FF:5D
+
+            X509v3 Extended Key Usage: 
+                TLS Web Client Authentication
+            X509v3 Key Usage: 
+                Digital Signature
+    Signature Algorithm: sha1WithRSAEncryption
+         62:ab:45:47:75:51:40:41:3f:82:ae:94:e7:a4:0e:cc:b1:dd:
+         4f:87:1e:02:d6:d2:78:67:ac:2c:9f:93:06:3f:78:dd:b3:58:
+         f6:01:ac:34:1f:55:55:b2:9c:11:28:8b:0a:2d:28:a3:c8:68:
+         a8:16:46:ff:f2:db:04:6e:ed:22:0c:65:c0:2d:d6:08:ab:7b:
+         5b:61:95:8c:cc:e8:1d:50:80:d0:f1:40:f7:81:4f:9a:c9:8c:
+         e8:4c:50:4e:f1:1d:ed:8a:cc:cb:dd:52:8b:02:95:ca:f4:09:
+         44:f2:99:a4:e5:35:b3:18:37:97:ef:b1:d1:81:c0:29:34:12:
+         67:6f:f2:51:32:c8:48:6f:a1:19:12:a6:d9:d6:9e:3f:80:d8:
+         c6:0f:11:ed:b7:f7:be:e9:f6:b4:6a:76:7a:f6:2b:2f:3d:28:
+         07:8e:b2:e0:fa:6f:75:fb:e0:2a:c0:aa:33:b3:eb:9a:1e:42:
+         88:dd:19:bc:62:fb:b7:20:e5:09:56:91:d6:8f:db:e1:15:40:
+         45:09:da:81:7b:e4:4c:2e:f4:67:4c:98:ab:ea:fb:ee:f3:cd:
+         9d:3a:a1:14:d1:06:c4:29:0e:30:fc:71:ff:a1:cb:f6:b2:19:
+         e0:c1:1a:0c:f7:00:93:e6:24:78:75:01:0a:81:11:29:6e:84:
+         66:97:4c:75
+-----BEGIN CERTIFICATE-----
+MIIE1jCCA76gAwIBAgICAJYwDQYJKoZIhvcNAQEFBQAwdzELMAkGA1UEBhMCSVQx
+CzAJBgNVBAgTAkJPMRAwDgYDVQQHEwdCb2xvZ25hMQ0wCwYDVQQKEwRBdXNsMRAw
+DgYDVQQDEwdBdXNsIENBMSgwJgYJKoZIhvcNAQkBFhlzaXN0ZW1pc3RpLmF1c2xi
+b0BsYWJzLml0MB4XDTE1MDgxMTEzMDgwM1oXDTE4MDgxMDEzMDgwM1owejELMAkG
+A1UEBhMCSVQxCzAJBgNVBAgTAkJPMRAwDgYDVQQHEwdCb2xvZ25hMQ0wCwYDVQQK
+EwRBdXNsMRMwEQYDVQQDEwpnLmx1Y2hldHRhMSgwJgYJKoZIhvcNAQkBFhlzaXN0
+ZW1pc3RpLmF1c2xib0BsYWJzLml0MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIB
+CgKCAQEAsVWztZotlvmw6FpzuT06roVv4mjEU6efONmvzMwBXhQpEpPRrkhEhlNu
+LzGjcj96Epa9D9C0S/GdkFiLDhtUQ+vyqWRixsyOuvc++rZFBc8IuGtJ46d/SVG6
+R9C+31tiZzW09pIcY0zgC1Ni88mdaZ/IHkH+fs/ZNIwleYI5zmlpIMZjmPY+oUtc
+ue19zVA/y6ph7XzAehlK0AZA7M1lg6EAfsPkqnRO0NgifvB+s9GZD48yKuxeGKE9
+FIZc79n6HkqaHU6W9e77j6OjYf5TcgD0VnZjk+zfD/2TzbjiD2E7QMzOy3S+zpDf
+u+eaK84PfpNX2oWgt/b9bCQlVYIzJQIDAQABo4IBZzCCAWMwOgYDVR0fBDMwMTAv
+oC2gK4YpaHR0cDovL2NybC5hdXNsLmJvbG9nbmEuaXQvd2lmaXRhYmxldC5jcmww
+CQYDVR0TBAIwADAtBglghkgBhvhCAQ0EIBYeRWFzeS1SU0EgR2VuZXJhdGVkIENl
+cnRpZmljYXRlMB0GA1UdDgQWBBTXhwxxptc9SrFRBT2PUOpgE3ETpjCBqQYDVR0j
+BIGhMIGegBSj9IL69Fekvgd14NSEWKqTk+WL8KF7pHkwdzELMAkGA1UEBhMCSVQx
+CzAJBgNVBAgTAkJPMRAwDgYDVQQHEwdCb2xvZ25hMQ0wCwYDVQQKEwRBdXNsMRAw
+DgYDVQQDEwdBdXNsIENBMSgwJgYJKoZIhvcNAQkBFhlzaXN0ZW1pc3RpLmF1c2xi
+b0BsYWJzLml0ggkA6eHieahW/10wEwYDVR0lBAwwCgYIKwYBBQUHAwIwCwYDVR0P
+BAQDAgeAMA0GCSqGSIb3DQEBBQUAA4IBAQBiq0VHdVFAQT+CrpTnpA7Msd1Phx4C
+1tJ4Z6wsn5MGP3jds1j2Aaw0H1VVspwRKIsKLSijyGioFkb/8tsEbu0iDGXALdYI
+q3tbYZWMzOgdUIDQ8UD3gU+ayYzoTFBO8R3tiszL3VKLApXK9AlE8pmk5TWzGDeX
+77HRgcApNBJnb/JRMshIb6EZEqbZ1p4/gNjGDxHtt/e+6fa0anZ69isvPSgHjrLg
++m91++AqwKozs+uaHkKI3Rm8Yvu3IOUJVpHWj9vhFUBFCdqBe+RMLvRnTJir6vvu
+882dOqEU0QbEKQ4w/HH/ocv2shngwRoM9wCT5iR4dQEKgREpboRml0x1
+-----END CERTIFICATE-----
