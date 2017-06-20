@@ -37,10 +37,15 @@ Public Class CheckPoint
         p.Arguments = "connect -s " & Rstdb("connessionestringa").Value.ToString & " -u " & """" & Rstdb("utenteconnessione").Value.ToString & """" & " -p " & """" & Rstdb("passwordconnessione").Value.ToString & """"
         Process.Start(p)
 
-        Main.CmdCPVpn.Show()
+        Main.CmdDisconnectVpn.Show()
     End Sub
 
     Public Sub disconnect() Implements IVPNConnection.disconnect
-        Throw New NotImplementedException()
+        Dim p As New ProcessStartInfo
+        p.FileName = My.Computer.FileSystem.SpecialDirectories.ProgramFiles & "\CheckPoint\Endpoint Connect\Trac.exe"
+        p.UseShellExecute = True
+        p.Arguments = "disconnect"
+        Process.Start(p)
+        Main.CmdDisconnectVpn.Hide()
     End Sub
 End Class

@@ -6,7 +6,29 @@ HDManager
 </name>
 </assembly>
 <members>
-<member name="T:HDManager.gestioneHDDataSet.ServerDataTable">
+<member name="P:HDManager.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:HDManager.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:HDManager.My.Resources.Resources.stopdial">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:HDManager.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="M:HDManager.FileHelper.GetFilesRecursive(System.String)">
+	<summary>
+ This method starts at the specified directory, and traverses all subdirectories.
+ It returns a List of those directories.
+ </summary>
+</member><member name="T:HDManager.gestioneHDDataSet.ServerDataTable">
 	<summary>
 Represents the strongly named DataTable class.
 </summary>
@@ -138,24 +160,6 @@ Used to sort self-referenced table's rows
 	<summary>
 TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
 </summary>
-</member><member name="P:HDManager.My.Resources.Resources.ResourceManager">
-	<summary>
-  Restituisce l'istanza di ResourceManager nella cache utilizzata da questa classe.
-</summary>
-</member><member name="P:HDManager.My.Resources.Resources.Culture">
-	<summary>
-  Esegue l'override della proprietà CurrentUICulture del thread corrente per tutte le
-  ricerche di risorse eseguite utilizzando questa classe di risorse fortemente tipizzata.
-</summary>
-</member><member name="T:HDManager.My.Resources.Resources">
-	<summary>
-  Classe di risorse fortemente tipizzata per la ricerca di stringhe localizzate e così via.
-</summary>
-</member><member name="M:HDManager.FileHelper.GetFilesRecursive(System.String)">
-	<summary>
- This method starts at the specified directory, and traverses all subdirectories.
- It returns a List of those directories.
- </summary>
 </member>
 </members>
 </doc>

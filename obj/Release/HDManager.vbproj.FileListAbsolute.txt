@@ -70,3 +70,32 @@ C:\Users\msacchetti\Documents\Visual Studio 2008\Projects\Hdmanager\HdManager\ob
 C:\Users\msacchetti\Documents\Visual Studio 2008\Projects\Hdmanager\HdManager\obj\Release\HDManager.exe
 C:\Users\msacchetti\Documents\Visual Studio 2008\Projects\Hdmanager\HdManager\obj\Release\HDManager.xml
 C:\Users\msacchetti\Documents\Visual Studio 2008\Projects\Hdmanager\HdManager\obj\Release\HDManager.pdb
+C:\Users\Filippo\Documents\HDManager\bin\Release\HDManager.exe.config
+C:\Users\Filippo\Documents\HDManager\obj\Release\Interop.WbemScripting.dll
+C:\Users\Filippo\Documents\HDManager\obj\Release\HDManager.vbproj.ResolveComReference.cache
+C:\Users\Filippo\Documents\HDManager\obj\Release\HDManager.exe
+C:\Users\Filippo\Documents\HDManager\obj\Release\HDManager.xml
+C:\Users\Filippo\Documents\HDManager\obj\Release\HDManager.pdb
+C:\Users\Filippo\Documents\HDManager\bin\Release\DatiGestioneHD.mdb
+C:\Users\Filippo\Documents\HDManager\bin\Release\HDManager.exe
+C:\Users\Filippo\Documents\HDManager\bin\Release\HDManager.pdb
+C:\Users\Filippo\Documents\HDManager\bin\Release\HDManager.xml
+C:\Users\Filippo\Documents\HDManager\bin\Release\WebKit.Interop.dll
+C:\Users\Filippo\Documents\HDManager\bin\Release\Interop.WbemScripting.dll
+C:\Users\Filippo\Documents\HDManager\obj\Release\HDManager.vbprojResolveAssemblyReference.cache
+C:\Users\Filippo\Documents\HDManager\obj\Release\HDManager.Aggiorna.resources
+C:\Users\Filippo\Documents\HDManager\obj\Release\HDManager.RicercaAvanzata.resources
+C:\Users\Filippo\Documents\HDManager\obj\Release\HDManager.HowTo.resources
+C:\Users\Filippo\Documents\HDManager\obj\Release\HDManager.Passaggi.resources
+C:\Users\Filippo\Documents\HDManager\obj\Release\HDManager.RdpUser.resources
+C:\Users\Filippo\Documents\HDManager\obj\Release\HDManager.VMElenco.resources
+C:\Users\Filippo\Documents\HDManager\obj\Release\HDManager.VmHD.resources
+C:\Users\Filippo\Documents\HDManager\obj\Release\HDManager.VMFULL.resources
+C:\Users\Filippo\Documents\HDManager\obj\Release\HDManager.Main.resources
+C:\Users\Filippo\Documents\HDManager\obj\Release\HDManager.Resources.resources
+C:\Users\Filippo\Documents\HDManager\obj\Release\HDManager.RDP.resources
+C:\Users\Filippo\Documents\HDManager\obj\Release\HDManager.vbproj.GenerateResource.Cache
+C:\Users\Filippo\Documents\HDManager\bin\Release\HDManager.exe.manifest
+C:\Users\Filippo\Documents\HDManager\bin\Release\HDManager.application
+C:\Users\Filippo\Documents\HDManager\obj\Release\HDManager.exe.manifest
+C:\Users\Filippo\Documents\HDManager\obj\Release\HDManager.application

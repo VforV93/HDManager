@@ -19,6 +19,10 @@ Public Class Main
     Dim vpnconnectionfactory As VPNConnectionFactory = New VPNConnectionFactory()
     Dim vpnconnection As IVPNConnection
 
+
+
+   
+
     Private Sub Main_FormClosed(ByVal sender As Object, ByVal e As System.Windows.Forms.FormClosedEventArgs) Handles Me.FormClosed
         MsgBox("closed")
         Lavora = Nothing
@@ -144,15 +148,14 @@ Public Class Main
         CmbImpianti.SelectAll()
     End Sub
 
-    Private Sub CmbImpianti_DropDown(ByVal sender As Object, ByVal e As System.EventArgs) Handles CmbImpianti.DropDown
-
-    End Sub
 
 
     Private Sub CmbImpianti_SelectedValueChanged(ByVal sender As Object, ByVal e As System.EventArgs) Handles CmbImpianti.SelectedValueChanged
-        If CmdMVpn.Visible = True Then
-            CmdMVpn_Click(CmbImpianti, e)
-            CmdMVpn.Hide()
+        If CmdDisconnectVpn.Visible = True Then
+            CmdDisconnectVpn_Click(CmbImpianti, e)
+            If CmdDisconnectVpn.Visible Then 'simulando il click dovrebbe già essere nascosto
+                CmdDisconnectVpn.Hide()
+            End If
         End If
 
         NomeVPN1.Checked = False
@@ -2104,27 +2107,12 @@ Public Class Main
 
         End Try
     End Sub
-    Private Sub CmdMVpn_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles CmdMVpn.Click
-        Dim p As New ProcessStartInfo
 
-        p.FileName = "rasdial.exe"
-        p.UseShellExecute = True
-        p.Arguments = "/disconnect"
-        Process.Start(p)
-        CmdMVpn.Hide()
-    End Sub
-    Private Sub CmdCPVpn_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles CmdCPVpn.Click
-        Dim p As New ProcessStartInfo
-        p.FileName = My.Computer.FileSystem.SpecialDirectories.ProgramFiles & "\CheckPoint\Endpoint Connect\Trac.exe"
-        p.UseShellExecute = True
-        p.Arguments = "disconnect"
-        Process.Start(p)
-        CmdCPVpn.Hide()
-    End Sub
-    Private Sub CmdAnyVpn_Click(sender As Object, e As EventArgs) Handles CmdAnyVpn.Click
+    Private Sub CmdDisconnectVpn_Click(ByVal sender As Object, ByVal e As EventArgs) Handles CmdDisconnectVpn.Click
         vpnconnection.disconnect()
-
-        CmdAnyVpn.Hide()
+        If CmdDisconnectVpn.Visible Then
+            CmdDisconnectVpn.Hide()
+        End If
     End Sub
 
     Private Sub CmdQueryMDB_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles CmdQueryMDB.Click
@@ -2282,6 +2270,14 @@ Public Class Main
 
     Private Sub RicAva_Click(sender As System.Object, e As System.EventArgs) Handles RicAva.Click
         RicercaAvanzata.Show()
+
+    End Sub
+
+  
+
+    Private Sub CmbImpianti_TextChanged(ByVal sender As Object, ByVal e As EventArgs) _
+     Handles CmbImpianti.TextChanged
+
 
     End Sub
 End Class

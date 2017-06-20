@@ -66,10 +66,16 @@ Public Class MicrosoftVPN
         p.FileName = Application.StartupPath & "\vpn_hdmanager\Mvpn\MVpn.bat"
 
         Process.Start(p)
-        Main.CmdMVpn.Visible = True
+        Main.CmdDisconnectVpn.Visible = True
     End Sub
 
     Public Sub disconnect() Implements IVPNConnection.disconnect
-        Throw New NotImplementedException()
+        Dim p As New ProcessStartInfo
+
+        p.FileName = "rasdial.exe"
+        p.UseShellExecute = True
+        p.Arguments = "/disconnect"
+        Process.Start(p)
+        Main.CmdDisconnectVpn.Hide()
     End Sub
 End Class

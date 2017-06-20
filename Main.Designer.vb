@@ -44,8 +44,6 @@ Partial Class Main
         Me.Indietro = New System.Windows.Forms.Button()
         Me.CmbImpianti = New System.Windows.Forms.ComboBox()
         Me.GroupVpn = New System.Windows.Forms.GroupBox()
-        Me.CmdCPVpn = New System.Windows.Forms.Button()
-        Me.CmdMVpn = New System.Windows.Forms.Button()
         Me.NomeVPN6 = New System.Windows.Forms.RadioButton()
         Me.NomeVPN5 = New System.Windows.Forms.RadioButton()
         Me.NomeVPN4 = New System.Windows.Forms.RadioButton()
@@ -187,7 +185,7 @@ Partial Class Main
         Me.TxtPwd = New System.Windows.Forms.TextBox()
         Me.TxtUser = New System.Windows.Forms.TextBox()
         Me.ToolTip1 = New System.Windows.Forms.ToolTip(Me.components)
-        Me.CmdAnyVpn = New System.Windows.Forms.Button()
+        Me.CmdDisconnectVpn = New System.Windows.Forms.Button()
         Me.Button1 = New System.Windows.Forms.Button()
         Me.DataGridView1 = New System.Windows.Forms.DataGridView()
         Me.DataGridViewTextBoxColumn1 = New System.Windows.Forms.DataGridViewTextBoxColumn()
@@ -289,7 +287,7 @@ Partial Class Main
         '
         'CmbImpianti
         '
-        Me.CmbImpianti.AutoCompleteMode = System.Windows.Forms.AutoCompleteMode.SuggestAppend
+        Me.CmbImpianti.AutoCompleteMode = System.Windows.Forms.AutoCompleteMode.Suggest
         Me.CmbImpianti.AutoCompleteSource = System.Windows.Forms.AutoCompleteSource.ListItems
         Me.CmbImpianti.Font = New System.Drawing.Font("Verdana", 9.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.CmbImpianti.FormattingEnabled = True
@@ -301,8 +299,7 @@ Partial Class Main
         '
         'GroupVpn
         '
-        Me.GroupVpn.Controls.Add(Me.CmdCPVpn)
-        Me.GroupVpn.Controls.Add(Me.CmdMVpn)
+        Me.GroupVpn.Controls.Add(Me.CmdDisconnectVpn)
         Me.GroupVpn.Controls.Add(Me.NomeVPN6)
         Me.GroupVpn.Controls.Add(Me.NomeVPN5)
         Me.GroupVpn.Controls.Add(Me.NomeVPN4)
@@ -319,32 +316,6 @@ Partial Class Main
         Me.GroupVpn.TabStop = False
         Me.GroupVpn.Text = "VPN"
         Me.GroupVpn.Visible = False
-        '
-        'CmdCPVpn
-        '
-        Me.CmdCPVpn.ForeColor = System.Drawing.Color.Navy
-        Me.CmdCPVpn.Image = Global.HDManager.My.Resources.Resources.stopdial
-        Me.CmdCPVpn.Location = New System.Drawing.Point(107, 172)
-        Me.CmdCPVpn.Margin = New System.Windows.Forms.Padding(4, 3, 4, 3)
-        Me.CmdCPVpn.Name = "CmdCPVpn"
-        Me.CmdCPVpn.Size = New System.Drawing.Size(50, 25)
-        Me.CmdCPVpn.TabIndex = 8
-        Me.ToolTip1.SetToolTip(Me.CmdCPVpn, "Disconnetti la CheckPoint VPN")
-        Me.CmdCPVpn.UseVisualStyleBackColor = True
-        Me.CmdCPVpn.Visible = False
-        '
-        'CmdMVpn
-        '
-        Me.CmdMVpn.ForeColor = System.Drawing.Color.Navy
-        Me.CmdMVpn.Image = Global.HDManager.My.Resources.Resources.stopdial
-        Me.CmdMVpn.Location = New System.Drawing.Point(102, 172)
-        Me.CmdMVpn.Margin = New System.Windows.Forms.Padding(4, 3, 4, 3)
-        Me.CmdMVpn.Name = "CmdMVpn"
-        Me.CmdMVpn.Size = New System.Drawing.Size(50, 25)
-        Me.CmdMVpn.TabIndex = 7
-        Me.ToolTip1.SetToolTip(Me.CmdMVpn, "Disconnetti la Microsoft VPN")
-        Me.CmdMVpn.UseVisualStyleBackColor = True
-        Me.CmdMVpn.Visible = False
         '
         'NomeVPN6
         '
@@ -466,31 +437,31 @@ Partial Class Main
         'GruppoAMenu
         '
         Me.GruppoAMenu.Name = "GruppoAMenu"
-        Me.GruppoAMenu.Size = New System.Drawing.Size(186, 26)
+        Me.GruppoAMenu.Size = New System.Drawing.Size(180, 24)
         Me.GruppoAMenu.Text = "Gruppo A"
         '
         'GruppoBMenu
         '
         Me.GruppoBMenu.Name = "GruppoBMenu"
-        Me.GruppoBMenu.Size = New System.Drawing.Size(186, 26)
+        Me.GruppoBMenu.Size = New System.Drawing.Size(180, 24)
         Me.GruppoBMenu.Text = "Gruppo B"
         '
         'TurnistiMenu
         '
         Me.TurnistiMenu.Name = "TurnistiMenu"
-        Me.TurnistiMenu.Size = New System.Drawing.Size(186, 26)
+        Me.TurnistiMenu.Size = New System.Drawing.Size(180, 24)
         Me.TurnistiMenu.Text = "Gruppo Turnisti"
         '
         'ElencoMenu
         '
         Me.ElencoMenu.Name = "ElencoMenu"
-        Me.ElencoMenu.Size = New System.Drawing.Size(186, 26)
+        Me.ElencoMenu.Size = New System.Drawing.Size(180, 24)
         Me.ElencoMenu.Text = "Elenco"
         '
         'MiniatureToolStripMenuItem
         '
         Me.MiniatureToolStripMenuItem.Name = "MiniatureToolStripMenuItem"
-        Me.MiniatureToolStripMenuItem.Size = New System.Drawing.Size(186, 26)
+        Me.MiniatureToolStripMenuItem.Size = New System.Drawing.Size(180, 24)
         Me.MiniatureToolStripMenuItem.Text = "Miniature"
         Me.MiniatureToolStripMenuItem.Visible = False
         '
@@ -504,25 +475,25 @@ Partial Class Main
         'HowToToolStripMenuItem
         '
         Me.HowToToolStripMenuItem.Name = "HowToToolStripMenuItem"
-        Me.HowToToolStripMenuItem.Size = New System.Drawing.Size(219, 26)
+        Me.HowToToolStripMenuItem.Size = New System.Drawing.Size(213, 24)
         Me.HowToToolStripMenuItem.Text = "HowTo"
         '
         'AggiornaVPNMenu
         '
         Me.AggiornaVPNMenu.Name = "AggiornaVPNMenu"
-        Me.AggiornaVPNMenu.Size = New System.Drawing.Size(219, 26)
+        Me.AggiornaVPNMenu.Size = New System.Drawing.Size(213, 24)
         Me.AggiornaVPNMenu.Text = "Aggiorna VPN"
         '
         'PassaggioConsegneMenu
         '
         Me.PassaggioConsegneMenu.Name = "PassaggioConsegneMenu"
-        Me.PassaggioConsegneMenu.Size = New System.Drawing.Size(219, 26)
+        Me.PassaggioConsegneMenu.Size = New System.Drawing.Size(213, 24)
         Me.PassaggioConsegneMenu.Text = "Passaggio Consegne"
         '
         'SpostaMonitorMenu
         '
         Me.SpostaMonitorMenu.Name = "SpostaMonitorMenu"
-        Me.SpostaMonitorMenu.Size = New System.Drawing.Size(219, 26)
+        Me.SpostaMonitorMenu.Size = New System.Drawing.Size(213, 24)
         Me.SpostaMonitorMenu.Text = "Sposta Monitor"
         '
         'LblImpianto
@@ -531,10 +502,10 @@ Partial Class Main
         Me.LblImpianto.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
         Me.LblImpianto.Font = New System.Drawing.Font("Verdana", 9.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.LblImpianto.ForeColor = System.Drawing.Color.RoyalBlue
-        Me.LblImpianto.Location = New System.Drawing.Point(613, 30)
+        Me.LblImpianto.Location = New System.Drawing.Point(601, 30)
         Me.LblImpianto.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.LblImpianto.Name = "LblImpianto"
-        Me.LblImpianto.Size = New System.Drawing.Size(73, 26)
+        Me.LblImpianto.Size = New System.Drawing.Size(85, 26)
         Me.LblImpianto.TabIndex = 68
         Me.LblImpianto.Text = "Impianto:"
         Me.LblImpianto.TextAlign = System.Drawing.ContentAlignment.MiddleRight
@@ -773,7 +744,7 @@ Partial Class Main
         Me.IpCol.HeaderText = "Ip"
         Me.IpCol.Name = "IpCol"
         Me.IpCol.ReadOnly = True
-        Me.IpCol.Width = 51
+        Me.IpCol.Width = 47
         '
         'AliasDataGridViewTextBoxColumn
         '
@@ -1205,7 +1176,7 @@ Partial Class Main
         Me.ModoDataGridViewTextBoxColumn.HeaderText = "Modo"
         Me.ModoDataGridViewTextBoxColumn.Name = "ModoDataGridViewTextBoxColumn"
         Me.ModoDataGridViewTextBoxColumn.ReadOnly = True
-        Me.ModoDataGridViewTextBoxColumn.Width = 79
+        Me.ModoDataGridViewTextBoxColumn.Width = 75
         '
         'DocumentazioneDataGridViewTextBoxColumn
         '
@@ -1216,7 +1187,7 @@ Partial Class Main
         Me.DocumentazioneDataGridViewTextBoxColumn.HeaderText = "Documentazione"
         Me.DocumentazioneDataGridViewTextBoxColumn.Name = "DocumentazioneDataGridViewTextBoxColumn"
         Me.DocumentazioneDataGridViewTextBoxColumn.ReadOnly = True
-        Me.DocumentazioneDataGridViewTextBoxColumn.Width = 163
+        Me.DocumentazioneDataGridViewTextBoxColumn.Width = 159
         '
         'IdImpiantoDataGridViewTextBoxColumn1
         '
@@ -1805,18 +1776,18 @@ Partial Class Main
         Me.TxtUser.Size = New System.Drawing.Size(149, 26)
         Me.TxtUser.TabIndex = 74
         '
-        'CmdAnyVpn
+        'CmdDisconnectVpn
         '
-        Me.CmdAnyVpn.ForeColor = System.Drawing.Color.Navy
-        Me.CmdAnyVpn.Image = Global.HDManager.My.Resources.Resources.stopdial
-        Me.CmdAnyVpn.Location = New System.Drawing.Point(1206, 300)
-        Me.CmdAnyVpn.Margin = New System.Windows.Forms.Padding(4, 3, 4, 3)
-        Me.CmdAnyVpn.Name = "CmdAnyVpn"
-        Me.CmdAnyVpn.Size = New System.Drawing.Size(50, 25)
-        Me.CmdAnyVpn.TabIndex = 81
-        Me.ToolTip1.SetToolTip(Me.CmdAnyVpn, "Disconnetti la CheckPoint VPN")
-        Me.CmdAnyVpn.UseVisualStyleBackColor = True
-        Me.CmdAnyVpn.Visible = False
+        Me.CmdDisconnectVpn.ForeColor = System.Drawing.Color.Navy
+        Me.CmdDisconnectVpn.Image = Global.HDManager.My.Resources.Resources.stopdial
+        Me.CmdDisconnectVpn.Location = New System.Drawing.Point(107, 172)
+        Me.CmdDisconnectVpn.Margin = New System.Windows.Forms.Padding(4, 3, 4, 3)
+        Me.CmdDisconnectVpn.Name = "CmdDisconnectVpn"
+        Me.CmdDisconnectVpn.Size = New System.Drawing.Size(50, 25)
+        Me.CmdDisconnectVpn.TabIndex = 81
+        Me.ToolTip1.SetToolTip(Me.CmdDisconnectVpn, "Disconnetti la CheckPoint VPN")
+        Me.CmdDisconnectVpn.UseVisualStyleBackColor = True
+        Me.CmdDisconnectVpn.Visible = False
         '
         'Button1
         '
@@ -2256,7 +2227,6 @@ Partial Class Main
         Me.BackColor = System.Drawing.Color.Gainsboro
         Me.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Center
         Me.ClientSize = New System.Drawing.Size(1276, 655)
-        Me.Controls.Add(Me.CmdAnyVpn)
         Me.Controls.Add(Me.RicAva)
         Me.Controls.Add(Me.CmdQueryMDB)
         Me.Controls.Add(Me.CmdScheda)
@@ -2458,7 +2428,6 @@ Partial Class Main
     Friend WithEvents CmdDna As System.Windows.Forms.Button
     Friend WithEvents ChkRdp As System.Windows.Forms.CheckBox
     Friend WithEvents ChkPutty As System.Windows.Forms.CheckBox
-    Friend WithEvents CmdMVpn As System.Windows.Forms.Button
     Friend WithEvents ChkWinScp As System.Windows.Forms.CheckBox
     Friend WithEvents CmdQueryMDB As System.Windows.Forms.Button
     Friend WithEvents TabRubrica As System.Windows.Forms.TabPage
@@ -2513,8 +2482,7 @@ Partial Class Main
     Friend WithEvents TestCol As System.Windows.Forms.DataGridViewCheckBoxColumn
     Friend WithEvents NoteDataGridViewTextBoxColumn As System.Windows.Forms.DataGridViewTextBoxColumn
     Friend WithEvents SpostaMonitorMenu As System.Windows.Forms.ToolStripMenuItem
-    Friend WithEvents CmdCPVpn As System.Windows.Forms.Button
     Friend WithEvents RicAva As System.Windows.Forms.Button
     Friend WithEvents GroupVpn As System.Windows.Forms.GroupBox
-    Friend WithEvents CmdAnyVpn As Button
+    Friend WithEvents CmdDisconnectVpn As Button
 End Class

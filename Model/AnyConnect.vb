@@ -86,7 +86,7 @@ Public Class AnyConnect
             Threading.Thread.Sleep(2500)
             Dim tmpSource As String = Application.StartupPath & "\tmpConnection.txt"
             Process.Start(Application.StartupPath & "\tmpConnection.bat")
-            Main.CmdAnyVpn.Visible = True
+            Main.CmdDisconnectVpn.Visible = True
         Else
             'se sono nel caso di AnyConnet NON Direct devo copiare il profilo dalla forlder vpn_hdmanager\anyConnect
             'nella cartella dei profili di Cisco
@@ -95,7 +95,7 @@ Public Class AnyConnect
                  Application.StartupPath & "\vpn_hdmanager\anyConnect\" & Rstdb("connessionestringa").Value,
                  Environment.GetFolderPath(Environment.SpecialFolder.CommonApplicationData) & "\Cisco\Cisco AnyConnect Secure Mobility Client\Profile\" & Rstdb("connessionestringa").Value)
             Process.Start(My.Computer.FileSystem.SpecialDirectories.ProgramFiles & "\Cisco\Cisco AnyConnect Secure Mobility Client\vpnui.exe")
-            Main.CmdAnyVpn.Visible = True
+            Main.CmdDisconnectVpn.Visible = True
 
             Main.TxtUser.Text = Rstdb("utenteconnessione").Value.ToString
             Main.TxtPwd.Text = Rstdb("passwordconnessione").Value.ToString
@@ -108,7 +108,7 @@ Public Class AnyConnect
     Public Sub disconnect() Implements IVPNConnection.disconnect
         If File.Exists(My.Computer.FileSystem.SpecialDirectories.ProgramFiles & "\Cisco\Cisco AnyConnect Secure Mobility Client\vpncli.exe") = False Then
             MsgBox("Impossibile trovare il client della VPN Cisco AnyConnect per disconnettersi", MsgBoxStyle.Information)
-            Rstdb.Close()
+            'Rstdb.Close()
             Exit Sub
         End If
 
